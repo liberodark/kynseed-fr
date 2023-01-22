@@ -1,0 +1,56 @@
+Name|I'm lost!
+Text|Thatterways will point you on your way. Summon them by setting a task on your list to Active, and then pressing <thatterway>.
+ID|thatterway
+Name|What is that? What is it for?
+Text|Wottyzits often hover over important items in the world. Interact with the marked object with <interact>.\nFind out more about most items in the game with the Bubble Help system. Press <bubblehelp> to show or hide the bubbles. Then select a bubble and <interact> for more information.
+ID|wottyzit
+Name|Ratings, or What are those stars on my fruit and veg?
+Text|Most collectable items in Quill have a quality star rating (1-5). Higher quality items may sell for more <link:brass>Brass<link>; have more powerful, longer-lasting <link:traits>effects<link>; and can even help you to make <link:friends>friends<link> more quickly. <link:proverbs>Proverbs<link> teach you how to boost the quality of the things that you find.
+ID|stars
+Name|How to make friends (or enemies) and influence people
+Text|You can gain Friendship Points (FP) by helping folk and raising friendship.\nAll Quillians have their likes and dislikes, and finding out about these can be the key to your relationship with a person.\nRegular gifts of liked or loved items will encourage people to look forward to your visits; tell you their life stories; share <link:proverbs>proverbs<link> and gossip about their neighbours; allow you to <link:itempermissions>take<link> things from their land, or even eventually give you access to their valuable family heirlooms! People are always particularly touched if you remember their birthdays...\nFolk will sometimes drop rather heavy hints for items with a particular <link:traits>trait<link>. Gifting a suitable item will make them grateful enough to answer your questions about other villagers, collectable items or some interesting lore.\nConversely, people will become much less well-disposed and helpful to you if you hurt them; give them things that they dislike, or mess up their homes.
+ID|friends
+Name|Earning Brass
+Text|As a child you can: do chores for Uncle Bill (he'll leave pocket money by your bed); sell things at the little Lemonade Stalls in Festival areas; use Selling Tables at Goods Stores; complete <link:apprenticeships>apprenticeships<link> for business owners and get non-combat tasks from the <link:noticeboards>Noticeboard<link>. Adults can save up to buy their own businesses and can take on dangerous but well-paid combat tasks from the <link:noticeboards>Noticeboard<link> or the Witchhunter (based in Homesteads tavern).
+ID|brass
+Name|Village Noticeboards
+Text|Noticeboards can be found in the main village in each area. Check these for details of events, markets and trader visits. Villagers can post tasks here that can earn you Brass or <link:friends>Friendship-Points<link>. Notices regenerate every day, but some dangerous, well-paying task types are only available to adults. Noticeboard tasks can always be handed in at a character's <link:mail>mailbox<link>. The reward won't be affected.
+ID|noticeboards
+Name|Apprenticeships
+Text|Children are invited to do apprenticeships in the Blacksmith and Apothecary for a small reward. Once you've completed these you can make items for yourself, or sell them to the business owner, although it costs ☎5 each time you use the shop's equipment. The Goods Store apprenticeship has a Brass reward and sets you up for owning your own store as an adult.
+ID|apprenticeships
+Name|Goddesses, Boons and Jinxes
+Text|The Goddesses expect offerings every 7th day, and failing to offer will earn you Jinxes. Interact with a Goddess statue to do so.\nGoddesses are paired, and offering to one partner will upset the other. Decide which beneficial boons or troublesome curses will fit best with your plans for the next week. You are not forced to make an offering to every pair.
+ID|goddesses
+Name|Finding a Person
+Text|If you have already met a person, then you can look up their home area in the Status screen <stats>. Use the World Map for help getting there, then use the Local Map <map> once in that region to spot their home. The <link:thatterway>Thatterway<link> can guide you to anybody's <link:mail>mailbox<link>, even if you have never met them.
+ID|findperson
+Name|Mail
+Text|Nearly all tasks can be handed in at a character's mailbox at their home. The reward won't be affected.\nYour mail comes to the farm. Check it regularly as you will get information about upcoming events and competitions; news from and about other characters; and gifts of items, proverbs or recipes from <link:friends>friends<link>.
+ID|mail
+Name|Tools
+Text|Increase your proficiency with fishing rods, pickaxes, sickles, slingshots, shovels and swords by using them. This unlocks useful perks, and can also improve the <link:stars>quality<link> of the items that you collect. Tool unlocks are separate from any <link:skills>skills<link> that you earn from Masters, like Twig. Check your proficiency level by viewing the tool in your inventory.\nProficiency applies to the type of tool - you can change from a tin to zinc sickle without penalty. Different metals affect the world in various ways, so it can be worth having more than one of each tool type (though you can only ever have one rod and pickaxe).
+ID|tools
+Name|Combat
+Text|Combat is for adults only. Visit Master Jogon in Rivermoor to learn the basics and unlock a vital skill.\nIn order of difficulty, the three combat areas are Simplewood, Midwood and Toughwood. Each has different inhabitants. In Simplewood, <link:fairweather>Mr. Fairweather<link> will revive you 4 times before taking a year of life as payment; Midwood - 2; and Toughwood once.\nPrepare for harder combat by <link:tools>levelling-up<link> your swords; collecting Wards and Charms; taking a cooked meal with <link:traits>traits<link> like Strength or Toughness; buying or crafting combat recipes at Apothecary's; and by unlocking <link:skills>skills<link> via Jogon and Moon.\nTake up to two pets into combat with you - different species have different abilities and some are particularly effective against certain enemies.
+ID|combat
+Name|Sleep and Save
+Text|Children must sleep every day 11pm-6am, but adults may stay up all night with no ill effects. The game auto-saves at 6am every day, and you can also choose to save at any time by sleeping in a bed at home. There is a skill you can unlock that will also allow saving away from home.
+ID|sleep
+Name|Traits
+Text|Traits affect people by temporarily changing their skills or demeanor, e.g. making them run faster, be more friendly or smell nice. Crafted items e.g. cooked meals alter traits for a longer duration, while <link:stars>higher-quality<link> items have more intense effects.  For example a high-quality pie will have a strong, long-lasting effect.
+
+A maximum of three traits can be active at one time.  Consuming a new item will replace any currently active traits.
+ID|traits
+Name|Item Permissions
+Text|You can only take fruit and vegetables from a garden when you have high enough <link:friends>friendship<link> with all residents of a home. Check the Monument Stone outside to find out your current level of friendship with that household.
+ID|itempermissions
+Name|Mr Fairweather
+Text|Adults can visit Mr Fairweather to buy his wares at any time by shining the Obscura on the Henge-portal to Briar. He will collect payment (years of Life Tax) for any goods or services at the end of the year.
+ID|fairweather
+Name|Proverbs
+Text|Proverbs are sheets of yellow paper that tell you how to find or improve the <link:stars>quality<link> of an item. They are scattered around the world; for sale in shops and from traders or can be passed on by <link:friends>friends<link>.\nLook for the item under the proverbs section of your inventory to check your collected tips before going gathering, fishing or fighting.
+ID|proverbs
+Name|Skills
+Text|You can unlock Skills by visiting the Masters scattered around Quill, and fulfilling their requirements. Gift them what they ask for and you can get new abilities that can improve your gardening, melee and ranged combat, cooking, exploring and fishing.
+ID|skills

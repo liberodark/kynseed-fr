@@ -1,0 +1,332 @@
+ModifierReward_SimShopDiscount |= Shop Discount
+ModifierReward_PayForGift |= Buys Item
+ModifierReward_NoStaminaLossAtFriendshipRating |= Hard Worker
+ModifierReward_NeverUnhappyWithPayAtFriendshipRating |= Cheap Worker
+ModifierReward_FaeShopDiscount |= Fae Discount
+
+GoToRegionsTaskCounter |= Places Visited: {COUNT}/{TOTAL}
+
+GoddessOfferingTask_Name |= {GODDESS} Offering
+GoddessOfferingTask_Desc |= Make an offering to {GODDESS}
+
+BigRequest_AfterTheFollowing |= is after the following:\n
+LostItem_AfterFound |= Return the {ITEMTAG} you found to {FULLNAME}
+
+Noticeboard_LostItemBasic_Name |= I've Dropped One!
+Noticeboard_LostItemBasic_Pinned |= {FULLNAME} lost a {ITEMTAG} in {LEVELNAME}
+Noticeboard_LostItemBasic_Desc |= Please keep your eyes peeled for my lost item.\n
+Noticeboard_LostItemBasic_Desc |= {FULLNAME} lost a {ITEMTAG} in {LEVELNAME}
+Noticeboard_LostItemBasic_Favour |= Could you keep an eye out? I seem to have lost my {ITEMTAG}. I was in {LEVELNAME} when I noticed it had gone missing. Thanks.
+
+Noticeboard_CookWantedBasic_Name |= Can cook, Will cook?
+Noticeboard_CookWantedBasic_Pinned |= {INTERNAL}
+Noticeboard_CookWantedBasic_Desc |= Homemade food required for sampling.\n{INTERNAL}
+Noticeboard_CookWantedBasic_Favour |= I would love to sample your cooking. Do you think you could make me something?
+
+Noticeboard_ItemWantedBasic_Name |= Item Wanted
+Noticeboard_ItemWantedBasic_Favour |= Could you help me out? I really need {ITEMNAME}, no questions asked.
+
+Noticeboard_BigRequestBasic_Name |= Hampered!
+Noticeboard_BigRequestBasic_Desc |= I need a bundle of items. Will pay well!\n{INTERNAL}
+Noticeboard_BigRequestBasic_Favour |= I am so run off my feet! I need a bunch of items but I have no time to gather them. Could you help me out? I'll pay well!
+
+Noticeboard_WinterFamine_Name |= Winter Stock Needed
+Noticeboard_WinterFamine_Desc |= Items required for my winter larder.\n{INTERNAL}
+Noticeboard_WinterFamine_Favour |= The winters are getting harsher. I need to stock up. If you have some spare {ITEMNAME}s then I would happily pay.
+
+Noticeboard_OreRush_Name |= Take Your Pick
+Noticeboard_OreRush_Desc |= Ore required. Good prices paid.\n{INTERNAL}
+Noticeboard_OreRush_Favour |= I am running short on ore. I would pay handsomely if you can help me get a lode.
+
+Noticeboard_ApothRequest_Level1_Name |= Medical Shortage
+Noticeboard_ApothRequest_Level1_Desc |= Apothecary running low on stock. Help appreciated.\n{INTERNAL}
+Noticeboard_ApothRequest_Level1_Favour |= Could you help me get a few bits and bobs? I am needing {ITEMNAME}s for the apothecary. It gets harder to find time these days.
+
+Noticeboard_ApothRequest_Level2_Name |= Stock Shortage
+Noticeboard_ApothRequest_Level2_Desc |= Help! The Apothecary is running low on materials. Can anyone help?\n{INTERNAL}
+Noticeboard_ApothRequest_Level2_Favour |= The apothecary is running a bit short on some decent-quality stuff. Could you help me stock up on {ITEMNAME}s?
+
+Noticeboard_ApothRequest_Level3_Name |= Apothalypse Now!
+Noticeboard_ApothRequest_Level3_Desc |= It's the end of the world! Well, it's the end of our stock. Need more!\n{INTERNAL}
+Noticeboard_ApothRequest_Level3_Favour |= Just the person! I am trying to find some quality stock for the apothecary. I am either too lazy or scared. Or both.
+
+Noticeboard_FishRequired_Name |= Grab Your Rod!
+Noticeboard_FishRequired_Desc |= Fisherman with good skills needed for a quality catch.\n{INTERNAL}
+Noticeboard_FishRequired_Favour |= What's happening is that I have an urge for some fish; specifically {ITEMNAME}. Could you help satisfy my craving?
+
+Noticeboard_AppleRequest_Name |= Got Apples?
+Noticeboard_AppleRequest_Desc |= Due to unforeseen circumstances, I require apples urgently.\n{INTERNAL}
+Noticeboard_AppleRequest_Favour |= I was just trying to get a lot of apples for a massive pie I want to make. Do you think you could help me get some?
+
+Noticeboard_UnfoundItemTypeHerb_Name |= Herb-voracious
+Noticeboard_UnfoundItemTypeHerb_Desc |= Herb needed. Discretion assured.\n{INTERNAL}
+Noticeboard_UnfoundItemTypeHerb_Favour |= I need to add some actual taste to my cooking. Have you got any {ITEMNAME}? I can never seem to find any.
+
+Noticeboard_NationalPieDay_Name |= Pie Day!
+Noticeboard_NationalPieDay_Desc |= Filled pastry goodness required for Pie Day.\n{INTERNAL}
+Noticeboard_NationalPieDay_Favour |= It's Pie Day! We make up this day when we feel like a nice pie. If you are making one, then it is customary to gift it to me and I reward you.
+
+Noticeboard_NationalJamDay_Name |= Let's Jam!
+Noticeboard_NationalJamDay_Desc |= Lovely, sweet Jam wanted to celebrate Jam Day.\n{INTERNAL}
+Noticeboard_NationalJamDay_Favour |= What is happening? You don't know? Why it's the Jam Jam! This is when we get creative and make jams.
+Noticeboard_NationalJamDay_Favour |= Granted they are usually the same kind, but if you have any then I would love to preserve your preserves in my belly.
+
+Noticeboard_NationalFishDay_Name |= Quite A Catch!
+Noticeboard_NationalFishDay_Desc |= Lots of lovely fish required for Fish Day!\n{INTERNAL}
+Noticeboard_NationalFishDay_Favour |= I am celebrating Fish Day. This was a day first introduced by the Angling Society of Quill as a way to promote fish. If you have any such product, I am duty-bound to take it off your hands for a reward.
+Noticeboard_NationalFishDay_Favour |= I have no idea how this all works really, just gift me a fish and no more said.
+
+Noticeboard_SpringSeedGrowers_Name |= Seedy Dealings
+Noticeboard_SpringSeedGrowers_Desc |= Local seed nut looking to boost collection.\n{INTERNAL}
+Noticeboard_SpringSeedGrowers_Favour |= I am on the lookout for seeds that grow in Spring. Have you got any such items for my procurement?
+
+Noticeboard_GoodStoreSummerdown_Name |= Feeling Fruity?
+Noticeboard_GoodStoreSummerdown_Desc |= We would be too if we had any. Stock of fruits needed as we are running low on vitamin C.\n{INTERNAL}
+Noticeboard_GoodStoreSummerdown_Favour |= This store is happening is what! It's THE place to be right now, but it won't be unless I get a big stock of er, stock in. Can you help me out?
+
+Noticeboard_WateringAid_Name |= Wearing Harvest
+Noticeboard_WateringAid_Desc |= Tending crops has done my back in. Can anyone help me out with some farming?\n{INTERNAL}
+Noticeboard_WateringAid_Favour |= I was thinking about watering my garden but why should I when there's a perfectly helpful person standing in front of me?
+
+Noticeboard_MonsterParts_Name |= A Monster Trade
+Noticeboard_MonsterParts_Desc |= I have some unwanted monster parts I am willing to swap. You could say I am an arms trader.\n{INTERNAL}
+Noticeboard_MonsterParts_Favour |= I am on the hunt for a monster pile of monster parts. I just don't want to get them fresh. Do you have any so I don't have to get my bands splattered with guts, and preferably not mine?
+
+Noticeboard_TinkerTaskBlacksmith_Name |= Tinkerer Blacksmith
+Noticeboard_TinkerTaskBlacksmith_ShortDesc |= Tinkerer Blacksmith
+Noticeboard_TinkerTaskBlacksmith_Desc |= Tinkerer Blacksmith
+Noticeboard_TinkerTaskBlacksmith_Desc_WithStatsUp |= Hammer-Time
+Noticeboard_TinkerTaskBlacksmith_Desc_WithStatsDown |= Oaf-Factory
+Noticeboard_TinkerTaskBlacksmith_Desc_SameDayOrderCrafting |= Prompt Service
+Noticeboard_TinkerTaskBlacksmith_Desc_MineAndCraft |= Freshly Minted
+Noticeboard_TinkerTaskBlacksmith_Desc_ForgeInOneDayOneOre |= Single Mine-dead
+Noticeboard_TinkerTaskBlacksmith_Desc_ForgeOneDayAnyOre |= Conveyor of Goods
+Noticeboard_TinkerTaskBlacksmith_Desc_MidnightOilClosedShop |= Burn the Midnight Oil
+
+Noticeboard_PetRescue_Name |= Missing Pet
+Noticeboard_PetRescue_Pinned |= {INTERNAL}
+Noticeboard_PetRescue_Desc |= My precious pet is missing. Last seen wandering into {LEVELNAME}. Can any brave souls help?.\n{INTERNAL}
+
+Noticeboard_SoupRequest_Name |= Hard Food is Bad
+Noticeboard_SoupRequest_Pinned |= Deliver any soup to {FULLNAME}
+Noticeboard_SoupRequest_ShortDesc |= Deliver soup
+Noticeboard_SoupRequest_Desc |= Who has any time to chew nowadays? I prefer food I can drink through a straw. Or hay.\n
+Noticeboard_SoupRequest_Desc |= Deliver any soup to {FULLNAME}.
+Noticeboard_SoupRequest_Favour |= Spare a cup 'o' soup guv'nor. That's what beggars used to say in ancient times. I would like a bowl or flask of soup though if there's any going...erm, guv'nor?
+
+Noticeboard_JamRequest_Name |= A Taste for Jammy Goodness
+Noticeboard_JamRequest_Pinned |= Deliver jam to {FULLNAME}
+Noticeboard_JamRequest_ShortDesc |= Deliver jam
+Noticeboard_JamRequest_Desc |= I could eat a whole jar to myself... but I probably shouldn't. That said, I definitely will.\n
+Noticeboard_JamRequest_Desc |= Deliver jam to {FULLNAME}.
+Noticeboard_JamRequest_Favour |= I need jam! All the jam! Bring me the jams!
+
+Noticeboard_StewRequest_Name |= Good Honest Stew Needed
+Noticeboard_StewRequest_Pinned |= Deliver a stew to {FULLNAME}
+Noticeboard_StewRequest_ShortDesc |= Deliver a stew
+Noticeboard_StewRequest_Desc |= A big hearty stew will set anyone right. Makes you ready for another days work.\n
+Noticeboard_StewRequest_Desc |= Deliver a stew to {FULLNAME}.
+Noticeboard_StewRequest_Favour |= How much stew could Stu stew if a stupid Stu could stew stew? If you ponder that and then bring me a lot of stew, then I will stop asking stupid questions.
+
+Noticeboard_PieRequest_Name |= Pastry for the Perfect
+Noticeboard_PieRequest_Pinned |= Deliver a pie to {FULLNAME}
+Noticeboard_PieRequest_ShortDesc |= Deliver a pie
+Noticeboard_PieRequest_Desc |= Nobody can eat as many pies as I can. Savoury or sweet, they're always a treat.\n
+Noticeboard_PieRequest_Desc |= Deliver a pie to {FULLNAME}.
+Noticeboard_PieRequest_Favour |= I was thinking of requesting a lot of pies, just to keep you busy and because I have some pie money set aside.
+
+Noticeboard_PuddingRequest_Name |= Urge for Pudding!
+Noticeboard_PuddingRequest_Pinned |= Deliver a pudding to {FULLNAME}
+Noticeboard_PuddingRequest_ShortDesc |= Deliver a pudding
+Noticeboard_PuddingRequest_Desc |= Who can resist a dessert? I always come back for seconds, thirds, fourths and sometimes, seventeenths.\n
+Noticeboard_PuddingRequest_Desc |= Deliver a pudding to {FULLNAME}.
+Noticeboard_PuddingRequest_Favour |= Oh I am just craving a bit of pudding. Well, to be blunt, a lot of pudding. I dreamed I was walking through the dessert and woke up hungering for some sweetness.
+
+Noticeboard_BreadRequest_Name |= Daily Bread Required
+Noticeboard_BreadRequest_Pinned |= Deliver bread to {FULLNAME}
+Noticeboard_BreadRequest_ShortDesc |= Deliver bread
+Noticeboard_BreadRequest_Desc |= Simple bread is more than enough for me. I sustain myself with the love of the Goddesses.\n
+Noticeboard_BreadRequest_Desc |= Deliver bread to {FULLNAME}.
+Noticeboard_BreadRequest_Favour |= Man can not live on bread alone they say. Well, I want to prove them wrong by building a bread house. First thing I need is a lot of bread. As the region's foremost fetcher and carrier, can you earn your crust?
+
+Noticeboard_SandwichRequest_Name |= Sandwich in Hand?
+Noticeboard_SandwichRequest_Pinned |= Deliver a sandwich to {FULLNAME}
+Noticeboard_SandwichRequest_ShortDesc |= Deliver a sandwich
+Noticeboard_SandwichRequest_Desc |= Can't go wrong with a classic sandwich. They are the best thing since sliced bread with a filling.\n
+Noticeboard_SandwichRequest_Desc |= Deliver a sandwich to {FULLNAME}.
+Noticeboard_SandwichRequest_Favour |= I am going to a Teddy Bear's Picnic soon and need a copious amount of sandwiches. You look like a good caterer willing to help a person out.
+
+Noticeboard_KillEliteRequest_ForestHag_Name |= Kill an elite forest hag
+Noticeboard_KillEliteRequest_ForestHag_Pinned |= Kill an elite forest hag in Simplewood
+Noticeboard_KillEliteRequest_ForestHag_Desc |= Kill an elite forest hag in Simplewood
+
+Noticeboard_GiveTraitRequest1_Name |= Apply {TRAITNAME} to {FULLNAME}
+Noticeboard_GiveTraitRequest1_Pinned |= Gift any item that has the {TRAITNAME} Trait to {FULLNAME}
+Noticeboard_GiveTraitRequest1_ShortDesc |= Gift an item with {TRAITNAME}
+Noticeboard_GiveTraitRequest1_Desc |= Gift any item that has the {TRAITNAME} Trait to {FULLNAME}.
+Noticeboard_GiveTraitRequest1_Favour |= I am a bit annoyed with someone. I would love it if they had a dose of {TRAITNAME}. I am too big a chicken though to do it, so could you?
+
+Noticeboard_GiveTraitRequest3_Name |= Apply {TRAITNAME}
+Noticeboard_GiveTraitRequest3_Pinned |= Apply {TRAITNAME} to 3 people
+Noticeboard_GiveTraitRequest3_ShortDesc |= Apply {TRAITNAME} to 3 people.
+Noticeboard_GiveTraitRequest3_Desc |= Gift any item that has the {TRAITNAME} Trait to:\n
+Noticeboard_GiveTraitRequest3_Desc |= - {FULLNAME_1}\n
+Noticeboard_GiveTraitRequest3_Desc |= - {FULLNAME_2}\n
+Noticeboard_GiveTraitRequest3_Desc |= - {FULLNAME_3}
+Noticeboard_GiveTraitRequest3_Favour |= I am feeling particularly mischievous today. Could you give three people {TRAITNAME}? I would do it myself but I get the feeling you'd enjoy it more.
+
+Noticeboard_CommonFruitOrVegRequest_Name |= I need my 5 a day!
+Noticeboard_CommonFruitOrVegRequest_Pinned |= Deliver a common fruit or veg to {FULLNAME}
+Noticeboard_CommonFruitOrVegRequest_ShortDesc |= Deliver a common fruit or veg
+Noticeboard_CommonFruitOrVegRequest_Desc |= I haven't had much time to forage or grow anything lately.\n
+Noticeboard_CommonFruitOrVegRequest_Desc |= Deliver a common fruit or veg to {FULLNAME}.
+Noticeboard_CommonFruitOrVegRequest_Favour |= I am on the hunt for some common fruit and veg, in bulk! This time of year I like to fill up the larder with the readily available stuff. Can you help?
+
+Noticeboard_CommonFruitOrVegRequest_S_Name |= I need my 5 a day!
+Noticeboard_CommonFruitOrVegRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_CommonFruitOrVegRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_CommonFruitOrVegRequest_S_Desc |= I haven't had much time to forage or grow anything lately.\n
+Noticeboard_CommonFruitOrVegRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_CommonFruitOrVegRequest_S_Favour |= I am on the hunt for some common fruit and veg, in bulk! This time of year I like to fill up the larder with the readily available stuff. Can you help me find a {ITEMTAG}?
+
+Noticeboard_RareFruitOrVegRequest_Name |= Only the Best Fruit & Veg Needed
+Noticeboard_RareFruitOrVegRequest_Pinned |= Deliver a rare fruit or veg to {FULLNAME}
+Noticeboard_RareFruitOrVegRequest_ShortDesc |= Deliver a rare fruit or veg
+Noticeboard_RareFruitOrVegRequest_Desc |= I'm partial to the produce you can rarely find in the Goods Store.\n
+Noticeboard_RareFruitOrVegRequest_Desc |= Deliver a rare fruit or veg to {FULLNAME}.
+Noticeboard_RareFruitOrVegRequest_Favour |= I am attempting to accumulate wealth. A wealth of rare fruit and vegetables. Ours is not to reason why; ours is but to do or not have lots of good produce. Help a pal out?
+
+Noticeboard_RareFruitOrVegRequest_S_Name |= Only the Best Fruit & Veg Needed
+Noticeboard_RareFruitOrVegRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_RareFruitOrVegRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_RareFruitOrVegRequest_S_Desc |= I'm partial to the produce you can rarely find in the Goods Store.\n
+Noticeboard_RareFruitOrVegRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_RareFruitOrVegRequest_S_Favour |= I am attempting to accumulate wealth. A wealth of rare fruit and vegetables. Ours is not to reason why; ours is but to do or not have lots of good produce. Help a pal out and find me a {ITEMTAG}?
+
+Noticeboard_FaeFruitOrVegRequest_Name |= Exotic Fruit & Veg Required
+Noticeboard_FaeFruitOrVegRequest_Pinned |= Deliver a fae fruit or veg to {FULLNAME}
+Noticeboard_FaeFruitOrVegRequest_ShortDesc |= Deliver a fae fruit or veg
+Noticeboard_FaeFruitOrVegRequest_Desc |= I'm looking for something a little 'different'. I don't suppose you've heard of such things?\n
+Noticeboard_FaeFruitOrVegRequest_Desc |= Deliver a fae fruit or veg to {FULLNAME}.
+Noticeboard_FaeFruitOrVegRequest_Favour |= I have just been complaining about the lack of exotic produce available. Sometimes we can get our hands on Fae fruit and vegetables, but they are pricey and getting them is dicey. I would pay top Brass for a bundle of goods from the other places.
+
+Noticeboard_FaeFruitOrVegRequest_S_Name |= Exotic Fruit & Veg Required
+Noticeboard_FaeFruitOrVegRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_FaeFruitOrVegRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_FaeFruitOrVegRequest_S_Desc |= I'm looking for something a little 'different'. I don't suppose you've heard of such things?\n
+Noticeboard_FaeFruitOrVegRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_FaeFruitOrVegRequest_S_Favour |= I have just been complaining about the lack of exotic produce available. Sometimes we can get our hands on Fae fruit and vegetables, but they are pricey and getting them is dicey. I would pay top Brass for a {ITEMTAG} from the other places.
+
+Noticeboard_CommonFishRequest_Name |= A Fishy Outcome!
+Noticeboard_CommonFishRequest_Pinned |= Deliver a common fish to {FULLNAME}
+Noticeboard_CommonFishRequest_ShortDesc |= Deliver a common fish
+Noticeboard_CommonFishRequest_Desc |= Could you catch me a run of the mill fish?\n
+Noticeboard_CommonFishRequest_Desc |= Deliver a common fish to {FULLNAME}.
+Noticeboard_CommonFishRequest_Favour |= My fishing skills have gone right down the river. Literally. I dropped my rod and it floated away.
+Noticeboard_CommonFishRequest_Favour |= I need a bundle of common fish to somehow make me feel better about myself.
+
+Noticeboard_CommonFishRequest_S_Name |= A Fishy Outcome!
+Noticeboard_CommonFishRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_CommonFishRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_CommonFishRequest_S_Desc |= Could you catch me a run of the mill fish?\n
+Noticeboard_CommonFishRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_CommonFishRequest_S_Favour |= My fishing skills have gone right down the river. Literally. I dropped my rod and it floated away.
+Noticeboard_CommonFishRequest_S_Favour |= I need a {ITEMTAG} to somehow make me feel better about myself.
+
+Noticeboard_RareFishRequest_Name |= A Slippery Challenge!
+Noticeboard_RareFishRequest_Pinned |= Deliver a rare fish to {FULLNAME}
+Noticeboard_RareFishRequest_ShortDesc |= Deliver a rare fish
+Noticeboard_RareFishRequest_Desc |= I honestly don't know if you'll be able to catch the type of fish I usually get for myself.\n
+Noticeboard_RareFishRequest_Desc |= Deliver a rare fish to {FULLNAME}.
+Noticeboard_RareFishRequest_Favour |= This may seem a bit forward, but could you help me get a load of rare fish? The reason is embarrassing, so discretion is required.
+
+Noticeboard_RareFishRequest_S_Name |= A Slippery Challenge!
+Noticeboard_RareFishRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_RareFishRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_RareFishRequest_S_Desc |= I honestly don't know if you'll be able to catch the type of fish I usually get for myself.\n
+Noticeboard_RareFishRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_RareFishRequest_S_Favour |= This may seem a bit forward, but could you help me get a {ITEMTAG}? The reason is embarrassing, so discretion is required.
+
+Noticeboard_FaeFishRequest_Name |= Fish from Afar!
+Noticeboard_FaeFishRequest_Pinned |= Deliver a fae fish to {FULLNAME}
+Noticeboard_FaeFishRequest_ShortDesc |= Deliver a fae fish
+Noticeboard_FaeFishRequest_Desc |= You won't find these fish in the rivers and ponds of Quill.\n
+Noticeboard_FaeFishRequest_Desc |= Deliver a fae fish to {FULLNAME}.
+Noticeboard_FaeFishRequest_Favour |= Don't ask, but I had a bet about Fae fish and I need a pile of them. It will be hilarious if I could get some. Could you help me out, seeing as you often prefer to accept these requests?
+
+Noticeboard_FaeFishRequest_S_Name |= Fish from Afar!
+Noticeboard_FaeFishRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_FaeFishRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_FaeFishRequest_S_Desc |= You won't find these fish in the rivers and ponds of Quill.\n
+Noticeboard_FaeFishRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_FaeFishRequest_S_Favour |= Don't ask, but I had a bet about Fae fish and I need a {ITEMTAG}. It will be hilarious if I could get one. Could you help me out, seeing as you often prefer to accept these requests?
+
+Noticeboard_CommonFlowerRequest_Name |= Fresh Flower Required
+Noticeboard_CommonFlowerRequest_Pinned |= Deliver a common flower to {FULLNAME}
+Noticeboard_CommonFlowerRequest_ShortDesc |= Deliver a common flower
+Noticeboard_CommonFlowerRequest_Desc |= I would love to have a fresh flower\n
+Noticeboard_CommonFlowerRequest_Desc |= Deliver a common flower to {FULLNAME}.
+Noticeboard_CommonFlowerRequest_Favour |= Who will buy these wonderful roses? Such a sight has never been seen! Well, it would be a sight if I had some common flowers to show off! Help!
+
+Noticeboard_CommonFlowerRequest_S_Name |= Fresh Flower Required
+Noticeboard_CommonFlowerRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_CommonFlowerRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_CommonFlowerRequest_S_Desc |= I would love to have a fresh flower\n
+Noticeboard_CommonFlowerRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_CommonFlowerRequest_S_Favour |= Who will buy these wonderful roses? Such a sight has never been seen! Well, it would be a sight if I had a {ITEMTAG} to show off! Help!
+
+Noticeboard_RareFlowerRequest_Name |= Rare Flower Needed
+Noticeboard_RareFlowerRequest_Pinned |= Deliver a rare flower to {FULLNAME}
+Noticeboard_RareFlowerRequest_ShortDesc |= Deliver a rare flower
+Noticeboard_RareFlowerRequest_Desc |= I prefer the wilder flowers. Do you even know where these grow?\n
+Noticeboard_RareFlowerRequest_Desc |= Deliver a rare flower to {FULLNAME}.
+Noticeboard_RareFlowerRequest_Favour |= I did something naughty and want to beg forgiveness from the person I wronged. I could use some help getting some rare flowers for a nice bouquet.
+
+Noticeboard_RareFlowerRequest_S_Name |= Rare Flower Needed
+Noticeboard_RareFlowerRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_RareFlowerRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_RareFlowerRequest_S_Desc |= I prefer the wilder flowers. Do you even know where these grow?\n
+Noticeboard_RareFlowerRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_RareFlowerRequest_S_Favour |= I did something naughty and want to beg forgiveness from the person I wronged. I could use some help getting a {ITEMTAG} for a nice bouquet.
+
+Noticeboard_FaeFlowerRequest_Name |= Special Gift of Strange Flowers
+Noticeboard_FaeFlowerRequest_Pinned |= Deliver a fae flower to {FULLNAME}
+Noticeboard_FaeFlowerRequest_ShortDesc |= Deliver a fae flower
+Noticeboard_FaeFlowerRequest_Desc |= I've never seen flower quite like these until now. The way they look and swear at you is enchanting.\n
+Noticeboard_FaeFlowerRequest_Desc |= Deliver a fae flower to {FULLNAME}.
+Noticeboard_FaeFlowerRequest_Favour |= Ring o ring o roses...a pocket full of fluff. I have no flowers to give to my sweetheart. Only blooms from the realms of the Fair Folk can do. A thousand thanks if you can supply me with some. Or some Brass.
+
+Noticeboard_FaeFlowerRequest_S_Name |= Special Gift of Strange Flowers
+Noticeboard_FaeFlowerRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_FaeFlowerRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_FaeFlowerRequest_S_Desc |= I've never seen flower quite like these until now. The way they look and swear at you is enchanting.\n
+Noticeboard_FaeFlowerRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_FaeFlowerRequest_S_Favour |= Ring o ring o roses...a pocket full of fluff. I have no flowers to give to my sweetheart. Only blooms from the realms of the Fair Folk can do. A thousand thanks if you can supply me with a {ITEMTAG}. Or some Brass.
+
+Noticeboard_HerbRequest_Name |= Herbs Needed
+Noticeboard_HerbRequest_Pinned |= Deliver a herb to {FULLNAME}
+Noticeboard_HerbRequest_ShortDesc |= Deliver a herb
+Noticeboard_HerbRequest_Desc |= Herbs are very useful for cooking. I also like to stick them up my nose.\n
+Noticeboard_HerbRequest_Desc |= Deliver a herb to {FULLNAME}.
+Noticeboard_HerbRequest_Favour |= I decided to stuff my mattress full of herbs to keep away every type of Hag, Scorn, Wibblenymph, Grogglesnatch, Chunderloon, Pappletweep, Humphy Dumphy, Earcrawler, Snarkle and Face-eating Inklydinklypoo. Can you help me by getting lots of herbs and please also tell me some of those were made up?
+
+Noticeboard_HerbRequest_S_Name |= Herbs Needed
+Noticeboard_HerbRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_HerbRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_HerbRequest_S_Desc |= Herbs are very useful for cooking. I also like to stick them up my nose.\n
+Noticeboard_HerbRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_HerbRequest_S_Favour |= I decided to stuff my mattress full of herbs to keep away every type of Hag, Scorn, Wibblenymph, Grogglesnatch, Chunderloon, Pappletweep, Humphy Dumphy, Earcrawler, Snarkle and Face-eating Inklydinklypoo. Can you help me by getting a {ITEMTAG} and please also tell me some of those were made up?
+
+Noticeboard_CommonMonsterPartsRequest_Name |= Common Monster Parts Required
+Noticeboard_CommonMonsterPartsRequest_Pinned |= Deliver a common monster part to {FULLNAME}
+Noticeboard_CommonMonsterPartsRequest_ShortDesc |= Deliver a common monster part
+Noticeboard_CommonMonsterPartsRequest_Desc |= A little strange I know, but could you get a hold of these monster parts for me. Just don't ask why I need them.\n
+Noticeboard_CommonMonsterPartsRequest_Desc |= Deliver a common monster part to {FULLNAME}.
+Noticeboard_CommonMonsterPartsRequest_Favour |= What are ya buyin'? What are ya sellin'? Well, I am buyin' common monster parts if you are sellin', or at least gifting if that's the mechanic we are bound to for this interaction.
+
+Noticeboard_CommonMonsterPartsRequest_S_Name |= Common Monster Parts Required
+Noticeboard_CommonMonsterPartsRequest_S_Pinned |= Deliver a {ITEMTAG} to {FULLNAME}
+Noticeboard_CommonMonsterPartsRequest_S_ShortDesc |= Deliver a {ITEMTAG}
+Noticeboard_CommonMonsterPartsRequest_S_Desc |= A little strange I know, but could you get a hold of these monster parts for me. Just don't ask why I need them.\n
+Noticeboard_CommonMonsterPartsRequest_S_Desc |= Deliver a {ITEMTAG} to {FULLNAME}.
+Noticeboard_CommonMonsterPartsRequest_S_Favour |= What are ya buyin'? What are ya sellin'? Well, I am buyin' a {ITEMTAG} if you are sellin', or at least gifting if that's the mechanic we are bound to for this interaction.

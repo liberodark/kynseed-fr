@@ -1,0 +1,23 @@
+MusicStart=0;Bard music
+Lyric=3;There was a young woman called Mary
+Lyric=3;Whose lips were as soft as a fairy
+Lyric=3;I looked in her eyes
+Lyric=2.5;And to my great surprise
+Lyric=4;Discovered her hands were all hairy
+MusicEnd=21;Bard music
+
+MusicStart=24;Bard music
+Lyric=3;I courted a lady from Briar
+Lyric=3;Whose shapeshifting made me perspire
+Lyric=2;She was a bit of a fox
+Lyric=2;With long flowing locks
+Lyric=3;And her bite was as hot as a fire
+MusicEnd=46;Bard music
+
+MusicStart=48;Bard music
+Lyric=3;I saw a cat ride a deer
+Lyric=3;While hamsters gave a big cheer
+Lyric=3;The little dog laughed
+Lyric=3;At his legs like giraffe's
+Lyric=3;I think I should stop drinking beer
+MusicEnd=70;Bard music

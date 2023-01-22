@@ -1,0 +1,2 @@
+MusicStart=0;Mummer music
+MusicEnd=80;Mummer music

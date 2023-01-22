@@ -1,0 +1,263 @@
+GiftRequest_Stamina |= I'm going to be on my feet for most of today. I hope I have enough stamina to keep going.
+GiftRequest_Stamina |= I am starting to run on empty. I could do with upping my stamina a bit.
+GiftRequest_Stamina[P] |= The spirit is willing but the knees are weak!  I'll need plenty of stamina to get through kneeling in front of the statues for the whole of Goddess Day.
+GiftRequest_Stamina[J] |= I laughed so much at a joke earlier I ran out of stamina.
+GiftRequest_Stamina[B] |= I don't usually need more stamina, as my lungs are the size of a Buggane's, but even people like me sometimes need a boost.
+GiftRequest_Stamina[Q] |= I often dream of having the stamina to reply to such questions.
+GiftRequest_Stamina[C] |= A Quillian's work is never done! I just don't have enough stamina to get through the days.
+GiftRequest_Stamina[C] |= When you're as busy as I am you need all the stamina you can get.
+GiftRequest_Stamina[Kids] |= Got a list of chores longer than these hand-me-down pants!  Never going to have the stamina to get them done and win the Baa, Cluck, Oink league as well unless I get some help.
+
+GiftRequest_Intelligence |= Reading books isn't enough. I need to experience life if I want to increase my intelligence.
+GiftRequest_Intelligence |= Some days I don't feel so bright. I wish I had the brains to cope with all that life throws my way.
+GiftRequest_Intelligence |= I'm trying to learn more about the world around us. If only I was intelligent I might be able to retain more of that knowledge.
+GiftRequest_Intelligence[P] |= Got some lovely new books about the Goddesses today.  Am going to need plenty of intelligence to appreciate them properly.
+GiftRequest_Intelligence[J] |= I'm off down to the Tavern Quiz soon. Going to need plenty of intelligence to enjoy my ale AND beat those pious buggers in Team Tea-Total!
+GiftRequest_Intelligence[B] |= If you want to stay smart then you need to feed that intelligence fairy that lives in your head-bone. The proper term is skull, you know?
+GiftRequest_Intelligence[Q] |= I am having one of those days where I can't even add up the fingers on my middle hand. Was there a Thick Fog I din't notice?
+GiftRequest_Intelligence[C] |= Why does everything have to be so complicated these days?  Time was when bartering just meant swapping yer cabbage for a carrot.  Now its all spinning numbers around in yer head.  Takes more intelligence than I've got!
+GiftRequest_Intelligence[Kids] |= Gettin' tested on my studyin' tomorra.  I can now read a hole line and even speak like I can't rite. I need to lurn quicker.
+
+GiftRequest_Strength |= I want to increase my strength but i'm not sure what foods are the healthiest.
+GiftRequest_Strength |= Goddesses give me strength!  What a day I'm having.
+GiftRequest_Strength |= I need to keep my strength up if I want to achieve everything I set out to do today.
+GiftRequest_Strength[P] |= My strength is as the strength of ten Hobs because my heart is pure! Or at least it will be if I can really please Hyalis this week...can you help?
+GiftRequest_Strength[J] |= Well blow me down and call me a leaf! You could actually do that, due to my poor strength!
+GiftRequest_Strength[B] |= I want to be the strongest in all Quill, or at least stronger, just to keep up my air of superiority.
+GiftRequest_Strength[Q] |= They used to call me the muscles from brussels, because I had arms like sprouts. These days my arms are like pencils. I do need to work on my upper body strength.
+GiftRequest_Strength[C] |= I hate my arms! Why do we have them? They are always never strong enough to pick heavy things up.
+GiftRequest_Strength[Kids] |= When I become of age I want to be strong like The Wright!
+
+GiftRequest_Barter |= I'm off to the market soon. I could do with brushing up on my bartering skills.
+GiftRequest_Barter |= I keep getting a rubbish price for my tomatoes when bartering at the market.  Do you know of anything that would help me get better deals?  
+GiftRequest_Barter[P] |= I want to barter for some really good produce to offer to the Goddesses this week.  Can you help me get a good deal?
+GiftRequest_Barter[J] |= I would love to be like my old pal Marvin. He was a great haggler. He could get some knockout prices on boxes.
+GiftRequest_Barter[J] |= All work and no play makes Jack a bad barterer.
+GiftRequest_Barter[B] |= I could negotiate my way out of a Dragon's belly, but could always just up my Barter stat a bit.
+GiftRequest_Barter[Q] |= I am feeling like I am going to get ripped off, so a boost to my bartering ability might be just the ticket, or voucher, to success.
+GiftRequest_Barter[C] |= Stuff is so expensive nowadays. It takes an age to barter people down to a reasonable price.
+GiftRequest_Barter[Kids] |= I only get enough chore's money for one-and-a-half Candy Squirrels. Do you think theres any way I can barter with old meanie in the shop to let me have more to add to my winter hoard?
+
+GiftRequest_Charm |= It's nice to make a good first impression. I need to be a little more charming around new people.
+GiftRequest_Charm |= Have you anything that can make me a charmer? I have an upcoming meeting and I want to be at my best.
+GiftRequest_Charm[P] |= Sometimes, being so pious can make me seem cold. A boost to charm might be the medicine to cure this coldness.
+GiftRequest_Charm[J] |= I know I am funny but I like to keep up that appearance. It's a lot of pressure, can you help boost my charm?
+GiftRequest_Charm[B] |= Of course I've never needed a boost to my Charm as everyone always adores me on sight.  I mean look at you now, giving me a charming gift because I'm so fabulous.
+GiftRequest_Charm[Q] |= I want to charm the hind legs off a donkey, even though they are extinct.
+GiftRequest_Charm[C] |= Why do people talk behind my back? Am I not charming enough? 
+GiftRequest_Charm[Kids] |= Adults always say manners maketh man. I would like to grow up just so I can taste beer, so I need some charm lessons.
+
+GiftRequest_Accuracy |= When I was younger I could slingshot the shell off a snail at 50 paces. Now I am so inaccurate I can't even hit my front door from the welcome mat.
+GiftRequest_Accuracy |= Let's keep this simple. I need to be more accurate.
+GiftRequest_Accuracy[P] |= I was throwing fruit into an offering bowl and missed. How can I stop doing that?
+GiftRequest_Accuracy[J] |= I would love to win a prize at that Vale marbles game! I am terrible at it!
+GiftRequest_Accuracy[B] |= A true hunter like myself knows the benefits of good training. I should stay accurate and focused.
+GiftRequest_Accuracy[Q] |= Is it accurate to say that if I can't hit a target, I am inaccurate?
+GiftRequest_Accuracy[C] |= I really despise not being able to thread a needle. Why do they make the holes so small? I need better hand/eye coordination.
+GiftRequest_Accuracy[Kids] |= Wish I was more accurate with a slingshot.  I could earn some decent chores money if I could hit the trees instead of the cat, the dog, passing chickens and the odd groundfish. 
+
+GiftRequest_Clumsiness |= I need something that has clumsiness in it. Don't ask why.
+GiftRequest_Clumsiness |= I am unable to drop anything. I wish I was clumsier!
+GiftRequest_Clumsiness[P] |= The Goddesses might think I am too precise and careful. I need to make sure I am always lesser than them.
+GiftRequest_Clumsiness[J] |= I am thinking that being clumsy would add so much to my comedy repertoire.
+GiftRequest_Clumsiness[B] |= I am the most careful person in Quill. Now I want to take the crown of clumsiest.
+GiftRequest_Clumsiness[Q] |= I have a bad habit of catching hot food I spill. I wish I wasn't so good at catching!
+GiftRequest_Clumsiness[C] |= Why are people so clumsy? It's not right that I am not!
+GiftRequest_Clumsiness[Kids] |= I wish I was clumsier than my friends! Us kids love having accidents.
+
+GiftRequest_Constitution |= I can feel a cough coming on. Need to up my constitution.
+GiftRequest_Constitution |= I seem to catch things so easily these days. I need a much stronger constitution!
+GiftRequest_Constitution[P] |= The Goddesses prefer those who have a strong constitution for the rigours of worship.
+GiftRequest_Constitution[J] |= I laugh and joke so much I leave my body weak for nasty maladies. My constitution is obviously not as strong as my sense of humour.
+GiftRequest_Constitution[B] |= I boast a strong constitution but today it is letting me down.
+GiftRequest_Constitution[Q] |= Negative status effects have got me today. If I had some way to make my constitution stronger, then I'd be a role-players dream character.
+GiftRequest_Constitution[C] |= I can't seem to shake this ill feeling. I just don't have the constitution to get over it.
+GiftRequest_Constitution[Kids] |= I keep getting sore throats from playing with frogs. Doctor person says I have bad constitutionibum.
+
+GiftRequest_Toughness |= I need to toughen up!
+GiftRequest_Toughness |= Feeling a bit weak. Need to get tough.
+GiftRequest_Toughness[P] |= It hurts my knees worshipping. I do wish I was a bit more tough and resilient.
+GiftRequest_Toughness[J] |= You have to laugh. Just a few hours ago I got bruised by an apple. It had tougher skin than me!
+GiftRequest_Toughness[B] |= I know I am regarded as a tough person, but I could always be tougher.
+GiftRequest_Toughness[B] |= When you deal with the things I do you need to be as tough as possible.
+GiftRequest_Toughness[Q] |= I got a splinter in my nose from sniffing wood. I wish I was a bit tougher so I can smell the wood from the trees.
+GiftRequest_Toughness[C] |= Why is it that these days a person really struggles to get tougher?
+GiftRequest_Toughness[Kids] |= I keep getting beaten up by mice. Can you make me tough?
+
+GiftRequest_Speed |= I've got a lot of walking to do today, I need to pick up the pace and speed along.
+GiftRequest_Speed |= I am on a go slow today. I need to pick up the pace.
+GiftRequest_Speed |= I have so much to do but can't get it all done fast enough!
+GiftRequest_Speed[P] |= I feel like treacle today. I need to speed up a bit!
+GiftRequest_Speed[J] |= I need to fire off my jokes a lot faster. What could give me more speed?
+GiftRequest_Speed[B] |= I am the fastest person in my household. I want to remain that way!
+GiftRequest_Speed[Q] |= I feel the need! Feel the need for speed! I might get a road rash if I was faster!
+GiftRequest_Speed[C] |= The world moves too fast, I need to catch up.
+GiftRequest_Speed[Kids] |= I wish I could run as fast as a rabbit!
+
+GiftRequest_Sedative |= I could use a strong sedative right now! Or even a weak one.
+GiftRequest_Sedative |= The world goes by too fast. I could use a more sedate pace.
+GiftRequest_Sedative[P] |= My mind is racing with worry over what to offer the Goddesses. I need something to sedate it.
+GiftRequest_Sedative[J] |= I may be cheery but now and then I need something to slow me down and let my brain sleep.
+GiftRequest_Sedative[B] |= I ran all around the haven and now am buzzing like a bee. I need to slow down and take a more sedate pace!
+GiftRequest_Sedative[Q] |= I am trying out different traits and today's is sedative. Can you help?
+GiftRequest_Sedative[C] |= Everyone moves too fast in this day and age and carries me along with them. I need to slow right down. If only I had a sedative. Ahem.
+GiftRequest_Sedative[Kids] |= I keep dashing around like a mayfly! I need to slow down a bit before I get hurt!
+
+GiftRequest_Virility |= I have had some trouble with my, erm, vigour. I could do with some kind of virility boost.
+GiftRequest_Virility |= My baby-making abilities are not so good lately. I am fine admitting that. Never be afraid to ask for help.
+GiftRequest_Virility[P] |= The Goddesses are very specific about when someone can make a baby. They want to be pleased, and a higher virility aids that.
+GiftRequest_Virility[J] |= Impotence is no laughing matter.
+GiftRequest_Virility[B] |= I am the best lover in Quill, but I could be better.
+GiftRequest_Virility[Q] |= I have been experimenting lately with all sorts of positions. Stood up, sat down. On my front, on one leg. I still can't get my pants off. Anyway, got anything for my virility?
+GiftRequest_Virility[C] |= People have such high standards! Unless I boost my loving prowess, then I am going to remain in the average club.
+
+GiftRequest_Healing |= I've got a minor injury that needs healing.
+GiftRequest_Healing[P] |= I believe in faith healing, but it's not helping ths awful headache.
+GiftRequest_Healing[J] |= I laughed so hard at my own jokes that I pulled a muscle! Ouch!
+GiftRequest_Healing[B] |= I feel rough today, which is unusual as my body is a temple. Today it's a ruined one. 
+GiftRequest_Healing[Q] |= I have a bit of a head, leg, arm, chest, belly, leg, foot and bottom ache.
+GiftRequest_Healing[C] |= I get more and more twinges every day it seems.
+GiftRequest_Healing[Kids] |= I hurt my finger! Somebody bit it!
+
+GiftRequest_Insomnia |= I really don't want to sleep tonight as I am planning a midnight feast.
+GiftRequest_Insomnia |= I am struggling with drowsiness today. I don't need any more sleep!
+GiftRequest_Insomnia[P] |= I am a bit sleepy. Insomnia can be a boon when you want to count your blessings from dusk til dawn.
+GiftRequest_Insomnia[J] |= I am so un-tired. Do you have anything that can help me un-sleep?
+GiftRequest_Insomnia[B] |= I think I overdid my superiority complex today and am really sleepy. I need to keep awake so I can make sure nobody gets better then me!
+GiftRequest_Insomnia[Q] |= I am a bit scared of sleeping since that mouse stole my best kitchen knife. I need to stay awake to watch for it.
+GiftRequest_Insomnia[C] |= Does nobody make an uncomfy mattress these days? I sleep far too well.
+GiftRequest_Insomnia[Kids] |= I really, really want to see those Fae dances that people talk about.  Need to get insomnia like the grown-ups so I can stay awake.
+
+GiftRequest_Digestive |= I have a bit of a grumbly tummy today. 
+GiftRequest_Digestive |= It feels like I have a Hob in my stomach, stabbing my quillylivers.
+GiftRequest_Digestive[P] |= I must have missed a word from my prayers so I have been cursed with bad wind.
+GiftRequest_Digestive[J] |= <anim_wave>*Parp* <anim_none>Sorry about that!  I must have eaten something past its smell-by date.
+GiftRequest_Digestive[B] |= They all said it couldn't be done, but I ate 22 cabbages yesterday!  Could do with a nice digestive now though, as it turns out I can fart louder than anyone else in the haven.
+GiftRequest_Digestive[Q] |= I would be fine other than my tummy spinning more than a windmill in a storm.
+GiftRequest_Digestive[C] |= I really want to complain to someone about my stomach. It's been in knots ever since I ate that rope.
+GiftRequest_Digestive[Kids] |= Ugh.  My family really can't cook.  Have you got something for my bad tum?
+
+GiftRequest_Flatulence |= I feel a bit blocked up today. The wind needs to be set free.
+GiftRequest_Flatulence |= To be brutally frank, I need to fart.
+GiftRequest_Flatulence[P] |= The Goddesses have told me not to hold back, so I need to release my inner ether to the wind.
+GiftRequest_Flatulence[J] |= I was going to make a few people jump, but my gases seem to be empty.
+GiftRequest_Flatulence[B] |= I want to prove my farts are loudest and longest.
+GiftRequest_Flatulence[Q] |= I have been building up a big bottom blaster all day but I can't seem to give it that final push to freedom.
+GiftRequest_Flatulence[C] |= It's not right that other people get to be flatulent and not me. I demand equality!
+GiftRequest_Flatulence[Kids] |= Maybe if I stink the place out I'll get chased to play outside instead of studying.  Do you have anything nice and gassy?
+
+GiftRequest_Bravery |= I need to venture into the monster-infested woods today to gather resources. I wish I was a little braver! Well, a lot braver really.
+GiftRequest_Bravery |= I am feeling a bit cowardly today. That's a prompt for you to give me something to counter that.
+GiftRequest_Bravery[P] |= I pray for the bravery to denounce the heathen traders at the market on Goddess Day.  They are disgusting, contemptible and sadly much bigger than me. 
+GiftRequest_Bravery[J] |= Despite my cheery exposition, I am a bit of a coward, you know?
+GiftRequest_Bravery[B] |= I aim to be the least cowardly person in Quill. Can you help?
+GiftRequest_Bravery[Q] |= I have a yellow streak that runs across my back.
+GiftRequest_Bravery[C] |= All these people walking around with their chests puffed out, acting all brave makes me jealous. I should be like them!
+GiftRequest_Bravery[Kids] |= There's a spider under my bed and I am too scared to get it. I wish I was brave like you.
+
+GiftRequest_Truth |= Sometimes speaking the truth helps, don't you think?
+GiftRequest_Truth |= I have a bad habit of telling fibs. It's annoying! Or is it?
+GiftRequest_Truth[P] |= I am paranoid I may speak an untruth and incur the wrath of the Goddesses!
+GiftRequest_Truth[J] |= People need to hear the truth. Comedy can help with that, as can items with a Truth trait, apparently.
+GiftRequest_Truth[B] |= I want to keep up my reputation for brutal honesty.
+GiftRequest_Truth[Q] |= I think a Fibberdijib fairy crawled into my ear, and now I can't stop lying! Or should that be, I can stop lying?
+GiftRequest_Truth[C] |= I'm tired of telling people what they want to hear. Sometimes hearing the truth is necessary.
+GiftRequest_Truth[Kids] |= Nobody believes what I say! Adults always think I am lying, which I am, but that's not the point!
+
+GiftRequest_Illusion |= Reality bites. I need to see further.
+GiftRequest_Illusion |= I want to let my mind drift a while.
+GiftRequest_Illusion[P] |= Sometimes I wish I could let my mind fly up to the sky and touch the Goddesses' feet. If that's where Opal is!
+GiftRequest_Illusion[J] |= I need some mind-expanding fun!
+GiftRequest_Illusion[B] |= I want to have an out-of-body experience so I can see my own gorgeous face properly.
+GiftRequest_Illusion[Q] |= I have an urge to ride up a rainbow and stand on top of it so I can scatter singing candies onto the world below.
+GiftRequest_Illusion[C] |= It would be great to get away from it all for a moment. Just drop an illusionary veil and hide from the world for a moment.
+
+GiftRequest_Scent |= Do I smell bad? I think I stepped in a poop.
+GiftRequest_Scent |= People seem to be turning their noses up at me today.
+GiftRequest_Scent[P] |= Cleanliness is next to Goddessliness they say.  I could do with a nice scent to go into my next batch of floorwax
+GiftRequest_Scent[J] |= I want to be the nicest-smelling flower for a day!
+GiftRequest_Scent[B] |= When you look this good you need the scent to match.
+GiftRequest_Scent[Q] |= I dreamt I was a flower. I smelled wonderful. I want my dream to come true.
+GiftRequest_Scent[C] |= There's a real bad stench in the air lately. Like something rotten is in the wind. Perhaps it is bad wind? Anyway, got anything to counter bad odours?
+GiftRequest_Scent[Kids] |= I smell bad! My uncle will think I have been rolling in pig muck again. Which I have been.
+
+GiftRequest_Stench |= I need something to take this nice smell away!
+GiftRequest_Stench |= I am in a stinky mood today. I want to be physically stinky too.
+GiftRequest_Stench[P] |= I fear I am smelling nicer than the Goddesses! I need to fix that, double-quick!
+GiftRequest_Stench[J] |= Have you got anything in that magical infinite backpack of yours that can make me smell bad? Don't ask why, suffice to say it involves a hug and a sack of flour.
+GiftRequest_Stench[B] |= Sometimes I smell too good and its a little distracting. I need to cover up that scent with something stinky.
+GiftRequest_Stench[Q] |= All these stinky weirdos wandering around looking alike and cluttering up the shops with their exotic scents of flowers, woodlands and soap.  Ugh!  I need some nice proper village scents, like pig dung.
+GiftRequest_Stench[C] |= I could do with no one talking to me today. I need to rub some stench on myself to keep them away.
+GiftRequest_Stench[Kids] |= I want to prank my pals. I think something that makes me stinky would really help!
+
+GiftRequest_AntiSickness |= Uuuugh!  I am never buying a pie from a market stall and then leaving it out on the kitchen table for a week before eating it ever again!  Or ever eating again if I cant find something to stop this sickness.
+GiftRequest_AntiSickness |= I feel a bit sick at the moment.
+GiftRequest_AntiSickness[P] |= I prayed so hard it made me nauseous.
+GiftRequest_AntiSickness[J] |= I laughed so hard I feel sick. Sad face.
+GiftRequest_AntiSickness[B] |= Best pie-eater in the Haven, that's me!  I can eat a dozen of 'em and feel great!  Pity I was eating with a baker last night though...got any anti-sickness stuff?   
+GiftRequest_AntiSickness[Q] |= I ate something that made me feel a bit sick. That will teach me to experiment with my food.
+GiftRequest_AntiSickness[C] |= I feel really nauseous. It must be all the goody-two-shoes around here.
+GiftRequest_AntiSickness[Kids] |= Ugghh I threw up earlier and my tum feels like there's more in there!
+
+GiftRequest_Cursed |= Curse me quick! It's for an experiment.
+GiftRequest_Cursed |= I have never been cursed. What does it feel like?
+GiftRequest_Cursed[P] |= I haven't been as devout as I would like recently. Maybe I need to be cursed a little to encourage me to worship harder?
+GiftRequest_Cursed[J] |= I would love to be cursed! I think it would be hilarious!
+GiftRequest_Cursed[B] |= I reckon I could shake off any curse!
+GiftRequest_Cursed[Q] |= I dreamt I was cursed and when I woke I was so disappointed not to be!
+GiftRequest_Cursed[C] |= If I was actually cursed I could at least blame all my problems on the Goddesses' whims.
+GiftRequest_Cursed[Kids] |= My friends would be so jealous if I was cursed!
+
+GiftRequest_Friendly |= Do you think I am unfriendly?
+GiftRequest_Friendly |= I am feeling a little hostile today, unfortunately.
+GiftRequest_Friendly[P] |= Sometimes I feel like my piety makes me colder to others.
+GiftRequest_Friendly[J] |= I am paranoid I am getting unfriendlier! I always try to laugh and joke and be cheerful. I need a boost to friendliness!
+GiftRequest_Friendly[B] |= People seem to be a little intimidated by me. Maybe I should be a bit more friendly and stop looming over them like an Ogyr?
+GiftRequest_Friendly[Q] |= Someone asked if I was unfriendly. I said "No I am not! Go away!" So maybe I am?
+GiftRequest_Friendly[C] |= People say all I do is complain. Maybe I should try to be friendly and see what the other shoe feels like on the opposite side of the greener fence?
+GiftRequest_Friendly[Kids] |= I wish I had more friends! Maybe I could be friendlier?
+
+GiftRequest_Positivity |= I am feeling a bit of a negative ninny today, unfortunately.
+GiftRequest_Positivity |= I wish I could be more positive on a lovely day like today.
+GiftRequest_Positivity[P] |= I need to spread the good word, and be extra positive about it.
+GiftRequest_Positivity[J] |= I always try to be a fun, positive person. There is always more I can do to add to my positivity though!
+GiftRequest_Positivity[B] |= I need to be the most positive person around! Pronto!
+GiftRequest_Positivity[Q] |= Someone told me I need to be more positive. I told them to stop being so negative.
+GiftRequest_Positivity[C] |= All this negativity gets me down sometimes. I do like to complain but it gets me down now and then.
+GiftRequest_Positivity[Kids] |= I want to be a positive person! How can I be positive?
+
+GiftRequest_Negativity |= I am feeling too positive and need bringing down back to Quill.
+GiftRequest_Negativity |= I need some negativity in my life right now.
+GiftRequest_Negativity[P] |= We should be more serious about worship. Too much positivity can make us frivolous and distracted.
+GiftRequest_Negativity[J] |= I have overdosed on positive energy and need a comedown!
+GiftRequest_Negativity[B] |= I have a need to be more negative than I usually am.
+GiftRequest_Negativity[Q] |= I woke up this morning and decided I was going to be positive or negative and flipped a coin. Negative won.
+GiftRequest_Negativity[C] |= All this positivity makes me fume! The world needs more cynicism!
+GiftRequest_Negativity[Kids] |= I get too positive at times they say! What can I do to be a misery guts?
+
+GiftRequest_Gossip |= I have too many secrets bottled up! I need to let a few loose!
+GiftRequest_Gossip |= I love a good gossip but haven't had the chance lately.
+GiftRequest_Gossip[P] |= I really wish I could spread the word and latest news about our beloved Goddesses.
+GiftRequest_Gossip[J] |= I just love to chat to people. The more I get to gossip the better.
+GiftRequest_Gossip[B] |= I want to be the best gossip in the land!
+GiftRequest_Gossip[Q] |= I love the sound of gossiping in the morning. Or anytime really.
+GiftRequest_Gossip[C] |= How come I don't get involved in all the latest salacious village gossip?
+GiftRequest_Gossip[Kids] |= I never seem to catch such big fish as the other kids.  Why won't they let me join in when they gossip about the bestest bait and stuff?
+
+GiftRequest_Growth |= Why does the best fruit always grow at the very top of the tree?  I wish I'd grown tall like a willowy Dryad, instead of being a stumpy soul on a splintery stepladder.
+GiftRequest_Growth |= I feel a bit short today. And I don't mean financially.
+GiftRequest_Growth[P] |= I seriously need to grow!  My body is just not big enough to contain my faith.
+GiftRequest_Growth[J] |= I want my comedy audience to grow...and I need to grow with them!
+GiftRequest_Growth[B] |= Self-improvement is all about personal growth.
+GiftRequest_Growth[Q] |= I got shrunk the other day after sampling Little Sap. I should have had something on hand to counter it!
+GiftRequest_Growth[C] |= Why am I so much shorter than that tree over there? It's unfair!
+GiftRequest_Growth[Kids] |= Those big kids will never let me scrap with 'em. "Pick on someone yer own size," they say.  Really wish I could grow faster.
+
+GiftRequest_Shrinking |= I am a bit embarrassed. I wish I could shrink right down so nobody can see me.
+GiftRequest_Shrinking |= I feel a bit too big for my boots today. Literally! I need something to bring me down the size, provided that size is mouse size.
+GiftRequest_Shrinking[P] |= I wish that I could shrink myself small enough to put myself in the Goddesses offering bowl.
+GiftRequest_Shrinking[J] |= This 'ere waistband is a bit tight after Goddess Day dinners.  If only I had something to shrink my tummy a bit. And my whole body if truth be known.
+GiftRequest_Shrinking[B] |= I have been the best at everything except being tiny.
+GiftRequest_Shrinking[Q] |= I felt my mind expanding so my friend said I should see a shrink.
+GiftRequest_Shrinking[C] |= Why do mice get all that sense of scale and wonder and not me?
+GiftRequest_Shrinking[Kids] |= My pal says that if you are small enough chickens will let you ride them to the place where they lay the candy eggs.  I wish I had something that would shrink me enough to find out.

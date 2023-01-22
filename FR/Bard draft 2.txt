@@ -1,0 +1,50 @@
+MusicStart=0;Bard music
+Lyric=3;Oh lady fair
+Lyric=3;With orangest hair
+Lyric=3;Let me take you
+Lyric=3;To the fayre
+Lyric=3;I will buy you 
+Lyric=3;a band of gold
+Lyric=3;to join our souls
+Lyric=3;Til we are old
+MusicEnd=34;Bard music
+
+MusicStart=36;Bard music
+Lyric=3;I will buy you
+Lyric=3;A fresh-faced sow
+Lyric=3;And get our milk
+Lyric=3;From our own singing cow
+Lyric=3;I will buy you 
+Lyric=3;A dog and a cat
+Lyric=3;And a cockerel who dances
+Lyric=3;With a tip of his hat
+MusicEnd=70;Bard music
+
+MusicStart=72;Bard music
+Lyric=3;I will buy you
+Lyric=3;The moon on a stick
+Lyric=3;And buckets of custard
+Lyric=3;All yellow and thick
+Lyric=3;I will fetch you
+Lyric=3;A mouse with a spear
+Lyric=3;To guard you at night-time
+Lyric=3;When I am not near
+MusicEnd=106;Bard music
+
+MusicStart=108;Bard music
+Lyric=3;I will gather
+Lyric=3;All the berries of Fae
+Lyric=3;And make you a potion
+Lyric=3;To brighten your day
+Lyric=3;I will love you
+Lyric=3;Til we lay in our shrouds
+Lyric=3;Our dead eyes gazing
+Lyric=3;At wispy white clouds
+MusicEnd=142;Bard music
+
+MusicStart=144;Bard music
+Lyric=3;I will find you
+Lyric=3;As you leap through the corn
+Lyric=3;My tail twitches wanting
+Lyric=3;Our souls both reborn
+MusicEnd=178;Bard music

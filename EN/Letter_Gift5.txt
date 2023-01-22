@@ -1,0 +1,3 @@
+Dear <PlayerName>
+I just had to send you this gift! I hope you will like it.  
+<SenderName>

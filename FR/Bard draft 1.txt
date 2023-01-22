@@ -1,0 +1,2 @@
+MusicStart=0;Bard music
+MusicEnd=40;Bard music

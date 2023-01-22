@@ -1,0 +1,6 @@
+MusicStart=0;Tavern music
+Lyric=5;5;Why did the man have rodents on his lip?\n<pause:1><speed:0.5>Because it was his mouse stash.
+Lyric=15;5;Why was the baker poor?\n<pause:1><speed:0.5>Because he wasn't making any dough.
+Lyric=25;5;Why is milk great at sneaking?\n<pause:1><speed:0.5>Because it can get pasturise.
+Lyric=35;5;I went to a really bad festival.\n<pause:1><speed:0.5>It was a fete worse than death.
+MusicEnd=50;Tavern music

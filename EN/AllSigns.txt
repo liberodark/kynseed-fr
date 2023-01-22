@@ -1,0 +1,106 @@
+Nutt's Cattery: Home to Lost Fluffy Souls
+ViewingStatus|Use <status> to view Status of objects
+HoneyTip|You can collect honey if you have the right container
+BucketTip|Use a Tin Bucket to get water.  Don't use the poo bucket!
+BucketFuture|Use a Wooden Bucket to scoop up the poo.
+CropStatus|Look at the status of crops to see if they need watering or are ripe
+Truffles the pig ate the key!  Find a way to get it out!
+► Willowdown Farm\n▼ Candlewych Village\n▲ Vale Gate
+This is a sign line #9
+This is a sign line #10
+▲ Willowdown Farm\n► Mosswhisper Ruin\n▼ Testy Acres\n◄ Candlewych Village
+▲ Willowdown Farm\n► Mosswhisper\n▼ Testy Acres\n◄ Candlewych Village
+▼ Festival Green\n► Druida's Cross\n◄ Candlewych West
+▲ North Gate
+◄ Candlewych West\n► Druida's Cross
+▼ Burial Grounds\n◄ Candlewych Cottage\n► Candlewych Village
+▲ Cuckoo Wood\n◄ Candlewych Cottage\n► Candlewych Village
+► Festival Green
+▼ Festival Green\n▲ Candlewych West
+► Cuckoo Wood\n▼ Candlewych Cottage
+▲ Old Mother Hubbard\n▲ Cowpat Farm\n► Candlewych West
+ActionOptionTip|Hold X, B or Y to access your radial menu for quick item selection|Place items in your hotbar for quick selection.\nDrag them them with the mouse from the inventory or press the matching key to quickly put them there!
+▲ Willowdown Farm
+ActionSelectTip|Interact with the pig and choose the Feed option (top), then an item to feed it|Interact with the pig and choose the Feed option (top), then an item to feed it
+InventoryTip|Push UP on Dpad to access your Inventory|Push I to access your Inventory
+Upcoming events at Festival Green\nPig Racing on Day 4 and 11 of Summer\nPig Market on Day 6 and 13 of Summer
+◄ Candlewych West\n▼ Festival Green
+▼ Festival Green
+See the daily shows at midday and 7pm!  (No shows on Druida day)
+► Homesteads\n► Poppyhill\n◄ Mellowfields\n▲ Simplewood
+▲ Simplewood\n◄ Mellowfields
+▲ Naida's Crown\n► FestField\n▼ Loverwood\n◄ Homesteads
+▲ Drownhill\n▼ Poppyhill
+◄ Poppyhill\n▼ Loverwood
+► Poppyhill\n◄ Rivermoor
+▲ Vale Gate\n▲ Rivermoor
+Quillian Notes #1 Welcome to messages from the folk of Quill. Read these signs to find out information on how to get by in this land!
+Quillian Notes #2 Remember, you have plenty of time in life. No need to rush. And no punishment for falling asleep. I do it all the time!
+Quillian Notes #3 The Ledger on the shop counters allows for stocktaking, ordering, staff hires and looking at your reputation and perks.
+Quillian Notes #4 Gifting on a villager's birthday will give a Friendship boost, so check the Calendar daily.
+Quillian Notes #5 Check the Noticeboards in each village centre to find out when Events are on, and to also see villager's requests.
+Quillian Notes #6 To make babies, gift a rabbit corndoll to your spouse. You can buy these in certain stores.
+Quillian Notes #7 Don't forget to use the Thatterway for any Active Quests if you are stuck.
+Quillian Notes #8 Some families have a 'family secret' to uncover...this could be a heirloom or useful ancient knowledge.
+Quillian Notes #9 Don't forget you can Fast Travel via discovered Goddess Statues and other methods.
+Quillian Notes #10 Dark Forests are the combat zones and named by difficulty. You will be able to prepare your loadout before taking them on.
+Quillian Notes #11 After you have been taught about Goddess Statue worship, do not forget to make offerings on Goddess Day.
+Quillian Notes #12 Your business will grow in Reputation so your products become more famous throughout the land.
+Quillian Notes #13 Most NPC's can be married, no matter what gender. The only exceptions will be those who are Goddess blessed, like Masters.
+Quillian Notes #14 These ponds are for 'funerals', although Quillians celebrate death and believe their lifeforce returns as part of nature.
+Quillian Notes #15 Try and find and read all the books left scattered around.You can read them at leisure in your inventory at any time.
+Quillian Notes #16 Always ask for Gossip from folk, especially if you just did a task for them.
+Quillian Notes #17 The Permission system lets you pick other home's items. Check the Homestones by each house to view friendship levels.
+Quillian Notes #18 Toilets have another use apparently...
+Quillian Notes #19 Don't forget to set a Thatterway to help if you get lost on a task!
+Quillian Notes #26 You can use this market stall to sell items. Shoppers may want to barter with you so try and hit the green area if they do!
+Quillian Notes #20 If you want to get married, seek the books in Loverwood by the High Priest.
+Quillian Notes #21 Tir Na Nog is still in development, so mind the bugs (and insects)
+Quillian Notes #22 These mines will eventually go down down, deeper and down, such is the Status Quo. That's a reference by the way.
+Quillian Notes #23 Tooth Fairy's House. Currently on vacation in Cisor.
+Quillian Notes #24 Wow! You certainly like exploring. You are rewarded for being nosey with this sign.
+Quillian Notes #25 I am currently away on business. No leaflets.
+OpeningYourStore|Interact with the sign outside to open and close your smithy.\nThe smithy will automatically close if you leave the region and have no worker employed.
+◄ Mellowbrook\n► Rivermoor
+Quillian Notes #26 Welcome to the first of the Mellowfields regions. This is just a little sample for you to experience. More soon!
+► Cunning Plots\n▲ Outlane\n◄ FineFayre
+► Cunning Plots\n▲ Outlane\n◄ FineFayre\n▼ Freyl's Fields
+► Mellowbrook\n▲ The Dancers\n▼ Twanging Gardens
+▲ Stonecrown\n▼ Mellowbrook
+▲ Mellowbrook\n▼ Softwood
+Quillian Notes #26 This region is currently undergoing decorating. Please mind the pots of paint.
+Quillian Notes #27 Beyond here lies the northern half of Quill. BUT YOU CAN'T GO THERE YET! NYAH NYAH!
+▲ North Gate\n◄ Candlewych West\n► Druida's Cross\n▼ Festival Green
+◄ Cowpat Farm\n▲ Cattery\n▼ Candlewych West
+► Festival Green\n▼ Pebbley Mill
+▼ Freyl's Fields
+The Woods-of-What's-to-Come
+► Copperpot\n► Greymarket\n▲ Frogmarsh\n▲ Dreadwaters
+▲ Frogmarsh\n▲ Dreadwaters
+◄ Shingles\n► Copperpot\n► Greymarket\n▲ Frogmarsh
+▲ Dreadwaters\n► Greymarket\n▼ Wisptrail
+▲ Greymarket\n◄ Wisptrail
+◄ Frogmarsh\n◄ Dreadwaters\n▼ Copperpot
+▲ Simplewood\n▲ Jogon's Barrow
+▲ Stonecrown\n◄ The Circle\n▼ Outlane
+▲ Toughwood\n► The Circle\n◄ Stonecrown\n▼ Outlane
+▲ Pinehaven\n► The Shingles\n◄ Stonecrown
+▲ The Shoe
+◄ Deepstone\n▲ Stonecrown Hill\n► Outlane\n► The Circle
+◄ The Circle\n► Midwood\n► Woemarsh\n▼ Drownhill
+◄ The Circle\n▲ Midwood\n► Woemarsh\n▼ Drownhill
+▲ Hunters Bluff\n► The Shingles\n► Woemarsh\n▼ Naida's Glory 
+DANGER - Water Fae May Drown 
+DANGER - Daddy Long Legs resides within. One touch means death! Be warned!
+DANGER! Seriously! He will kill you if he gets you. Stay away at night!
+Tomb Opening Hours 7pm - 5am
+Tinker Shop: Specialisations a speciality!
+Pixie Lottery's Emporium
+Cabaret Du Fae - open Day 10 at 8pm. VIP Token Holders Only!
+Cleansing Fountain
+Witch Hunter - Here 6pm-5am
+Stockwood - Open Day 3 at 8pm. VIP Token Holders Only!
+
+
+
+

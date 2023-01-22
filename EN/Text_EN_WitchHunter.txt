@@ -1,0 +1,12 @@
+COUNTER_ATTACKS_TASK_NAME |= Perform {MAX} counter attacks.
+COUNTER_ATTACKS_TASK_DESC |= {CURRENT}/{MAX} counter attacks in {DUNGEONNAME}.
+
+3_HIT_COMBOS_TASK_NAME |= Perform a 3 hit combo {MAX} times.
+3_HIT_COMBOS_TASK_DESC |= {CURRENT}/{MAX} 3 hit combos in {DUNGEONNAME}.
+
+WITCHHUNTER_KILL_ELITE_TASK_NAME |= Kill an {MONSTERNAME}.
+WITCHHUNTER_KILL_ELITE_TASK_DESC |= Kill an {MONSTERNAME} in {DUNGEONNAME}.
+
+DUNGEON_NAME_Simplewood |= Simplewood
+DUNGEON_NAME_Midwood |= Midwood
+DUNGEON_NAME_Toughwood |= Toughwood

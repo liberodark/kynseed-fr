@@ -1,0 +1,8 @@
+Dear <PlayerName>
+I found an interesting use for this item. I washed it afterwards and thought you should try it.
+I think friends should be able to share things, don't you?
+Your pal,
+<SenderName>
+
+
+

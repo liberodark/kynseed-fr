@@ -1,0 +1,5 @@
+It is unfortunate that you were unable to attend this year's <CompetitionName> winners ceremony.
+
+I would like to inform you that you placed <CompetitionResult> this year. An excellent effort!
+
+We look forward to seeing you again next year for more showcases of superlative skills!

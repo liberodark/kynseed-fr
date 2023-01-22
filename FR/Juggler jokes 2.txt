@@ -1,0 +1,7 @@
+MusicStart=0;Tavern music
+Lyric=5;5;Why did the dead man cross the road? \nTo get to the Other Side.
+Lyric=15;5;What do you call a mace in between two slices of bread? \nA club sandwich.
+Lyric=25;5;A highwayman said stand and deliver, so I stood up and took my liver out.
+Lyric=35;5;I tried to bury my prehistoric elephant, but it was a mammoth undertaking.
+Lyric=45;5;Thank you, like shredded cheese, you've been grate...
+MusicEnd=50;Tavern music

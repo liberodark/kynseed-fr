@@ -1,0 +1,14 @@
+Dear <PlayerName>,
+
+You have been cordially invited to take part in Quill's annual <CompetitionName>.
+
+Please feel free to bring along your best Vegetables to compete against the very best of the best.
+
+And possibly the worst.
+
+Please make your way to <CompetitionLocation> on <CompetitionDate> for more exciting details!
+Be sure to arrive early, as you will want time to prepare your array of goods after the announcement of this year's theme.
+
+Good luck and hope to see you there
+
+Master of Events

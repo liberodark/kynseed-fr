@@ -1,0 +1,484 @@
+GEN_NPC_STORY_TRADER_INTRO_1_GENERIC |= Greetings! It is nice to meet you. My name is {FULLNAME}. I've recently taken over the local Goods Store so I look forward to your patronage!
+GEN_NPC_STORY_TRADER_INTRO_1_GENERIC |= Hello. I don't believe we've met before. If you often frequent the village Goods Store I'm sure you've noticed it is under new stewardship. I recently moved here and it seems a fine place to do business.
+GEN_NPC_STORY_TRADER_INTRO_1_PIOUS |= I hope I find you in good spirits. It seems the Goddesses have blessed us with a grand day for our first meeting. My name is {FULLNAME} and I'm the new proprietor of this fine local store.
+
+GEN_NPC_STORY_TRADER_INTRO_2_GENERIC |= There are so many people here I'm finding it a little hard to keep track of who is who but I'm sure I'll pick it up.
+GEN_NPC_STORY_TRADER_INTRO_2_GENERIC |= It's been a little stressful getting things up and running here but I couldn't have picked a better spot. And I don't mean the one on my nose.
+GEN_NPC_STORY_TRADER_INTRO_2_COMPLAINER |= I got jumped by a few Hobs on my first week gathering supplies, and lost most of my stock. Those nasty little pests need a good hiding but I'm not sure if it's worth the effort, and I'm not the best fighter around.
+GEN_NPC_STORY_TRADER_INTRO_2_JOVIAL |= The people of this village have been ever so kind to me since I set up shop. I couldn't have asked for a better welcome. Well, I could have, but I am on a diet.
+
+GEN_NPC_STORY_TRADER_FRIENDLY_1_GENERIC |= It's been great getting to know everyone around the haven. Working the shop daily has really helped with socialising. I've met some nice people from around here aaaand some not so nice.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_GENERIC |= Things are looking up; I've been getting a fair number of customers.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_COMPLAINER |= Why is it so hard to gather good items for the store? Those creatures in Simplewood just jealously guard the goods that are in there. It's a tough enough living at times as it is without silly little monsters wanting to hold onto their bodily parts and all that loot.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_PIOUS |= All it took for this endeavour to flourish was a little faith. I was never confident that I could run a business independently, but with the Goddesses' watching over me, I feel like I can achieve anything.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_JOVIAL |= It's always great to see you. Running this store brings me such joy. I know why they call it running a store now; I am always running around! The stories I hear, the friends I make, it's all so endlessly inspiring. Each day brings something new and fresh, and not just the produce.
+
+GEN_NPC_STORY_TRADER_FRIENDLY_2_GENERIC |= In a few more seasons I really feel like I could turn this place into something special. It's been my dream to run a successful Goods Store. It's the Quillian dream, capitalism. That's where you put your name above your shop in BIG LETTERS.
+GEN_NPC_STORY_TRADER_FRIENDLY_2_GENERIC |= I need to get myself involved with the community a bit more. Not just because it's good for sales, but the people around here are really growing on me. Not literally.
+GEN_NPC_STORY_TRADER_FRIENDLY_2_BOASTFUL |= I put that down to the high-quality goods I sell here. It takes a little more effort to get the goods to the store but I think it's worth it. The sales speak for themselves. Well, they would if they could speak.
+GEN_NPC_STORY_TRADER_FRIENDLY_2_QUIRKY |= That's not all. I've been getting a little help from what I like to call my 'Unseen Friends'. They can be a little unpredictable sometimes, but it's nice to come to the store in the morning to discover some of my chores were done at night.
+
+GEN_NPC_STORY_TRADER_LIKE_1_GENERIC |= Who would have thought that when I first came to this haven, I was only intending to stay a season or two. Having friendly folk like you around makes it much harder to leave.
+GEN_NPC_STORY_TRADER_LIKE_1_GENERIC |= I feel like I've built a home for myself here now. My days as a travelling trader are long gone. As a valued member of this little village, I love that I can provide a service for the people here. At a price of course.
+GEN_NPC_STORY_TRADER_LIKE_1_JOVIAL |= Another glorious day, regardless of what anyone says, and another meaningful interaction with my good friend. I must say though, working the store and overhearing some of the gossip can make it hard to keep up a friendly smile. You should hear what some people say behind others' backs. It can feel petty at times but I put up with it because I know there are people out there like yourself who genuinely brighten my day. Do you want to buy a sick bucket?
+GEN_NPC_STORY_TRADER_LIKE_1_QUIRKY |= I've always felt like a bit of an outsider. Some would say I'm away with the fae. Even the fae think that! Now I am amongst real people providing a meaningful service. I don't want to move away from my leftfield thoughts, but I do like visiting the other field to see how the other four-thirds live.
+
+GEN_NPC_STORY_TRADER_LIKE_2_GENERIC |= It's thanks to people like you that I was encouraged to stay. I always had a wanderer's heart, but sometimes you see enough trees, you yearn for some roots yourself.
+GEN_NPC_STORY_TRADER_LIKE_2_GENERIC |= I think I'm ready to start putting down some roots and make my stay more permanent. I have you to thank for that.
+GEN_NPC_STORY_TRADER_LIKE_2_COMPLAINER |= I just wish those Hobs would leave me alone. All I want to do is gather items. This isn't something I really tell people, but I lost my Uncle to one of these vile creatures not too long ago. If I'm being honest, it's part of the reason why I moved out here. To get away from seeing reminders of lost family, especially as they drove me up the wall.
+GEN_NPC_STORY_TRADER_LIKE_2_BOASTFUL |= I've got to be honest with you for a moment. Most of the items I source for the store aren't hand-picked by myself. I have this presence in the community as a knowledgeable store owner but half the time I don't know what I'm talking about. I like to put on a bit of a front. I'm good, but I'm not THAT good.
+GEN_NPC_STORY_TRADER_LIKE_2_PIOUS |= I know I have the Goddesses protecting me, but sometimes I wish my ancestors could be here to see all that I've achieved. I don't know if they would be proud or not but it would make me feel better if they knew I accomplished what I set out to do.
+
+GEN_NPC_STORY_TRADER_START_COMPLAINER_1 |= Would you be able to give me some closure? I would give you a nice reward if you could beat up a few of those Hobs for me. I heard you are very handy with a sword. For the sake of giving you a target, let's say, kill 20 Hobs?
+GEN_NPC_STORY_TRADER_TASK_NAME_COMPLAINER_1 |= Kill 20 Hobs and Return
+GEN_NPC_STORY_TRADER_TASK_DESC_COMPLAINER_1 |= Kill a total of 20 Hobs in Simplewood. You can check progress with the onscreen counter while in combat.
+GEN_NPC_STORY_TRADER_END_COMPLAINER_1 |= Thanks for taking the time to help out. I hope you gave them what for!
+
+GEN_NPC_STORY_TRADER_START_COMPLAINER_2 |= I want to go and kill some Hobs, so I can be at peace with myself. However, the quality of weaponry available to buy is not very good at all. Could you make me a decent sword? And maybe a Charm to help me? I trust your craftsmanship.
+GEN_NPC_STORY_TRADER_TASK_NAME_COMPLAINER_2 |= Gift {FULLNAME} Sword + Charm
+GEN_NPC_STORY_TRADER_TASK_DESC_COMPLAINER_2 |= Gift any Sword and any Charm to the NPC who requested it. Swords and Charms can be bought, won, gifted or crafted in the Blacksmiths.
+GEN_NPC_STORY_TRADER_END_COMPLAINER_2 |= That was great fun! That equipment was top notch, and I got a few notches on my blade. Cheers!
+
+GEN_NPC_STORY_TRADER_START_JOVIAL_1 |= Oh, I might be jollier than a jolly jelly but this constant gossiping and backstabbing is getting me down! I am a perky person and like to laugh, not frown. How about buying my Goods Store from me? I could give it to you for half price! I am happy to do that just to save my sanity from all these woe-mongers.
+GEN_NPC_STORY_TRADER_TASK_NAME_JOVIAL_1 |= Purchase Goods Store
+GEN_NPC_STORY_TRADER_TASK_DESC_JOVIAL_1 |= Buy the Goods Store owned by the NPC by interacting with the red Ledger on the shop counter and agreeing to buy.
+GEN_NPC_STORY_TRADER_END_JOVIAL_1 |= You are a star and no mistake. You will make a great business-owner! Just don't listen to the gossip!
+
+GEN_NPC_STORY_TRADER_START_JOVIAL_2 |= Maybe I need to try a new marketing technique to bring in better clientele? Could you maybe give someone a top quality sample and tell them this is where you got it?
+GEN_NPC_STORY_TRADER_TASK_NAME_JOVIAL_2 |= Gift a 5-star item to any NPC
+GEN_NPC_STORY_TRADER_TASK_DESC_JOVIAL_2 |= Gift, via chat gifting or interact wheel, any 5-star item you have.
+GEN_NPC_STORY_TRADER_END_JOVIAL_2 |= That didn't actually help. Now I just get a better quality of gossip! But thanks for trying.
+
+GEN_NPC_STORY_TRADER_START_BOASTFUL_1 |= Would you be a dear and help me get high-quality fish for my store? I think a prize item like that will draw attention and bring in the punters.
+GEN_NPC_STORY_TRADER_TASK_NAME_BOASTFUL_1 |= Gift {FULLNAME} a 5-star fish
+GEN_NPC_STORY_TRADER_TASK_DESC_BOASTFUL_1 |= Catch, buy, win or be gifted a 5-star fish of any type and gift it to the NPC who requires it. NOT 5 starfish, as there is no sea around Quill.
+GEN_NPC_STORY_TRADER_END_BOASTFUL_1 |= Just what the fishmonger ordered! You have a great sole. Wahey! Not heard that one before, have you?
+
+GEN_NPC_STORY_TRADER_START_BOASTFUL_2 |= I think what would really make my shop stand out more, are some top-tier meals. Freshly prepared, by you, and beautifully presented on my best plinths. That would really help arouse the nostrils of passers-by, and lure them in.
+GEN_NPC_STORY_TRADER_TASK_NAME_BOASTFUL_2 |= Gift {FULLNAME} a 5-star meal
+GEN_NPC_STORY_TRADER_TASK_DESC_BOASTFUL_2 |= Cook, buy, be gifted or win a 5-star cooked item and gift it.
+GEN_NPC_STORY_TRADER_END_BOASTFUL_2 |= A fine selection! You have my thanks and adoration.
+
+GEN_NPC_STORY_TRADER_START_QUIRKY_1 |= Actually, I know of a place, written about in many books, where the fairer folk live. It's called Tir Na Nog. It is meant to be all pink waterfalls and strange trees and weird fruits. It is said there is a thing there called a Gummy Mushroom. I would love to have some of that to put on my prize plinth. If you ever come across any, I would trade you something good!
+GEN_NPC_STORY_TRADER_TASK_NAME_QUIRKY_1 |= Deliver a Gummy Mushroom to {FULLNAME}
+GEN_NPC_STORY_TRADER_TASK_DESC_QUIRKY_1 |= Get a Gummy Mushroom from Tir Na Nog and gift it to the NPC who asked for it.
+GEN_NPC_STORY_TRADER_END_QUIRKY_1 |= Wonderful! You are the handiest person a person could hand tasks to.
+
+GEN_NPC_STORY_TRADER_START_QUIRKY_2 |= I wish I could visit some of the places in my dreams. Do you have anything that would allow me to see beyond these walls? I would love you even more for it.
+GEN_NPC_STORY_TRADER_TASK_NAME_QUIRKY_2 |= Apply Illusion to {FULLNAME}
+GEN_NPC_STORY_TRADER_TASK_DESC_QUIRKY_2 |= Gift any item with the Illusions Trait to {FULLNAME}.
+GEN_NPC_STORY_TRADER_END_QUIRKY_2 |= Woah! How long have you been a goat? Well, Mr Rainbow Goat, I thank you for the very shiny experience.
+
+GEN_NPC_STORY_TRADER_START_PIOUS_1 |= I think my weakness is that I am sometimes too pious to barter properly. If I was stronger in that area, then I am sure I could make more sales and be a bit more a proper businessperson.
+GEN_NPC_STORY_TRADER_TASK_NAME_PIOUS_1 |= Apply Barter to {FULLNAME}
+GEN_NPC_STORY_TRADER_TASK_DESC_PIOUS_1 |= Gift any item with the Barter Trait to the NPC who requested it.
+GEN_NPC_STORY_TRADER_END_PIOUS_1 |= Thanks for the help; it increased my profits, so I feel you are entitled to a share.
+
+GEN_NPC_STORY_TRADER_START_PIOUS_2 |= This may sound like an odd request, but you could help massage my numbers and ego by purchasing everything in my shop. I would see you right, afterwards.
+GEN_NPC_STORY_TRADER_TASK_NAME_PIOUS_2 |= Purchase every item in the Goods Store
+GEN_NPC_STORY_TRADER_TASK_DESC_PIOUS_2 |= Purchase every item in the Goods Store owned by the task-giver NPC.
+GEN_NPC_STORY_TRADER_END_PIOUS_2 |= Thanks for the help; it increased my profits, so here's your commission.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_GENERIC |= Greetings! I'm the new local Blacksmith. If you require anything to help your farming or decorate your outhouse, I'm here to help shape your needs.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_GENERIC |= Well met! I am a smith. No, not my surname. I like the smell of iron and sometimes burning myself on hot tongs. If you need anything metal, I'm your person.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_QUIRKY |= Oh, hello! Sorry, I was a bit distracted by your presence then. You seem to have an aura about you. I'm the new smithy around here, and I get the feeling knowing you may be a good thing, in time.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_PIOUS |= Greetings. I don't know you from Adam, but hopefully the Goddesses smile on you too, as they do me. I am the local smithy, and the toil of a hot forge purges us of ill-thought.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_GENERIC |= I think that we all have much to learn, so hopefully over time, I can improve my craft and give you even better service.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_GENERIC |= I'm hoping to apply my knowledge of goods trading to the smithing business. I am of mind that the skills of one can pass to the other to the benefit of the business.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_COMPLAINER |= To be blunt, I am already finding it a struggle as the quality of ore I have to work with is pretty poor. Supplies are inconsistent and the goods stuff is usually protected by Knockers.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_JOVIAL |= I am just really happy to be back working within a community. I missed the tinkle of the shop bell and the happy faces of the local folk wit each their own little quirks and customs.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_GENERIC |= How are things going on the farm? It's good to have friends when you have the toil of the soil.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_GENERIC |= Hey there, good friend. Have you been on any adventures lately? Mixing it up in Midwood? Roaming the moors like a ghostly hound? Lazing in lazy glades drinking lemonade lazily with a ladle?
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_QUIRKY |= Am happy to see you, friend. It is good to get to know people more. The more friends you can gain, the safer you feel. It's also really handy for when you want to sell stuff you can't offload otherwise.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_PIOUS |= Apologies for my previous introduction with you. I am a little suspicious about new people in my life. I love the Goddesses so much, so a stranger sort of throws me a bit.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_BOASTFUL |= Want to see my collection of crafted wonders sometime? My aim is to make my smithy the go-to place for quality ironware, copper and zinc goods, and eventually, gold and silver marvels.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_GENERIC |= You know what gets me up each morning? Apart from a bucket of cold water to the face? The thought of making useful items for people. I just like seeing their faces when I give them something to enhance their lives, at a reasonable markup.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_GENERIC |= I think I can really get stuck into making some top quality weapons for the budding or seasoned adventurer. Although, sometimes they literally are seasoned, in a Hag's pot with seven secret herbs and spices.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_COMPLAINER |= Have I complained to you much lately? Well, one complaint I have is that it is really hard to find good ore, without delving too deep into the mines. Ordered stock and the odd piece from traders are usually too expensive for the quality you get.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_JOVIAL |= I am so happy that I can do what I love, and that is working with my hands. I love getting them dirty as I craft beauty from raw, primal rock. Turning something that has laid deep in darkness for thousands of years, and giving it light and life.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_GENERIC |= I often wonder what people are doing with the items I crafted for them. Maybe bent over in the garden, inexplicably uprooting vegetables with a sickle. Or perhaps they are wiping Nymph blood from that sword I sharpened with my own sweat.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_GENERIC |= I really like you. You give me confidence in my job. I do hope the things I make really do cut it. One day I would love to forge something great.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_QUIRKY |= I really like you, ya know? You make the effort. I try to do the same. Would love to show you what I have been working on, sometime. I trust your opinion.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_JOVIAL |= Want to hear my song? I sing it whenever I work alone. 'In the deep and darkest part, Of my deep and darkest heart, Sleeps a forge of dimming fire, Smoking like an ashen pyre. And within the charcoal, I can hear, The voice of one I lost so dear. I should have forged a stronger chain, So I could hold her hand again. Yet now the fire is extinguished, The love I lost long relinquished'.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_GENERIC |= Enough daydreaming...got to get back to planning and learning. Improving is how we can better not only ourselves, but the lives of others. All that from a little rock.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_GENERIC |= It's time I got on with my order planning; they're starting to back up. Were you looking for anything yourself?
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_COMPLAINER |= Do you know where I can find any high-quality ore? Most people around here are useless when it comes to such knowledge. I mean, what is so hard about going down a dark pit, dodging weird creatures and ghosts whilst hoping the roof doesn't collapse in on you?
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_BOASTFUL |= I'm sure I have the talent to make that a reality. I just need to keep working at it until I make something legendary, like me.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_PIOUS |= I've crafted a few items for Jogon in my time here, but I'm yet to hear any stories of great deeds where he wielded my weapons. I think he just ends up breaking them and doesn't want to hurt my feelings.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_COMPLAINER_1 |= My back is killing me, and my shoe leather is getting thin. They just don't make them like they used to. Could you be a pal and help me out with some stock? I really don't like doing them.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_COMPLAINER_1 |= Gift {FULLNAME} any 3-star or above ore during the morning
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_COMPLAINER_1 |= Gift the required NPC a 3, 4 or 5-star ore between 6am and noon.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_COMPLAINER_1 |= Thanks for the help. It means a lot to have someone who will do some donkey work for a reward.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_COMPLAINER_2 |= My shoulder is killing me, and my knee is giving me gyp. Could you be a mate and help me out with some restocking? I would be very grateful.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_COMPLAINER_2 |= Gift {FULLNAME} any 3-star or above ore during the evening
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_COMPLAINER_2 |= Gift the required NPC a 3, 4 or 5-star ore between 6pm and midnight.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_COMPLAINER_2 |= Thanks for you assistance. I would hug you, but I might catch something.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_JOVIAL_1 |= I have to admit, although I am the jovial type, I am still sad within. I did have a lost love, and I think working in the smithy keeps me hopeful. I know though, that I can never get her back. I think maybe your dear friendship has made me realise that I can love again. Would you be willing to buy the forge from me? I'd give you a good price. I can then let go and discover a future.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_JOVIAL_1 |= Buy the blacksmith at half price
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_JOVIAL_1 |= Buy the Blacksmith owned by {FULLNAME} by interacting with the red Ledger on the shop counter and agreeing to buy.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_JOVIAL_1 |= Thank you so much! This means a lot to me. You are the best.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_JOVIAL_2 |= I didn't always want to be a blacksmith. I only did it because my old love wanted me to help her squeeze her bellows. I do have other likes, such as pears. What I wouldn't give for a lovely Ploughman's Cob right now, full of lovely juicy pears. My love had juicy pears you know? In her orchard. She also had crab apples.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_JOVIAL_2 |= Gift {FULLNAME} a Ploughman's Cob
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_JOVIAL_2 |= Gift a Ploughman's Cob meal to {FULLNAME}. You can cook one, be gifted, or win such an item.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_JOVIAL_2 |= That was scrum-diddly-umptious! Truly, truly scrumptious! I feel merry just poppin' that in my mouth. Many thanks!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_BOASTFUL_1 |= I'm finding it hard to shift my stock. People look up to you, so maybe if they saw you with some of my items they might visit the store. It could be a new way to advertise...celebrity endorsement. Hmmm, it won't catch on but we could try it!
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_BOASTFUL_1 |= Buy 5 items from the blacksmith
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_BOASTFUL_1 |= Buy 5 items from {FULLNAME}.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_BOASTFUL_1 |= Thank you so much. Now people know what a great blacksmith I am, and it's all down to your help and my amazing ideas.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_BOASTFUL_2 |= You're an adventurer, and apparently a pretty good one. Could you go battle some monsters and endorse my weapons even more. If people know they work wonders, they are sure to buy them. I could even have some sort of tagline...'Get a Slice of Quality Today' or 'A Cut Above the Rest'.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_BOASTFUL_2 |= Kill 20 monsters
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_BOASTFUL_2 |= Kill 20 of any type of monster in any of the combat zones. A counter on the far right in combat will show progress.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_BOASTFUL_2 |= Welcome back, Slayer! You are a true friend and I don't want to get on the wrong side of you, for sure!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_QUIRKY_1 |= I've tried so many different types of ore but I just can't make it work. I need to keep trying. It might help if I didn't use a rubber hammer.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_QUIRKY_1 |= Gift {FULLNAME} 3 pieces of Shadderwryth Ore
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_QUIRKY_1 |= Gift 3 Shadderwryth Ore of any quality via chat or the Interact wheel.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_QUIRKY_1 |= That worked perfectly, thanks. Here take all this spare ore, I just couldn't make it work with this stuff so you might as well have it. Watch that ore, it seems to have properties that make it try to avoid being shaped!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_QUIRKY_2 |= I've tried so many different types of ore but I just can't make it work. I need to keep trying. It might help if I didn't use a rubber hammer.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_QUIRKY_2 |= Gift {FULLNAME} 3 pieces of Shadderwryth Ore
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_QUIRKY_2 |= Gift 3 Shadderwryth Ore of any quality via chat or the Interact wheel.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_QUIRKY_2 |= That worked perfectly, thanks. Here take all this spare ore, I just couldn't make it work with this stuff so you might as well have it. Watch that ore, it seems to have properties that make it try to avoid being shaped!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_PIOUS_1 |= Hearing tell of all these adventures from people like yourself and Master Jogon, makes me want to stop listening and start telling. I want to be the one who can enchant an audience, and whose stories are told around campfires for thousands of years. So that's it, I'm selling up. The smithy is yours half price, if you would take it? I would be very grateful for this push.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_PIOUS_1 |= Buy the blacksmith at half price
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_1 |= Buy the Blacksmith owned by {FULLNAME} by interacting with the red Ledger on the shop counter and agreeing to buy.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_PIOUS_1 |= Thank you! Now, onward and upward to adventure and my name on the pages and tongues of history!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_PIOUS_2 |= Hearing tell of all these adventures from people like yourself and Master Jogon, makes me want to stop listening and start telling. I want to be the one who can enchant an audience, and whose stories are told around campfires for thousands of years. So that's it, I'm selling up. The smithy is yours half price, if you would take it? I would be very grateful for this push.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_PIOUS_2 |= Buy the blacksmith at half price
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_2 |= Buy the Blacksmith owned by {FULLNAME} by interacting with the red Ledger on the shop counter and agreeing to buy.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_PIOUS_2 |= Thank you! Now, onward and upward to adventure and my name on the pages and tongues of history!
+
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_1_GENERIC |= Hello. Good to meet you. I'm the apothecary owner. Brewing is my business and potions are my passion.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_1_GENERIC |= Well met. I am the apothecary owner. Need a cut sealing or a cough healing, I'm your knuckleberry.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_1_COMPLAINER |= Hello. Are you from around here? I'm not, and am already not liking this place. The grass is just that bit less 'grassy' and the water, less 'watery'.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_GENERIC |= I am interested in helping others and passing on my knowledge. A stitch in time saves nine, they say.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_GENERIC |= I am pretty new to this job, if truth be told, but am always willing to learn and improve my craft.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_BOASTFUL |= I don't suffer fools and will gladly get my monster parts from the dark forests, except for Toughwood. That place is just a bit too scary, even for a professional monster slayer like myself.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_PIOUS |= I really enjoy the wonders of medicine, but I firmly believe in faith healing. I think that the Goddesses put a part of themselves into every herb and flower and that distilled faith fills the cure with the power of healing.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_GENERIC |= I have to say I am concerned about the laxness the locals have towards personal health and wellbeing. I constantly see the same people with the same malady. I suppose it does keep me busy though!
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_GENERIC |= I am really excited to learn more about what local materials are around that I can work with. Have noticed certain maladies on the rise, so I think I could help.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_JOVIAL |= I am just really excited to talk about flowers. You just have to love the colours, smells, taste...  Ha! Not really! I don't actually smell them, just eat them. Haha!
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_QUIRKY |= I have loads of monster facts, by the way. Did you know the Fachen has one eye, arm and leg? It is because it used to be a creature with two personalities that constantly quarrelled, so it split itself in two! Then there is the Water Hag. Some say she was a witch long ago that was drowned, and now seeks revenge from her watery lair.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_BOASTFUL |= Great to see you. Not been back long from a hunt. As usual, I chopped up a few monsters and got some quality parts. I would show you them, but I don't want to spoil them. You are worthy of seeing them, though, don't get me wrong.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_GENERIC |= I am happy to be getting to know you more. I am at my happiest when making friends and helping people, although I find that patients are only your friend until they leave the apothecary.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_GENERIC |= I do need to get monster parts and such, but to be honest I am a bit wary of them. I can handle little ones in small numbers, but I don't like the bigger, nastier ones that sometimes show up. I have to peg it then!
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_COMPLAINER |= I am not sure why I bother working in this place. The locals aren't that friendly. I know I swear at them and am grumpy towards them, but I have to blame someone other than me.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_PIOUS |= If folk had more faith, in themselves and our beloved Goddesses, then they would be less prone to the ailments and curses that can afflict them.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_GENERIC |= We are getting closer aren't we? May I confide in you? I don't think I am actually very good at medicine. I do try my best, but I haven't got the knowledge or the eye for measuring up doses. One day I am sure I will turn somebody into a cake!
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_GENERIC |= Tell you what I would absolutely love...to create a cure for the most awful of maladies, and become famous for it. People would flock to my shop and throw their money at me. Well, not actually throw it. It might mean that lesser illnesses don't get attention, but that's the cost of excellence.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_QUIRKY |= Oh! I have a story for you I wanted to share. It is about the Nymphs of Simplewood. An adventurer once found an injured Nymph and felt sorry for it. He helped it and nursed it back to health. The Nymph was soon able to fly again, but the adventurer charged it 1000 brass for the trouble. Looks like it was the Nymph who got stung! Haha! I almost feel like that story is a commentary on something.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_JOVIAL |= I would love to tell you about a flower that is said to grow in Evergreen. A trader once sold such a flower to a wanderer, and he slipped it behind his ear. He discovered that the ladies were suddenly much more interested in him. They would follow him, give him gifts and offer him rabbit corndolls. He grew so tired from all the attention he decided to start wearing clothes. The flower? Oh, that fell off his ear and got flattened.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_BOASTFUL |= I should let you in on a little secret, seeing as we are getting on well. I am on first name terms with the Witchhunter, Matthew Hobkyns. He often gets me some good parts, exclusively, but I don't like to brag. Ok, I do like to brag.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_GENERIC |= It's time to get back to the daily grind, but thanks for being a friend. That almost sounds like a song. Pure gold.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_GENERIC |= I just feel like I am accomplishing something when I help people. Do you ever get that feeling too?
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_COMPLAINER |= The locals here really don't deserve my help due to their flagrant disregard for best practices to stay healthy. People would rather stick their fingers in mystery holes, eat something they found behind the larder, or trample over tiny Fae cottages with their clumsy wanderings.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_PIOUS |= I would love to get the community more involved with the offering rituals. I am sure some people aren't offering as much as they could be, or offering the right things. Education leads to enlightenment, and a lack of being turned into newts.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_COMPLAINER_1 |= I have been thinking, and my thoughts lead me to the conclusion that the folk around here need teaching a lesson. This may seem mean-spirited, but if you were to inflict some 'trouble' upon them, they might take more care of themselves.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_COMPLAINER_1 |= Inflict {TARGETNAME} with the Emetic trait + Return to NPC
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_COMPLAINER_1 |= Gift any item with the Emetic Trait to {TARGETNAME}, then return for your reward.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_COMPLAINER_1 |= I feel terrible about my overreaction. It is only fair I make some price reductions to win back goodwill, and his brother, Alright Will.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_COMPLAINER_2 |= I really want the folk here to be healthy. Could you give someone an item with Anti-Sickness? That should help them see the light and feel good!
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_COMPLAINER_2 |= Apply the Anti-Sickness trait to {TARGETNAME} + Return
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_COMPLAINER_2 |= Gift any item that has the Anti-Sickness Trait to {TARGETNAME}.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_COMPLAINER_2 |= They will all feel the benefit one day! Thanks for doing that.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_JOVIAL_1 |= I have heard there are amazing, magical flowers in another realm. This place is called Evergreen. It is meant to be full of dryads and strange plants. If I ever got some beautiful flower from a place like that, then it would be a dream.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_JOVIAL_1 |= Gift {FULLNAME} a 5-star Ulisis
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_JOVIAL_1 |= Gift a 5-star Ulisis to the NPC who requested it.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_JOVIAL_1 |= Thank you for getting me that. It's so beautiful! Here are some of our own gorgeous blooms as a reward.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_JOVIAL_2 |= I had a huge realisation earlier. I love flowers so much, yet I spent my life chopping and crushing them. How could I? It's time to move on and start nurturing them, rather than destroying them. You would really help me by buying my apothecary from me. You can have it at 50% off, no questions answered. What say you, love to be?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_JOVIAL_2 |= Buy the apothecary at half price
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_JOVIAL_2 |= Buy the apothecary owned by {FULLNAME} by interacting with the red Ledger on the shop counter and agreeing to buy.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_JOVIAL_2 |= A true friend. Enjoy your new enterprise. A star shop enterprise! Now boldly go and make it a success!
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_BOASTFUL_1 |= You really should meet my pal, the Witchhunter, and do a couple of jobs. You can find him usually hanging around in Homesteads tavern. He's a bit dry but he certainly knows his stuff. Imagine if him and Jogon went at it! Anyway, go see him and come back after.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_BOASTFUL_1 |= Clear 2 bounties for the Witch Hunter + Return
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_BOASTFUL_1 |= Talk to the Witch Hunter in Homesteads tavern and take 2 bounties from his selection. Clear them successfully then return to {FULLNAME}.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_BOASTFUL_1 |= Ahhh well done. Those were the good old days, when a person could bash up monsters nice and easy. These days they are tougher and more and more people get wounded, or worse. I think I should just concentrate on healing those people. Here, take my old hunting gear, and if you ever get hurt, come and see me.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_BOASTFUL_2 |= If you want my love, then you are going to have to earn it. I want to know if you are as great as me at monster slaying. Get me some top-end monster bits, and I will happily share my bread with you. In a metaphorical sense, I mean.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_BOASTFUL_2 |= Gift {FULLNAME} a 5-star monster part
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_BOASTFUL_2 |= Gift any monster part of any quality to {FULLNAME}.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_BOASTFUL_2 |= Well done! You have my thanks and no extra text needed.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_QUIRKY_1 |= I need a favour. I require a top-quality Nymph Wing for an experiment I am conducting. Do you think you could nip and get me one? You might have to go deep into Simplewood, but I'd love you lots. Plus, you are a completionist so I know you will do it.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_QUIRKY_1 |= Gift {FULLNAME} a 5-star Nymph Wing
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_QUIRKY_1 |= Gift a 5-star quality Nymph Wing to completionist. To get higher star ratings, go into the deepest parts of Simplewood.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_QUIRKY_1 |= Thank you for that! Just what the doctor ordered. I have some spare parts you can have by way of appreciation.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_QUIRKY_2 |= I keep dreaming of strange blooms. And in those dreams, I see you, picking them. I see tall men made out of bushes. I see fountains of purest water. Then you bring me the flower and my heart melts. Could you be the one to make my dreams come true?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_QUIRKY_2 |= Gift {FULLNAME} a 5-star Fae flower
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_QUIRKY_2 |= Gift {FULLNAME} a 5-star Fae flower gained from any Fae realm.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_QUIRKY_2 |= You are the dream maker. When I close my eyes at night I shall think of you as I drift off to Nod.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_PIOUS_1 |= The time has come I feel to pack up my medicine bag and live a more devout life. I need to spend more time in nature, thinking about our wonderful lot in life. I could let you have the business for half price, should you so desire? Buying it from me is unfortunately the only way to tick this off your list of things to do, so what do you say, dear friend?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_PIOUS_1 |= Buy the apothecary at half price
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_1 |= Buy the Apothecary owned by {FULLNAME} by interacting with the red Ledger on the shop counter and agreeing to buy.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_PIOUS_1 |= Thank you. Ahhh a life of worship and reflection. For you, my love, a life of mixing creams for spots. You could always sell up though, I suppose!
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_PIOUS_2 |= The time has come I feel to pack up my medicine bag and live a more devout life. I need to spend more time in nature, thinking about our wonderful lot in life. I could let you have the business for half price, should you so desire? Buying it from me is unfortunately the only way to tick this off your list of things to do, so what do you say, dear friend?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_PIOUS_2 |= Buy the apothecary at half price
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_2 |= Buy the Apothecary owned by {FULLNAME} by interacting with the red Ledger on the shop counter and agreeing to buy.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_PIOUS_2 |= Thank you. Ahhh a life of worship and reflection. For you, my love, a life of mixing creams for spots. You could always sell up though, I suppose!
+
+GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= Hello, nice to meet you. Isn't it great here? So vibrant and colourful. There's a nice freshness to this air.
+GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= It's grand to speak to you. Are you the owner of Willowdown Farm? I have heard a lot about you, sometimes via eavesdropping.
+GEN_NPC_STORY_VALE_INTRO_1_PIOUS |= Welcome. Always happy to see a new face. May Druida smile on you and yours.
+
+GEN_NPC_STORY_VALE_INTRO_2_GENERIC |= Ever since I was little I've always wanted to move to the Vale, and here I am.
+GEN_NPC_STORY_VALE_INTRO_2_GENERIC |= I feel like I know every nook and cranny of this place already. From Cowpat Farm to Crumblechalk Mines. It's a haven that has a bit of everything.
+GEN_NPC_STORY_VALE_INTRO_2_JOVIAL |= The Vale is so vast and beautiful. I want to explore it all. Am looking forward to having picnics sat amongst the lavender under an old oak.
+GEN_NPC_STORY_VALE_INTRO_2_COMPLAINER |= Let's hope it lives up to the stories I've heard of this place. Nothing more disappointing than exaggerated tales.
+
+GEN_NPC_STORY_VALE_FRIENDLY_1_GENERIC |= The Vale is so large and can be daunting. Sometimes the hustle and bustle of the village becomes too much for me, and I need to find somewhere out of the way.
+GEN_NPC_STORY_VALE_FRIENDLY_1_GENERIC |= Hey friend. So you've been around these parts longer than me. Where do you think I need to visit? Any little hidden gems or secret glades?
+GEN_NPC_STORY_VALE_FRIENDLY_1_BOASTFUL |= I've started to hike around the Vale and visit some of the landmarks you have around here. Old Mother Hubbards garden is something to behold, I can tell you that. I aspire to grow crops like hers. And the smell coming from her house is just dreamy. That woman can cook! The dog she has disturbs me though.
+GEN_NPC_STORY_VALE_FRIENDLY_1_COMPLAINER |= What's with the big wooden fence in North Gate? It seems so big and imposing compared to the rest of the village. Is it supposed to be keeping something out or keeping something in? It's an eyesore.
+GEN_NPC_STORY_VALE_FRIENDLY_1_QUIRKY |= I've seen a few things recently. Nothing substantial yet but I've definitely seen some kind of spectral activity. I need to pluck up the courage to visit the Burial Grounds after dark. I like the supernatural but those ancient dead folk from the ancient faith give me the ceebee-beebies. No kidding!
+
+GEN_NPC_STORY_VALE_FRIENDLY_2_GENERIC |= There are a few places I'm yet to visit properly.
+GEN_NPC_STORY_VALE_FRIENDLY_2_GENERIC |= I wonder what other oddities there are around here that I'm yet to discover?
+GEN_NPC_STORY_VALE_FRIENDLY_2_JOVIAL |= The pools at Mosswhisper Ruins are so tranquil. I could spend all day sitting under the trees watching the water, with those silent wooden sentinels stood deep in thought. Makes you long for a bygone age. I just wish I could share that feeling with more people.
+GEN_NPC_STORY_VALE_FRIENDLY_2_PIOUS |= Festival Green is a wonderful place to spend some time and bask in the glory of the Woodfellow. On a clear day, you can see it poking up into the sky from all the way over at Cowpat Farm. A reminder to those that live out in the sticks that it is there as a gateway to our beautiful deities.
+
+GEN_NPC_STORY_VALE_LIKE_1_GENERIC |= I have been exploring more of the Vale, and it is a place of intrigue. Nearly as intriguing as you are!
+GEN_NPC_STORY_VALE_LIKE_1_GENERIC |= I noticed they do pig racing in Festival Green. What a peculiar thing! People actually bet their hard-earned money on seeing which is the fastest. Seems fun, but a sure-fire way to lose a meal.
+GEN_NPC_STORY_VALE_LIKE_1_BOASTFUL |= Hey new friend! There's a Flower Show that happens every year I hear. It's a good opportunity to put my expansive botanical knowledge to the test. I always had an interest in the flora of Quill. I think it's because I used to fancy a wanderer girl called Hyacinth.
+GEN_NPC_STORY_VALE_LIKE_1_COMPLAINER |= I hear a lot of banging and knocking inside the Mines. When the air is calm on a quiet night I can hear the knocking from my bed. It's driving me crazy. Although that could possible be the neighbours using up their supply of corndolls.
+GEN_NPC_STORY_VALE_LIKE_1_PIOUS |= I like to keep up with my Goddess offerings weekly, and I believe so should everyone else. Lead by example and the flock shall follow. And lo, he who slurpeth the water shall get hiccups. And the sodden man shall look upon the towels with an envious eye. And let she who casts the last stone, throw the first punch. So endeth the nonsense.
+
+GEN_NPC_STORY_VALE_LIKE_2_GENERIC |= I made a song for you. 'In the Vale of beauty no end, I walk along and see my friend. Standing there with joyous heart, Then you let rip a fart. That's when I know I am truly home, In the Vale, where I do roam'.
+GEN_NPC_STORY_VALE_LIKE_2_GENERIC |= There are so many interesting events, festivals and landmarks in the Vale. It's much bigger than other havens and a lot more varied. Am glad I moved here!
+GEN_NPC_STORY_VALE_LIKE_2_QUIRKY |= Say, have you heard anything about the Spirit Walk? I've read some texts about it and some locals swear it happens, but it just doesn't seem real. I bet it is a sight to not behold.
+GEN_NPC_STORY_VALE_LIKE_2_JOVIAL |= I hear there is a big get-together in Autumn when the whole village comes out to dance together. That sounds great fun. We can dance if we want to, we can leave our friends behind. Cause your friends don't dance, and if they don't dance, well, they're no friends of mine. Although we must obey the safety instructions and not wear hats.
+
+GEN_NPC_STORY_VALE_START_COMPLAINER_1 |= Do you think like I do, that the Knockers are selfish? Why do they have to have all the ore? What do they do with it?! I tell you what, you should teach them a lesson and go get some ore from that Deep Mine they populate. That would be a kick in the eye for them!
+GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_1 |= Harvest 5 pieces of Ore from a mine with Knockers
+GEN_NPC_STORY_VALE_TASK_DESC_COMPLAINER_1 |= Collect 5 pieces of any ore type from any mine that contains Knockers, which are the creatures of the mines.
+GEN_NPC_STORY_VALE_END_COMPLAINER_1 |= You did it? You went into the deep mines, evaded those selfish fiends and took the ore! Did you see them? Did they chase you? Such excitement!
+
+GEN_NPC_STORY_VALE_START_COMPLAINER_2 |= You know what. I'm just not going in the mines with those Knockers. I'm not taking any chances. I'll have to find some other way to craft the tools I need. I Don't suppose you could give me a hand to get some stock started?
+GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_2 |= Gift {FULLNAME} 3 Shovels
+GEN_NPC_STORY_VALE_TASK_DESC_COMPLAINER_2 |= Gift 3 of any Shovel type to {FULLNAME}. Shovels can be bought or crafted in any Blacksmith, provided you have the required mould.
+GEN_NPC_STORY_VALE_END_COMPLAINER_2 |= Cheers for that. Those will help me in spades. Haha!
+
+GEN_NPC_STORY_VALE_START_JOVIAL_1 |= I decided I only want fun people as my closest and dearest. I think you can certainly prove that by attending the Samhain dance on the 8th of Autumn in Cuckoo Wood. Take part and gain my heart.
+GEN_NPC_STORY_VALE_TASK_NAME_JOVIAL_1 |= Take part in the Samhain Dance
+GEN_NPC_STORY_VALE_TASK_DESC_JOVIAL_1 |= Go to the Samhain dance when it is active. You will need to discover when and where it happens. When you discover the information, check your calendar.
+GEN_NPC_STORY_VALE_END_JOVIAL_1 |= That was a dance alright! My feet have so many blisters. How are yours holding up? You are worthy of being my dancing partner.
+
+GEN_NPC_STORY_VALE_START_JOVIAL_2 |= Let's do something fun together! How about we go watch the pig racing when it is on? I love a bit of a flutter on the porkers.
+GEN_NPC_STORY_VALE_TASK_NAME_JOVIAL_2 |= Take {FULLNAME} to watch the pig racing
+GEN_NPC_STORY_VALE_TASK_DESC_JOVIAL_2 |= Get {FULLNAME} to follow you, then go to Festival Green when the Pig Racing event is happening.
+GEN_NPC_STORY_VALE_END_JOVIAL_2 |= That was a laugh! I won enough Brass to fill my pockets. Must remember to stitch up the holes in them though! Thanks for the japes, pal.
+
+GEN_NPC_STORY_VALE_START_BOASTFUL_1 |= I think I'm going to enter the next Flower Show. What do you say about a little challenge between the two of us? Let's put our money where our muck is. You win, and you have my adoration and respect. Got no chance though!
+GEN_NPC_STORY_VALE_TASK_NAME_BOASTFUL_1 |= Beat {FULLNAME} in the Vale Flower Show
+GEN_NPC_STORY_VALE_TASK_DESC_BOASTFUL_1 |= Enter and win the Flower Show.
+GEN_NPC_STORY_VALE_END_BOASTFUL_1 |= I think you must have cheated, but a win is a win. You have my respect and bafflement at how you did that! I nearly soiled myself when they announced you had won!
+
+GEN_NPC_STORY_VALE_START_BOASTFUL_2 |= I have a love-level task for you. I need help practicing for the annual Flower Show. Can you boost my Charm?
+GEN_NPC_STORY_VALE_TASK_NAME_BOASTFUL_2 |= Apply Charm to {FULLNAME}
+GEN_NPC_STORY_VALE_TASK_DESC_BOASTFUL_2 |= Gift any item with the Charm Trait to {FULLNAME}.
+GEN_NPC_STORY_VALE_END_BOASTFUL_2 |= Well, aren't you a good-looking person? I can feel myself charming the hooves off a Puck. Now, where's my mirror, I need some self-love.
+
+GEN_NPC_STORY_VALE_START_QUIRKY_1 |= It's real, the whole thing is real. I know the time and I know the date and I know the place. It happens every year, like dandelion clockwork. We need to go to the Burial Grounds on the 8th of Winter, sometime after 8pm; and bring that Obscura of yours.
+GEN_NPC_STORY_VALE_TASK_NAME_QUIRKY_1 |= Take {FULLNAME} to Burial Grounds during the Spirit Walk Event
+GEN_NPC_STORY_VALE_TASK_DESC_QUIRKY_1 |= Get {FULLNAME} to follow you and take them to the Burial Grounds during the Spirit Walk event. Check your calendar for the 8th of Winter and go to the location after 8pm.
+GEN_NPC_STORY_VALE_END_QUIRKY_1 |= That was an experience like no other. It gave me a spine right up my shiver! Thank you so much for a wonderful evening! My spirits are really high now, pun intended!
+
+GEN_NPC_STORY_VALE_START_QUIRKY_2 |= I think the Spirit Walk might be real. I've been told it takes place on the 8th of Winter every year. The spirits leave the Burial Grounds and make their way north, in a sad procession. I'm not sure if I could handle seeing that many ghosts all at once. Do you think you could go in my place and find out if it really is true?
+GEN_NPC_STORY_VALE_TASK_NAME_QUIRKY_2 |= Interact with 5 Spirits
+GEN_NPC_STORY_VALE_TASK_DESC_QUIRKY_2 |= Find the Spirit Walk and interact with 5 spirits.
+GEN_NPC_STORY_VALE_END_QUIRKY_2 |= You walked with the spirits? Talked with the spirits? Jumped and squeaked and squawked with the oh hold on that's wrong. I bet it was amazing though!
+
+GEN_NPC_STORY_VALE_START_PIOUS_1 |= Could you make a grand offering to Druida? I think that would prove just how much you really are in touch with the Goddesses.
+GEN_NPC_STORY_VALE_TASK_NAME_PIOUS_1 |= Make a 5-star offering to Druida
+GEN_NPC_STORY_VALE_TASK_DESC_PIOUS_1 |= On Goddess Day, make an offering to Druida of any 5-star item.
+GEN_NPC_STORY_VALE_END_PIOUS_1 |= A true advocate of the benefits of worship and devotion. In turn, my devotion now lies with you.
+
+GEN_NPC_STORY_VALE_START_PIOUS_2 |= Could you make a top-tier offering to Freyl? That would really show you are prepared to go the extra mile in worship.
+GEN_NPC_STORY_VALE_TASK_NAME_PIOUS_2 |= Make a 5 star offering to Freyl
+GEN_NPC_STORY_VALE_TASK_DESC_PIOUS_2 |= On Goddess Day, make an offering to Freyl of any 5-star item.
+GEN_NPC_STORY_VALE_END_PIOUS_2 |= You really have what it takes and do like to take orders! What wouldn't you do for a few FP and a reward eh? Don't tell me! Anyway, I respect that.
+
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_GENERIC |= Welcome and well-met! You are from the Vale? I heard it is very beautiful there. Summerdown is very pretty when the poppies are in bloom, especially the huge ones!
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_GENERIC |= Greetings! Always good to meet someone from afar. I recently moved here as I heard it was THE place to party!
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_QUIRKY |= Good Day my fellow human associate... if you even are human? Can never be too sure with all these mischievous Fae around. Shapeshifters the lot of them!
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_PIOUS |= Praise be to Naida. It is nice to meet you. Blessings be on you.
+
+GEN_NPC_STORY_SUMMERDOWN_INTRO_2_GENERIC |= There is a definite air of excess around these parts. The poppies, the pies, the drinking, the pleasure-seeking. It's pretty wild.
+GEN_NPC_STORY_SUMMERDOWN_INTRO_2_GENERIC |= This seems like the kind of place to put a few extra bits of fat around the waistline with the food, then lose it again with the dancing and other leisure activities.
+GEN_NPC_STORY_SUMMERDOWN_INTRO_2_COMPLAINER |= I am fairly new around here. Is it a nice place, do you know? I hope there aren't too many monsters around.
+
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_GENERIC |= Summerdown is a pretty pleasant place to be. There's a jolliness that pervades every tree and bush, brick and beam. Sometimes it can get a bit much if you like things peaceful.
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_GENERIC |= Hey friend. As a person of the world, where do you think I need to visit? Any nice quiet glades or silent pools perfect for reflection?
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_QUIRKY |= I've heard of the Fae. But that's not all you'll find walking the local forests if you know where to look. Strangeness abounds in every nook and secret corner. I was north of the Homesteads the other day and I came across a whole clearing full of these strange fleshy creatures crawling around together near a piece of giant's footwear. So strange!
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_BOASTFUL |= My baking seems to be going down well with the locals. I should take some of produce over to FestField; I'm sure I could make good Brass.
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_COMPLAINER |= I had a lot of trouble at my previous home with scary things. I try and steer clear of Simplewood when travelling across the moors to Mellowfields but it still gives me the creeps, and it is known that now and then, a monster gets out of the woods and causes mischief.
+
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_GENERIC |= There are a few places I'm yet to visit properly.
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_GENERIC |= I wonder if Summerdown has any nice calm places that someone can get away from talk of beer, pies and festivities?
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_JOVIAL |= Everyone around here is so friendly but I'm still finding it hard to make friends. Everyone already knows everyone else. I'm a little on the outside looking in, like a cat watching a goldfish party. I feel like I should camp out of the way with Moon up in Drownhill. That would be in-tents. Geddit?!
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_PIOUS |= I've been spending some time in Loverwood, watching the couples come and go. Sometimes I feel like we should be worshiping love itself and all that brings, not these deities. I did not say that out loud, though.
+
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_GENERIC |= I have been exploring more of Poppyhill and the surrounding areas. Has a nice aura about it, just like you!
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_GENERIC |= I noticed they do chicken racing in FestField. What a peculiar thing! People actually bet their hard-earned money on seeing which is the fastest. Crazy!
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_BOASTFUL |= A Baking Competition here in Summerdown? You can count me in. Its all the locals ever talk about when the summer rolls around. Judging by the amount of pies and cakes they eat, the locals roll around too. I need to perfect my family recipes a little but no doubt you'll see me there some time soon, winning.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_JOVIAL |= There's a dance that takes place every year. Maybe I should use that as an opportunity to make friends? Although, thinking about it, my dancing skills might need some work.
+
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_GENERIC |= I made up a song to pass the time. 'Roses are red, poppies are too. My heart is red and it beats just for you'. It's a bit slushy I know, but one day I will write a book with all these in and make a fortune, I am sure.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_GENERIC |= There are so many interesting events, festivals and landmarks in the Vale. It's much bigger than other havens and a lot more varied. Am glad I moved here!
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_QUIRKY |= I wonder where all these strange creatures come from. I heard from a local that even the scarecrows get up and bounce about from time to time. Old Fred Barleycorn, apparently. Believe it when I see it.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_COMPLAINER |= Enough is enough. Something needs to be done about these monsters. Maybe we can secure the services of the Witch Hunter? I've seen him in the Homesteads tavern. He's a mean looking son of a bun if I ever saw one.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_PIOUS |= It's coming round to Goddess Day again and I really don't know what I want to offer. I know I shouldn't say this, but it's starting to feel like a bit of a chore. Do we really have to do this for all eternity?
+
+GEN_NPC_STORY_SUMMERDOWN_START_COMPLAINER_1 |= You want my love eh? Well, you can scratch my back and I'll scratch yours. If you clear some of those Witch Hunter bounties, then I can sleep more easily and we can be best friends.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_COMPLAINER_1 |= Clear 5 Witch Hunter bounties
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_COMPLAINER_1 |= Speak to the Witch Hunter in Homesteads tavern and clear 5 of his bounties.
+GEN_NPC_STORY_SUMMERDOWN_END_COMPLAINER_1 |= You have my admiration, killer of monsters! Could have done it quicker but that's ok.
+
+GEN_NPC_STORY_SUMMERDOWN_START_COMPLAINER_2 |= Seek out the Witch Hunter.  You can find him in the tavern in Homesteads. I don't want to draw out too much attention though, so maybe you should visit him after midnight after everyone else except the insomniacs are in bed?
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_COMPLAINER_2 |= Clear 5 Witch Hunter bounties
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_COMPLAINER_2 |= Speak to the Witch Hunter in Homesteads tavern and clear 5 of his bounties.
+GEN_NPC_STORY_SUMMERDOWN_END_COMPLAINER_2 |= You found him? He's a bit tall and scary I find. A deal is a deal though.
+
+GEN_NPC_STORY_SUMMERDOWN_START_JOVIAL_1 |= You know what? I think you are great, but you need to lighten up and let go a bit more. Why don't you join in the Maypole Dance in FestField on the 1st day of Summer? Shake the love loose!
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_JOVIAL_1 |= Take part in the Maypole Dance
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_JOVIAL_1 |= Go to FestField on Day 1 of Summer and take part in the Maypole Dance by entering the marked area.
+GEN_NPC_STORY_SUMMERDOWN_END_JOVIAL_1 |= Wasn't that a riot?! No, no it was just a dance. A good dance, though. Many thanks for making yourself look like a vibrating chicken with that dancing.
+
+GEN_NPC_STORY_SUMMERDOWN_START_JOVIAL_2 |= Let's do something fun together! How about we go watch the chicken racing when it is on? I love a bit of a flutter on the cluckers.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_JOVIAL_2 |= Take {FULLNAME} to watch the chicken racing
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_JOVIAL_2 |= Get {FULLNAME} to follow and take them to FestField on Chicken Racing day and to the marked area.
+GEN_NPC_STORY_SUMMERDOWN_END_JOVIAL_2 |= Thanks for that. It was great fun to watch their little feathered bottoms wiggling along the track like their eggs depended on it.
+
+GEN_NPC_STORY_SUMMERDOWN_START_BOASTFUL_1 |= I think I'm going to enter the next Great Quillish Bake Off and win it. What do you say to a little challenge between the two of us? 12th of Summer at FestField. Be there, or be a square sandwich.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_BOASTFUL_1 |= Beat {FULLNAME} in the Summerdown Great Quillish Bake Off
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_BOASTFUL_1 |= Take part in the Bake Off on 12th Summer in FestField and win. You will likely need 5-star creations to top the podium!
+GEN_NPC_STORY_SUMMERDOWN_END_BOASTFUL_1 |= You are a master baker and no mistake! You certainly pulled that one out and gave me a good beating. We must come and do it again, sometime!
+
+GEN_NPC_STORY_SUMMERDOWN_START_BOASTFUL_2 |= I am so tired from practicing for the Bake Off. Can you boost my Stamina?
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_BOASTFUL_2 |= Apply Stamina to {FULLNAME}
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_BOASTFUL_2 |= Gift any item with the Stamina Trait to {FULLNAME}.
+GEN_NPC_STORY_SUMMERDOWN_END_BOASTFUL_2 |= Ahhh I have much more energy now, thanks!
+
+GEN_NPC_STORY_SUMMERDOWN_START_QUIRKY_1 |= Hey you! If you loved me, then you'd take me to see the amazing sight of Fred Barleycorn. The folks say he wakes up on the 4th Summer in FestField and bounces around dispensing candies. I simply MUST see that.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_QUIRKY_1 |= Take {FULLNAME} to Festfield for 8pm during Fred Barleycorns waking
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_QUIRKY_1 |= Get {FULLNAME} to follow and take them to Festfield on 4th Summer, at 8pm.
+GEN_NPC_STORY_SUMMERDOWN_END_QUIRKY_1 |= Well, bless my butter dish! That was incredible. A bouncing scarecrow pooping out candies. Have you ever seen such a sight? Well, yes you did because you were there, but you know what I mean.
+
+GEN_NPC_STORY_SUMMERDOWN_START_QUIRKY_2 |= I heard recently that the scarecrow in Festfield comes to life on the 4th of every Summer. The tales say that if you can strike him with a stone, he'll shower you with candy. If you do that, then I'd think you are a hero!
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_QUIRKY_2 |= Strike Fred Barleycorn with the slingshot twice
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_QUIRKY_2 |= Wait for Fred Barleycorn to bounce around on 4th Summer after 8pm, then hit him twice with your slingshot.
+GEN_NPC_STORY_SUMMERDOWN_END_QUIRKY_2 |= You are so brave. You are someone I could look up to, especially if you were standing on a table. I hope the candy tasted nice...I have no idea where he stores it!
+
+GEN_NPC_STORY_SUMMERDOWN_START_PIOUS_1 |= Could you make a grand offering to Naida? A really, really good one.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_PIOUS_1 |= Make a 5-star offering to Naida
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_PIOUS_1 |= On Goddess Day, make a 5-star offering to Naida at any Goddess Statue.
+GEN_NPC_STORY_SUMMERDOWN_END_PIOUS_1 |= A grand offering from a grand person. May the Goddesses pour honey on your head and shower you with sprinkles. You are a treat in human form.
+
+GEN_NPC_STORY_SUMMERDOWN_START_PIOUS_2 |= Could you make a top notch offering to Hyalis?
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_PIOUS_2 |= Make a 5 star offering to Hyalis
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_PIOUS_2 |= On Goddess Day, make a 5-star offering to Hyalis at any Goddess Statue.
+GEN_NPC_STORY_SUMMERDOWN_END_PIOUS_2 |= A true devotee! You earned my respect.
+
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_1_GENERIC |= Well met! You look like someone who has put in a bit of footwork. Like doing tasks and gaining little rewards, do we?
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_1_COMPLAINER |= Hey, do you know what the markets are like around here? I bet they are pretty useless and unexciting.
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_1_JOVIAL |= Good day. You've caught me as I'm just about to head out for a walk. Or walk out for a head. Definitely the former, I think!
+
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_2_GENERIC |= I have been doing a little exploring to see what the nooks and crannies have to offer. It's definitely not as abundant or varied as your Vale, but it is still interesting.
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_2_PIOUS |= Well met. I hope you have a blessed day.
+
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_GENERIC |= This place is certainly charming on the eye, but I have discovered it is a hot-flower-bed of gossip, backstabbing and greed. It's so competitive!
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_GENERIC |= How many flowers grow, in a Mellowfields country garden? I'll tell you some that I know, if you show me yours. Ha! Just teasing. I don't want to see your petunias, yet.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_QUIRKY |= My poultry partner and I have spent some time with the locals and we've both made some new friends. I was considering taking my pal down to The Shingles, but they literally chicken out whenever they see the twisted trees of Midwood.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_BOASTFUL |= I took a walk around Twanging Gardens the other day. Go to admit it, my ego took a hit. The gardens there are magnificent. That Marshtyt knows his onions, and other plants.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_PIOUS |= Those statues up in the Dancers give off a real mystical vibe, you know? I don't know what magic is coursing through that ground but it's something special. They definitely have some purpose!
+
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_GENERIC |= The gardens and hedgerows certainly hide a lot of whispers, giggling and growing things. It's a bit much to take in, said the High Priest to the fishmonger.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_GENERIC |= I think the fact that Mellowfields folk were traditionally quite short, made them want to be bigger than anyone else, and were also trying to make up for their stunted growth with tales of prowess...at gardening, I mean.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_COMPLAINER |= I browsed the market at FineFayre the other day. Other than your day-to-day basics, nothing of interest was on sale anywhere. Very disappointing.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_JOVIAL |= There are so many nooks and crannies to discover here in Mellowfield. I found a little hidden cavern in the northeast of Mellowbrook the other day. Magical. Well, it wasn't 'actually' magical.
+
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_GENERIC |= The air around here really does get to you. Must be something in the scent of all those flowers. I keep dreaming of being really tall and waving trophies at all the little people looking angrily up at me, waving their tiny fists. Their faces are green with envy, and then I laugh so hard I sneeze and blow them away.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_GENERIC |= Are you a good gardener? Are you full of innuendo and sauce? Bitter? Egotistical? You would fit right in around these parts, were you like that, but I can see you are actually not that good at gardening. Ha! Just kidding.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_BOASTFUL |= I've heard from the locals that there is a Vegetable Show that takes place in Autumn. I think I've picked up enough knowledge on my travels that I should be able to grow some award-winning vegetables. Confidence may sound like arrogance, and it is.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_COMPLAINER |= The local traders around here just sell the same stuff. Even the travelling trader barely has anything interesting and "exotic" any more. Its just the same old tat. Can't blame them though, it must sell well. Feed the masses, not the mind, eh?
+
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_GENERIC |= I think at times people around here need taking down a peg or two, or at least hanging up to dry on the clothes line! Maybe we should attach them to the windmills in Freyl's Fields!
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_GENERIC |= If you do find yourself having an inflated opinion of yourself, please take a moment to sit back and smell the roses. You might find that their aroma makes you feel some love. I used to do that whenever I felt myself floating away. A good deep inhalation and I was back on firm ground again.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_QUIRKY |= May I trust some insight with you? Well, my secret hobby is chickens; particularly how chickens act as a social group. I heard that yearly there is a chicken migration that is quite the sight! Can you imagine such a thing? I just realised that my secret hobby is not a secret now. Please keep your beak shut.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_JOVIAL |= I want to experience all that this Haven has to offer. The yearly Blossom Dance is a favourite of mine. Its not only beautiful, but is good for losing a bit off the old waist!
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_PIOUS |= I'm a little bit worried that my fascination with the Dancer statues has angered the Goddess a little. At the end of the day, they're top of the pile. My spiritual focus should be on them and not some bizarre landmark.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_COMPLAINER_1 |= I am so annoyed about the traders not selling what I want. I wrote to the Trading Standards Committee but of course, they stopped existing 5000 years ago. I have researched where to maybe get some more exciting items, and in my scrabblings, I discovered that there is a Ghost Trader! A trader who is a ghost! That put me in high spirits, no pun intended. All I know is that he was known to frequent the moors at night. Buy something from him, or her...we don't necessarily know them, and I will be a friend for life. Or until our friendship level drops.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_COMPLAINER_1 |= Purchase 1 item from the Ghost Trader
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_COMPLAINER_1 |= Seek the Ghost Trader and buy one item via interacting and choosing the Shop Sign. You may need to find out when and where they appear.
+GEN_NPC_STORY_MELLOWFIELDS_END_COMPLAINER_1 |= I can't really complain. You did what was asked, so thanks!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_COMPLAINER_2 |= I am so annoyed about the traders not selling what I want. I wrote to the Trading Standards Committee but of course, they stopped existing 5000 years ago. I have researched where to maybe get some more exciting items, and in my scrabblings, I discovered that there is a Ghost Trader! A trader who is a ghost! I would love to meet them! Take me to this spirit and I will love you like you ain't never been loved before!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_COMPLAINER_2 |= Take {FULLNAME} to the ghost trader
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_COMPLAINER_2 |= Take the NPC to the marked area by the Ghost Trader. You may need to find out when and where they appear.
+GEN_NPC_STORY_MELLOWFIELDS_END_COMPLAINER_2 |= I just had the shopping experience of an afterlife-time. I hope the things I bought aren't perishable!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_JOVIAL_1 |= You look like someone who can bust a few hips. I mean, moves. Why don't you join in the Blossom Dance in FineFayre on the 2nd day of Spring? Be like Blossom!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_JOVIAL_1 |= Take part in the Blossom Dance
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_JOVIAL_1 |= Go to FineFayre on Day 2 of Spring and take part in the Maypole Dance by entering the marked area.
+GEN_NPC_STORY_MELLOWFIELDS_END_JOVIAL_1 |= Well, you certainly blossomed as a dancer! You were on the floor for most of it. Thanks for turning up though.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_JOVIAL_2 |= Let's do something fun together! How about we go watch the sheep racing when it is on? I love a bit of a bet on the baa-baa's.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_JOVIAL_2 |= Take {FULLNAME} to watch the sheep racing
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_JOVIAL_2 |= Get {FULLNAME} to follow and take them to FineFayre on Sheep Racing day and to the marked area.
+GEN_NPC_STORY_MELLOWFIELDS_END_JOVIAL_2 |= Thanks for that. It was great fun to watch their little woolly bottoms bouncing along the track.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_BOASTFUL_1 |= I think I'm going to enter the next Vegetable Show. What do you say to a little challenge between the two of us? See you there, if not before! Earn my respect!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_BOASTFUL_1 |= Beat {FULLNAME} in the Mellowfield Vegetable Show
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_BOASTFUL_1 |= Take part in the Vegetable Show in FineFayre and win. You will likely need 5-star veg to top the podium!
+GEN_NPC_STORY_MELLOWFIELDS_END_BOASTFUL_1 |= I truly thought my pumpkins were pumped up. That my carrots were the tops and my radishes were rad. You are the true master of veggies.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_BOASTFUL_2 |= I have been trying new techniques for making better veg for the annual Vegetable Show. It has exhausted me, trying to lift those amazing growers. If you have anything that can boost me a bit, I would be much obliged.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_BOASTFUL_2 |= Apply Strength to {FULLNAME}
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_BOASTFUL_2 |= Gift any item that has the Strength Trait to {FULLNAME}.
+GEN_NPC_STORY_MELLOWFIELDS_END_BOASTFUL_2 |= Not only can I now lift massive veg, but I was also swatting a fly and knocked it into another dimension. What a marvel!  You made me feel like an incredible...er...I have the feeling it's an H-word. Hump? Hill? It's comical how I can't think of the word. I shall be avenged!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_QUIRKY_1 |= Would you be so kind as to indulge me in a trip? I want to see the end of the chicken migration. It's always been on my bucket list, which is a list I keep in my bucket. It happens on the 6th of Spring every year. It starts in FineFayre and ends in FestField, which is where we want to go. Let's do it when the time comes! Please!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_QUIRKY_1 |= Take {FULLNAME} to Festfield during the Chicken Migration
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_QUIRKY_1 |= Get {FULLNAME} to follow and take them to FestField on 6th Spring.
+GEN_NPC_STORY_MELLOWFIELDS_END_QUIRKY_1 |= Look at all them chickens! It was egg-straordinary. Thanks, friend.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_QUIRKY_2 |= I wonder how far the chicken migration goes. It happens on the 6th of spring every year, maybe you could travel along it to find out where it starts and ends? I would go, but I'm not the one doing petty tasks for love.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_QUIRKY_2 |= Visit FineFayre and FestField
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_QUIRKY_2 |= Got to the marked areas in FineFayre and FestField on 6th Spring.
+GEN_NPC_STORY_MELLOWFIELDS_END_QUIRKY_2 |= They did that whole route? Amazing creatures. I wonder where they go to? That will likely remain a mystery. They can't just vanish!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_PIOUS_1 |= Could you make a grand offering to Freyl? Short but sweet.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_PIOUS_1 |= Make a 5 star offering to Freyl
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_PIOUS_1 |= On Goddess Day, make a 5-star offering to Freyl at any Goddess Statue.
+GEN_NPC_STORY_MELLOWFIELDS_END_PIOUS_1 |= I'll keep this short to save on word count, but thanks.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_PIOUS_2 |= Could you make a grand offering to Druida?
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_PIOUS_2 |= Make a 5 star offering to Druida
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_PIOUS_2 |= On Goddess Day, make a 5-star offering to Druida at any Goddess Statue.
+GEN_NPC_STORY_MELLOWFIELDS_END_PIOUS_2 |= A proper worshipper and of that there is no doubt.

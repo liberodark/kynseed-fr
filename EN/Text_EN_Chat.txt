@@ -1,0 +1,874 @@
+Chat_Gift |= A gift? For me?
+Chat_Gift[P] |= An offering? For me?
+Chat_Gift[Q] |= You want to give me a gift?
+Chat_Gift[J] |= Ooh! A present?
+Chat_Gift[B] |= A gift? Nice to know I am respected.
+Chat_Gift[C] |= A gift? I bet I already have one.
+Chat_CancelGiftTask |= Oh, ok.
+Chat_CancelGiftTask[P] |= Getting a message from the Goddesses to wait?
+Chat_CancelGiftTask[Q] |= Oh! Did you have a rethink or not got the right thing?
+Chat_CancelGiftTask[J] |= Changed your mind? That's fine!
+Chat_CancelGiftTask[B] |= I knew you wouldn't have what I wanted yet.
+Chat_CancelGiftTask[C] |= I hate it when people cancel gifting.
+Chat_CancelGift |= Oh, changed your mind?
+Chat_CancelGift[P] |= Goddess changed your mind?
+Chat_CancelGift[Q] |= Did you mean to press Cancel?
+Chat_CancelGift[J] |= Changed your mind? That's ok!
+Chat_CancelGift[B] |= I probably had it anyway.
+Chat_CancelGift[C] |= Changed your mind eh? Typical.
+Chat_ChangeFavour |= Oh, ok.
+Chat_AnotherGift |= Another gift? 
+Chat_AnotherGift[P] |= Another offering for me?
+Chat_AnotherGift[Q] |= More? Hurray!
+Chat_AnotherGift[J] |= More gifts?
+Chat_AnotherGift[B] |= Proper respect. I like it.
+Chat_AnotherGift[C] |= I don't have space to store all these.
+Chat_DoNotWant |= I don't need this, thanks.
+Chat_DoNotWant[P] |= Not for me.
+Chat_DoNotWant[Q] |= Very kind of you but I already have a huge stash.
+Chat_DoNotWant[J] |= Oh bless you! Sadly I have to decline.
+Chat_DoNotWant[B] |= I already have more than any person needs.
+Chat_DoNotWant[C] |= Why would you want to give me that?
+Chat_ThankYou |= Thank you very much.
+Chat_ThankYou[P] |= Bless you.
+Chat_ThankYou[Q] |= Many gratitudes.
+Chat_ThankYou[J] |= Thank you muchly!
+Chat_ThankYou[B] |= Thanks, I suppose.
+Chat_ThankYou[C] |= I suppose you want thanking?
+Chat_Goodbye |= Goodbye.
+Chat_Goodbye[P] |= Goddesses go with you. 
+Chat_Goodbye[Q] |= See you later.
+Chat_Goodbye[J] |= Have a good one! 
+Chat_Goodbye[C] |= Goodbye, I suppose.
+Chat_AskGossip |= Thank you! What kind of gossip would you like?
+Chat_AskGossip[P] |= Which knowledge would you prefer?
+Chat_AskGossip[Q] |= I have much juicy gossip. What would you like to know?
+Chat_AskGossip[J] |= Ooh, what can I tell you about on the hush-hush?
+Chat_AskGossip[B] |= What would you like to know? Knowledge is power!
+Chat_AskGossip[C] |= I suppose I have to tell you something useful, sigh.
+
+Chat_Happening_NOTHING |= Not much is happening.
+Chat_Happening_NOTHING[P] |= The Goddesses must be napping.
+Chat_Happening_NOTHING[Q] |= Nothing is going on. It's as quiet as a mouse in slippers.
+Chat_Happening_NOTHING[J] |= Absolutely nothing fun going on for once!
+Chat_Happening_NOTHING[B] |= Peaceful as it should be.
+Chat_Happening_NOTHING[C] |= It's too quiet.
+
+Chat_Happening_SLEEP |= Just heading to my little bed.
+Chat_Happening_SLEEP |= Am off to the land of Nod soon.
+Chat_Happening_SLEEP |= I am just making my way to bed.
+Chat_Happening_SLEEP |= I am so tired I can't wait to flop into my bed.
+
+Chat_Happening_SLEEP[P] |= The Goddesses expect us to rest, so that is where I am going now.
+Chat_Happening_SLEEP[P] |= I am going to bed to dream of Opal and our beloved Goddesses.
+Chat_Happening_SLEEP[P] |= Am going to get some rest, so I have the energy to worship the Goddesses.
+Chat_Happening_SLEEP[P] |= Sleep is for the true. I must go to my bed to seek the truth.
+
+Chat_Happening_SLEEP[J] |= My bed beckons! Those feather pillows tickle my nose!
+Chat_Happening_SLEEP[J] |= Getting ready for bed. I love my bed. I would marry it if I could!
+Chat_Happening_SLEEP[J] |= Soft pillows and a bouncy mattress ahoy!
+Chat_Happening_SLEEP[J] |= I am going home to snore my head off!
+Chat_Happening_SLEEP[J] |= Bedtime soon! Can't wait!
+
+Chat_Happening_SLEEP[B] |= Bedtime. My bed is the comfiest in Quill, I am sure.
+Chat_Happening_SLEEP[B] |= Time for a deserved sleep. I bet I can sleep better than you can.
+Chat_Happening_SLEEP[B] |= I am going to my home to rest my big head on my big pillow.
+Chat_Happening_SLEEP[B] |= Bedtime! My bed cost a fortune, but you can't deny yourself quality sleep.
+
+Chat_Happening_SLEEP[Q] |= Twinkle twinkle little star, How I wonder what you are. Well, it's the eye of the sky raven, of course!
+Chat_Happening_SLEEP[Q] |= I am going to bed where I shall dream of a little dream of meat.
+Chat_Happening_SLEEP[Q] |= I am going to bed soon. I once dreamt I ate a pillow and woke to find a marshmallow in my bed.
+Chat_Happening_SLEEP[Q] |= Am going to bed. I sometimes sleep upside down to see if my dreams are inverted.
+
+Chat_Happening_SLEEP[C] |= I am going to bed, but it is lumpier than my breakfast porridge.
+Chat_Happening_SLEEP[C] |= I must hasten to bed, even though my pillows are like flapjacks. I really don't like them!
+Chat_Happening_SLEEP[C] |= Going home to bed but not sure I will be able to sleep as usual. Too much noise. I wish those moths would shut up.
+Chat_Happening_SLEEP[C] |= Bedtime shortly. Don't know why I bother. I never have interesting dreams.
+
+Chat_Happening_SLEEP[Spouse] |= Time for beddy bye-byes! 
+Chat_Happening_SLEEP[Spouse] |= I need a good sleep. Goodnight dear.
+Chat_Happening_SLEEP[Spouse] |= I am heading to bed for a well-deserved slumber.
+Chat_Happening_SLEEP[Spouse] |= It's bedtime. Don't stay up too late, your eyes are redder than our tomatoes.
+
+Chat_Happening_SLEEP[OwnKid] |= Awww do I have to go to bed?
+Chat_Happening_SLEEP[OwnKid] |= Oh is it really bedtime?
+Chat_Happening_SLEEP[OwnKid] |= I am going to sleep. Goodnight dad, mum, whatever your preference.
+Chat_Happening_SLEEP[OwnKid] |= Night night! Don't let the bed witch bite!
+
+Chat_Happening_SLEEP[OwnKidAdult] |= I am going to do what any son or daughter would do for their parents...sleep.
+Chat_Happening_SLEEP[OwnKidAdult] |= It's my bedtime. I need at least 25 hours per day.
+Chat_Happening_SLEEP[OwnKidAdult] |= Going to bed. Goodnight parent of mine.
+Chat_Happening_SLEEP[OwnKidAdult] |= It's my bedtime. I have an appointment with Mr Snooze.
+
+Chat_Happening_GETUP |= A good sleep makes you ready for the day ahead.
+Chat_Happening_GETUP |= Another day beckons with its finger of adventure.
+Chat_Happening_GETUP |= I had a decent sleep. Can't complain, really.
+Chat_Happening_GETUP |= Feeling refreshed and ready to tackle the day.
+
+Chat_Happening_GETUP[P] |= Another day of wonderful worship and loving nature ahead.
+Chat_Happening_GETUP[P] |= The Goddesses visited me in my sleep to thank me for my dedication!
+Chat_Happening_GETUP[P] |= I slept the sleep of the devout. Absolutely horribly as we should suffer for our sins.
+Chat_Happening_GETUP[P] |= Am glad to be awake. When I am asleep, I cannot revere our wonderful gift of nature.
+
+Chat_Happening_GETUP[J] |= I slept like a log! All brown and long!
+Chat_Happening_GETUP[J] |= Oh, I feel magnificent after that kip! I am a great kipper!
+Chat_Happening_GETUP[J] |= I dreamt I was a marshmallow and a pillow ate me! Loved it!
+Chat_Happening_GETUP[J] |= Sleep is like a stone egg. You can't beat it!
+
+Chat_Happening_GETUP[B] |= I slept better than you last night. And that's not me being competitive. I'm the most uncompetitive person there is!
+Chat_Happening_GETUP[B] |= Another night passed, and another day that the world welcomes my presence.
+Chat_Happening_GETUP[B] |= You can't buy a good sleep, they say. Well, I did!
+Chat_Happening_GETUP[B] |= I had my beauty sleep. You obviously had an ugly sleep.
+
+Chat_Happening_GETUP[Q] |= What a dream! Sheep were counting me jumping over fences. After that, things got woolly.
+Chat_Happening_GETUP[Q] |= I dreamt I slept on a sausage. It was the wurst sleep I ever had.
+Chat_Happening_GETUP[Q] |= I had a nightmare last night. I was an egg and the stress was so much I nearly cracked. No yolk!
+Chat_Happening_GETUP[Q] |= I think one of my bedsprings hates me. I should sleep on onions. Bedspring onions.
+
+Chat_Happening_GETUP[C] |= I slept like the dead. Rotten.
+Chat_Happening_GETUP[C] |= My bed is the worst. I may as well just punch myself in the spine all night.
+Chat_Happening_GETUP[C] |= Am sure the bedbugs have a vendetta against me. I have more bites than a vampire at a neck festival.
+Chat_Happening_GETUP[C] |= Good morning? What's good about it? Just push me in the funeral pool now and be done with it.
+
+Chat_Happening_WORK |= Just working. An honest day's work hurt nobody. Unless that work is fighting monsters.
+Chat_Happening_WORK |= Work, work and some more work.
+Chat_Happening_WORK |= Earning my keep. Someone has to pay the bills. Those duck money collectors get you every time.
+Chat_Happening_WORK |= Bit of this. Bit of that. Ducking and diving, wheeling and dealing. More pennies for the jar.
+
+Chat_Happening_WORK[P] |= I am going to work now. I hope the Goddesses can see how much effort I put in.
+Chat_Happening_WORK[P] |= Work separates the devout from the lazy. If you love your Goddess, you are energised to work hard.
+Chat_Happening_WORK[P] |= Goddesses bless me with the work I am about to do.
+Chat_Happening_WORK[P] |= I am looking forward to a good honest bit of work.
+
+Chat_Happening_WORK[J] |= Work! I love it! When I am not hating it!
+Chat_Happening_WORK[J] |= Working. I work about as hard as the butter in my larder. If only I had any butter!
+Chat_Happening_WORK[J] |= Got to love a bit of work! Seeing people smile makes the work go easy. I always go to work on a smile. I can't ride pigs that's why.
+Chat_Happening_WORK[J] |= Work time! Work is never a chore if you have the right attitude.
+
+Chat_Happening_WORK[B] |= I am the hardest worker in Quill, which is why I am so renowned.
+Chat_Happening_WORK[B] |= I am working, but it's a cinch for talented folk like me.
+Chat_Happening_WORK[B] |= If they had the best worker award, I would win it, I am sure. There is no I in pie, but there is a ME in meat.
+Chat_Happening_WORK[B] |= I am meant to be working, but often work just does itself for me. I have no idea what that means.
+
+Chat_Happening_WORK[Q] |= I am going to work. It's the only way to earn enough Brass to be able to chew on the coins.
+Chat_Happening_WORK[Q] |= My dialogue is meant to suggest I am working but I often forget who I am. Confused? Me too.
+Chat_Happening_WORK[Q] |= I will be pretending to work. This is a role-playing game, after all!
+Chat_Happening_WORK[Q] |= Earning Brass. Would be rich if we earned Wood or Soil.
+
+Chat_Happening_WORK[C] |= Got to work. I am so happy about that, as you can probably tell from my grimace.
+Chat_Happening_WORK[C] |= I am meant to be 'working'. I said that in inverted commas to emphasise my displeasure.
+Chat_Happening_WORK[C] |= My job is like a bee on a flower. It sucks. I just wish it would buzz off.
+Chat_Happening_WORK[C] |= My back aches from complaining about work.
+
+Chat_Happening_FARMING |= Am going to toil in the soil. Need to keep our crop squares tiptop.
+Chat_Happening_FARMING[Spouse] |= You set the order for me to tend to the crops, so I feel compelled to do so.
+Chat_Happening_FARMING[Spouse] |= I am doing a bit of farming. The soil needs tending to as a lover would tend to their love.
+Chat_Happening_FARMING[Spouse] |= Am going to toil in the soil. Need to keep our crop squares tiptop.
+Chat_Happening_FARMING[Spouse] |= There's farm work needs doing. Crops and soil, work and toil. Those plots are our dinner plates.
+
+Chat_Happening_GOHOME |= I am going home.
+Chat_Happening_GOHOME |= Heading to my lovely home.
+Chat_Happening_GOHOME |= I am going back to my house.
+Chat_Happening_GOHOME |= Just walking home. Nothing exciting.
+
+Chat_Happening_GOHOME[P] |= I am going home to think of our beautiful Fae deities.
+Chat_Happening_GOHOME[P] |= Home time. A time to reflect on our place in the order of things.
+Chat_Happening_GOHOME[P] |= I am going back to my humble home to meditate.
+Chat_Happening_GOHOME[P] |= Bless the Goddesses for my little home. I am heading there now.
+
+Chat_Happening_GOHOME[J] |= Home is where the heart is. I keep mine in a jar under the bed. Wahey!
+Chat_Happening_GOHOME[J] |= I am going back to my house to watch the fire dancing. It's really entertaining!
+Chat_Happening_GOHOME[J] |= Just heading home. A spring in my step. Literally, I have some coiled metal in my shoe.
+Chat_Happening_GOHOME[J] |= I'm so happy to be heading back to my house. It's where all my fond memories are, and my stuff.
+
+Chat_Happening_GOHOME[B] |= Haven't you got a home to go to like me? Probably not as nice as mine, though.
+Chat_Happening_GOHOME[B] |= I am heading home after a nice walk showing off my superior clothing quality.
+Chat_Happening_GOHOME[B] |= I am going home. Some of us have nice homes to go to and don't waste time chatting with folk.
+Chat_Happening_GOHOME[B] |= Going home to my silk sheets, fine food and spotless windows.
+
+Chat_Happening_GOHOME[Q] |= I am going back to my house. It's nothing much in the grand scheme of things, but it has a working toilet and see-through windows, so all good.
+Chat_Happening_GOHOME[Q] |= Home time! I love to sit in my chair and stare at the spiders in the rafters. I named mine Rita, Sue and Kevin. Sadly, Bob got squashed.
+Chat_Happening_GOHOME[Q] |= I am walking home. I love the sight of my three walls. Apparently, there are four, but I can't count that high.
+Chat_Happening_GOHOME[Q] |= I am going to that place where everybody knows my name. No, not the pub...home! Cheers!
+
+Chat_Happening_GOHOME[C] |= I am going home, and my feet hurt. Can never get good shoes these days. It's cobblers, I tell you.
+Chat_Happening_GOHOME[C] |= I am going back to my house. It is damp and smelly. I would burn it down, but it's just too damp.
+Chat_Happening_GOHOME[C] |= It's time for me to go home. Well, I would if my dandelion worked. I sneezed, and now it is apparently 12 hours later.
+Chat_Happening_GOHOME[C] |= Going home. I hate going home. I like being at home sometimes; I just don't like the going there part.
+
+Chat_Happening_GARDEN |= Just sorting out the garden.
+Chat_Happening_GARDEN |= A nice bit of gardening.
+Chat_Happening_GARDEN |= Just tending to my humble garden.
+Chat_Happening_GARDEN |= Lovely day for some gardening.
+
+Chat_Happening_GARDEN[P] |= Gardening. It is growth that makes a person better.
+Chat_Happening_GARDEN[P] |= Gardening is the best way to appreciate nature's bounty. 
+Chat_Happening_GARDEN[P] |= I need to tend to my garden. It is one small way to give back to nature.
+Chat_Happening_GARDEN[P] |= I am growing simple things for my simple self. The Goddesses appreciate that, I am sure.
+
+Chat_Happening_GARDEN[J] |= Got to do some gardening. It's great to be outdoors getting some fresh air!
+Chat_Happening_GARDEN[J] |= I am gardening. You just can't beat it! Especially if you love gardening.
+Chat_Happening_GARDEN[J] |= Gardening makes me smile. I think my gardening pants are too tight.
+Chat_Happening_GARDEN[J] |= Get out and do some gardening like me! It's great fun!
+
+Chat_Happening_GARDEN[B] |= I have to keep my excellent garden in order.
+Chat_Happening_GARDEN[B] |= Tending my garden. It's the first thing passers-by see, so it must be up to mustard plants.
+Chat_Happening_GARDEN[B] |= I have to garden. How else would I impress other gardeners?
+Chat_Happening_GARDEN[B] |= I am gardening. I use only the best tools.
+
+Chat_Happening_GARDEN[Q] |= I am sorting out my garden. I like to talk to the worms at length.
+Chat_Happening_GARDEN[Q] |= I am culturing my horti. Yes I have no idea what horti are. I thought they might be seed fairies.
+Chat_Happening_GARDEN[Q] |= I am tending to my little garden. Every time I bend down though, I get a hole in my plants.
+Chat_Happening_GARDEN[Q] |= What does it look like I am doing? Gardening? Oh, that's right.
+
+Chat_Happening_GARDEN[C] |= I am sure my garden is plotting against me.
+Chat_Happening_GARDEN[C] |= My back hurts from gardening. Even the thought of gardening causes back pain.
+Chat_Happening_GARDEN[C] |= I am gardening. I would get more done if I didn't have to keep answering obvious questions.
+Chat_Happening_GARDEN[C] |= This garden needs sorting. It doesn't matter what I do; it always gets dirty.
+
+Chat_Happening_GARDEN[Spouse] |= I am just getting some of those weeds pulled up in our garden.
+Chat_Happening_GARDEN[Spouse] |= I am doing a nice bit of gardening to help keep it looking nice for us.
+Chat_Happening_GARDEN[Spouse] |= Got to sort the garden out. Apparently, our house Brounie thinks the garden is beneath him. Which it is.
+Chat_Happening_GARDEN[Spouse] |= Nice day for some gardening. A marital home is nothing without a neat garden.
+
+Chat_Happening_GARDEN[OwnKid] |= Do I have to do the gardening? It's hard work!
+Chat_Happening_GARDEN[OwnKid] |= I keep finding worms. They have smiley faces.
+Chat_Happening_GARDEN[OwnKid] |= You told me to help in the garden. It's not fair.
+Chat_Happening_GARDEN[OwnKid] |= I am playing in the garden. I mean working hard.
+
+Chat_Happening_GARDEN[OwnKidAdult] |= I am helping you out by doing the gardening. Your appreciation is noted.
+Chat_Happening_GARDEN[OwnKidAdult] |= Do I have to do this, at my age? Gardening is for really old people.
+Chat_Happening_GARDEN[OwnKidAdult] |= Getting my fingers green in the garden.
+Chat_Happening_GARDEN[OwnKidAdult] |= Doing my chores. Do I still get pocket money at my age?
+
+Chat_Happening_RELAX |= Just relaxing a bit.
+Chat_Happening_RELAX |= Taking it easy. Restful body, restful mind.
+Chat_Happening_RELAX |= It is my time to relax a bit and enjoy the world.
+Chat_Happening_RELAX |= I am recharging my butteries. I think that's the expression.
+
+Chat_Happening_RELAX[P] |= Even the Goddesses relax, and when they do, I do.
+Chat_Happening_RELAX[P] |= I am meditating and thinking of our beloved guardians.
+Chat_Happening_RELAX[P] |= I am relaxing. The body needs to be ready for worship at any time.
+Chat_Happening_RELAX[P] |= I am taking it easy for all you sinners, dude.
+
+Chat_Happening_RELAX[J] |= I am having some me time. It's the best time after dinner time and read a book on the toilet time.
+Chat_Happening_RELAX[J] |= Having a bit of a wind-down! All that laughing knackers a person out!
+Chat_Happening_RELAX[J] |= I am not being lazy. I am just expressing my right not to do anything. *winks*
+Chat_Happening_RELAX[J] |= Relax! Don't do it! When you want to fart, brew it! 
+
+Chat_Happening_RELAX[B] |= I am having a well-deserved rest. Success demands it.
+Chat_Happening_RELAX[B] |= Rest is for the wicked. I am having a rest.
+Chat_Happening_RELAX[B] |= Time stands still for no man. Well, except the quality ones, so I am having a rest.
+Chat_Happening_RELAX[B] |= If you live a life wanting the best, then you will have time to rest. Mainly because you can afford to pay others to do your jobs.
+
+Chat_Happening_RELAX[Q] |= Life is like a box of Candy Squirrels. You always know there are nuts in it. That's why you need to relax and take it easy, Mr Squirrel. 
+Chat_Happening_RELAX[Q] |= I am just resting my eyes. The rest of me is still very active, though.
+Chat_Happening_RELAX[Q] |= Just having some me time. It is the time of day I like to breathe in deeply and hopefully remember to breathe out again. I sometimes forget and float off.
+Chat_Happening_RELAX[Q] |= My routine says RELAX, so that is exactly what I intend to do!
+
+Chat_Happening_RELAX[C] |= Even my relaxing time is disturbed by nattering!
+Chat_Happening_RELAX[C] |= I can't talk much more; my jaw aches.
+Chat_Happening_RELAX[C] |= I am trying to relax, but as usual, it never happens.
+Chat_Happening_RELAX[C] |= I may as well just relax in Toughwood. Get more peace there, I bet. Definitely more pieces.
+
+Chat_Happening_RELAX[Spouse] |= Ahhh some mind and body cleansing relaxation.
+Chat_Happening_RELAX[Spouse] |= I am having a break, dear, from the hustle and bustle of daily life on our farm.
+Chat_Happening_RELAX[Spouse] |= I am giving my aching muscles some respite. Go easy on that scheduling, dearest.
+Chat_Happening_RELAX[Spouse] |= A well-deserved break from the everyday, if you don't mind, my sweet honeypot.
+
+Chat_Happening_RELAX[OwnKid] |= Playtime!
+Chat_Happening_RELAX[OwnKid] |= I am playing.
+Chat_Happening_RELAX[OwnKid] |= It's time to play!
+Chat_Happening_RELAX[OwnKid] |= It's my playtime. Zoooom!
+
+Chat_Happening_RELAX[OwnKidAdult] |= It's nice to know you care what I am doing. Or are you just checking up on me?
+Chat_Happening_RELAX[OwnKidAdult] |= I am having a little break from the endless grind.
+Chat_Happening_RELAX[OwnKidAdult] |= Just unwinding and thinking of how lucky we are to be here.
+Chat_Happening_RELAX[OwnKidAdult] |= I need a rest. Being your child is exhausting, even though I am grown up.
+
+Chat_Happening_SOCIALISE |= I am going to talk to my pals.
+Chat_Happening_SOCIALISE[OwnKid] |= I want to see my invisible friends.
+Chat_Happening_SOCIALISE[OwnKid] |= I am going to talk to my pals.
+Chat_Happening_SOCIALISE[OwnKid] |= I am searching for deep meaningful human interactions that will fulfil my soul and expand my intellect.
+
+Chat_Happening_STUDY |= Ssshh I am studying.
+Chat_Happening_STUDY[OwnKid] |= Ssshh I am studying.
+Chat_Happening_STUDY[OwnKid] |= I am doing my homework as you asked.
+Chat_Happening_STUDY[OwnKid] |= I am expanding my mind through the usage of literary works, both fact, fictional and nonsense.
+Chat_Happening_STUDY[OwnKid] |= I am trying to raise my intelligence stat through study.
+
+Chat_Happening_MILKCOW |= Someone needs to milk the family cow, so I am going to do it.
+
+Chat_Happening_MILKCOW[Spouse] |= I am getting us some milk from our lovely cow.
+Chat_Happening_MILKCOW[Spouse] |= Just going to exercise some udders.
+Chat_Happening_MILKCOW[Spouse] |= I have a bucket with my name on it. Well, if I was called Milk.
+Chat_Happening_MILKCOW[Spouse] |= Someone needs to milk the family cow, so I am going to do it.
+
+Chat_Happening_MILKCOW[OwnKidAdult] |= Have I got to milk that cow? Its udders make me shudder.
+Chat_Happening_MILKCOW[OwnKidAdult] |= Going to milk the cow. Need milk if I am to stay healthy and strong.
+Chat_Happening_MILKCOW[OwnKidAdult] |= The cow is calling my name. Well, I am not called moo, but it is suggesting I milk it.
+Chat_Happening_MILKCOW[OwnKidAdult] |= Going to do some milking, just because.
+
+Chat_Happening_GET_HONEY |= I am going to talk to the bees and see what I can trade with them.
+
+Chat_Happening_GET_HONEY[Spouse] |= I am collecting honey, honey.
+Chat_Happening_GET_HONEY[Spouse] |= I am going to talk to the bees and see what I can trade with them.
+Chat_Happening_GET_HONEY[Spouse] |= I am likely going to get stung. Honey prices these days!
+Chat_Happening_GET_HONEY[Spouse] |= There is some nectar needs harvesting from the hive, so I am going to do it.
+
+Chat_Happening_GET_HONEY[OwnKid] |= Honey time! Yum!
+Chat_Happening_GET_HONEY[OwnKid] |= I have to go get some honey for us all. Yay!
+Chat_Happening_GET_HONEY[OwnKid] |= Those bees stung me! It's not fair!
+Chat_Happening_GET_HONEY[OwnKid] |= Mrs Queen Bee said I could take some honey if I trade her some cakes. Honest.
+
+Chat_Happening_GET_HONEY[OwnKidAdult] |= It's my favourite time. Dodge bees and grab their honey time.
+Chat_Happening_GET_HONEY[OwnKidAdult] |= I am collecting honey to meet my needs. Our needs.
+Chat_Happening_GET_HONEY[OwnKidAdult] |= Going to get me some sweeeeet honey!
+Chat_Happening_GET_HONEY[OwnKidAdult] |= I am going to fill up on the amber nectar. No, not beer, yet.
+
+Chat_Happening_EXPLORE |= Am going exploring! 
+Chat_Happening_EXPLORE[OwnKid] |= I am just off out for a wander and to find fun things.
+Chat_Happening_EXPLORE[OwnKid] |= Am going exploring!
+Chat_Happening_EXPLORE[OwnKid] |= Exploring time!
+Chat_Happening_EXPLORE[OwnKid] |= Is it ok if I go exploring? I like finding things hidden away, like those little doors.
+
+Chat_Happening_PETS |= I am just sorting out the animals.
+
+Chat_Happening_PETS[Spouse] |= I am just sorting out the animals. Someone has to!
+Chat_Happening_PETS[Spouse] |= I am just tending to the pets. Got to love them!
+Chat_Happening_PETS[Spouse] |= I need to tend to the animals. They can't feed themselves! Well, they sort of can and do.
+Chat_Happening_PETS[Spouse] |= Just going to groom and pamper the pets. Lucky things.
+
+Chat_Happening_PETS[OwnKid] |= I want to stroke the pets! Unless I have the animal hater trait, in which case I don't.
+Chat_Happening_PETS[OwnKid] |= I am going to feed the animals. 
+Chat_Happening_PETS[OwnKid] |= Going to feed our pets as you said.
+Chat_Happening_PETS[OwnKid] |= Pet time!
+
+Chat_Happening_PETS[OwnKidAdult] |= I am going to sort the pets out.
+Chat_Happening_PETS[OwnKidAdult] |= Time to feed the pets as commanded. Would rather be doing something less smelly.
+Chat_Happening_PETS[OwnKidAdult] |= It's feeding time at the zoo. I learned that a zoo was a kind of crazy animal house, a bit like our home.
+Chat_Happening_PETS[OwnKidAdult] |= I am just going to see if the pets are ok, as you asked. 
+
+Chat_Happening_EAT |= Just going to have a bite to eat.
+Chat_Happening_EAT |= A bit hungry, so going to sort that out in the customary way.
+Chat_Happening_EAT |= Just about to have a bit of grub. Or any other small insect.
+Chat_Happening_EAT |= Need a nibble to satisfy my craving for nibbles.
+
+Chat_Happening_EAT[P] |= I am about to eat after I say a little prayer of thanks.
+Chat_Happening_EAT[P] |= Food sustains the body. Worship sustains the soul.
+Chat_Happening_EAT[P] |= I am eating something, so I have energy for reverence.
+Chat_Happening_EAT[P] |= All things must eat. It is the will of the Goddesses that we develop, eat, fertilise and grow.
+
+Chat_Happening_EAT[J] |= I am peckish...said the small chicken to the Druid.
+Chat_Happening_EAT[J] |= I could murder a nice meal, but murder isn't even a concept in this day and age, so I will just eat one.
+Chat_Happening_EAT[J] |= I need to eat. Gotta love food! It's even better when it's free!
+Chat_Happening_EAT[J] |= I was about to fill my empty belly with the fruits of, well, fruit trees.
+
+Chat_Happening_EAT[B] |= I need to eat. A person of quality needs to maintain energy.
+Chat_Happening_EAT[B] |= My food is always top tier, so I shall endeavour to eat some and absorb its quality.
+Chat_Happening_EAT[B] |= I need to eat. I could probably eat more than any Ogyr easily.
+Chat_Happening_EAT[B] |= I am going to eat something rich because you are what you eat.
+
+Chat_Happening_EAT[Q] |= I am going to run the gauntlet of eating cooked food. Wizard needs food badly! What's a wizard?
+Chat_Happening_EAT[Q] |= My first is in Pie but not in Cake. I rhyme with meat but not with pudding. What am I? Other than starving?
+Chat_Happening_EAT[Q] |= It's time for Mr Pastry to go potholing in Rumblytum Cavern.
+Chat_Happening_EAT[Q] |= I could eat a horse. Perhaps that's why they became extinct? In that logic, why aren't pies extinct?
+
+Chat_Happening_EAT[C] |= It's time for me to eat. I bet it tastes like squirrel droppings again. I really must stop snacking on those.
+Chat_Happening_EAT[C] |= Uuugghh food time. I bet it's cold salad again.
+Chat_Happening_EAT[C] |= I need to eat, but my stomach faery is really fussy.
+Chat_Happening_EAT[C] |= A bowmaker once tried to test me. I ate his quiver with some Crystal Beans and a nice Pea Shandy.
+
+Chat_Happening_EAT[Spouse] |= I am eating if you do not mind? It's rude to talk with your face stuffed.
+Chat_Happening_EAT[Spouse] |= I am just grabbing some grub as I am famished.
+Chat_Happening_EAT[Spouse] |= I am just eating this delicious meal provided for us by your good self and the Goddesses.
+Chat_Happening_EAT[Spouse] |= Just getting some well-earned nourishment, O love of my life.
+
+Chat_Happening_EAT[OwnKid] |= I am eating my food.
+Chat_Happening_EAT[OwnKid] |= I am hungry. Food time!
+Chat_Happening_EAT[OwnKid] |= Mmfffmmm I am grmmpphh eatin'.
+Chat_Happening_EAT[OwnKid] |= Yay! Foody time!
+
+Chat_Happening_EAT[OwnKidAdult] |= Do you have to talk to me while I am eating?
+Chat_Happening_EAT[OwnKidAdult] |= I am hungry, so just filling my belly up.
+Chat_Happening_EAT[OwnKidAdult] |= It's my favourite time of day...gorging time.
+Chat_Happening_EAT[OwnKidAdult] |= Just having some nourishment. Being your child is draining.
+
+Chat_Happening_TAVERN |= Am going to have a nice drink.
+Chat_Happening_TAVERN |= I don't endorse drunken behaviour, but I do endorse drinking.
+Chat_Happening_TAVERN |= I'm just here for the beer.
+Chat_Happening_TAVERN |= I am going to talk to the spirits and see which one wants me to drink them.
+
+Chat_Happening_TAVERN[P] |= I am going to the tavern to quench my thirst after a hard day's worship.
+Chat_Happening_TAVERN[P] |= I don't believe in getting drunk unless instructed to by our Fae deities.
+Chat_Happening_TAVERN[P] |= I find that the tavern is a wonderful place to spread the word of the Goddesses. And have a little tipple on the side. It's thirsty work!
+Chat_Happening_TAVERN[P] |= I could worship a ******* pint right now.
+
+Chat_Happening_TAVERN[J] |= Drink, drink and be merry! Taverns are the place to be!
+Chat_Happening_TAVERN[J] |= Am looking forward to a lovely beer and some terrible bar snacks.
+Chat_Happening_TAVERN[J] |= You can't beat a tavern for the sound of laughter, merriment and projectile vomiting.
+Chat_Happening_TAVERN[J] |= I am going to have so much booze I will forget what I was going to the tavern for, then have to another drink to remind myself.
+
+Chat_Happening_TAVERN[B] |= Tavern time is a great time to show everyone the proper way to drink.
+Chat_Happening_TAVERN[B] |= I bet I could drink anyone under the table. Not literally.
+Chat_Happening_TAVERN[B] |= I once drank 13 pints of Dragonsbreath and it did nothing to me. My ancestors, however, all got poisoned livers.
+Chat_Happening_TAVERN[B] |= I am the best drinker in all Quill, and I am going to prove it someday. Just a small tipple now, though.
+
+Chat_Happening_TAVERN[Q] |= Drinkapintabeeraday. Hank Hock told me that half an hour ago.
+Chat_Happening_TAVERN[Q] |= I hope the tavern has some good entertainment on. I like Jester Draws. He's outstanding. Over there in that field.
+Chat_Happening_TAVERN[Q] |= Am going to replace my blood with some good old-fashioned alcohol. If I die, I will come back as a very unstable bee.
+Chat_Happening_TAVERN[Q] |= I need a drink like a worm needs shoes! Oh, hang on...
+
+Chat_Happening_TAVERN[C] |= I am going to have a drink to forget my amazing shithouse of a life.
+Chat_Happening_TAVERN[C] |= Going to the pub. It smells in there, but moany buggers can't be choosers.
+Chat_Happening_TAVERN[C] |= I hope they don't have that awful bard on stage. He can play the lute like a cow can knit.
+Chat_Happening_TAVERN[C] |= The beer I am going to drink will no doubt taste like someone mashed it with their cheesy feet. At least one thing in life is good.
+
+Chat_Happening_WALK |= Just going for a lovely walk!
+Chat_Happening_WALK |= I am going to get some exercise in the traditional way. Walking around randomly.
+Chat_Happening_WALK |= Just going to pound the white path a bit. I do mean walk.
+Chat_Happening_WALK |= Hey! I'm walking here! A good thing it's not midnight, cow-boy.
+
+Chat_Happening_WALK[P] |= I need a good honest walk to build up a head of worshipping steam.
+Chat_Happening_WALK[P] |= Just off to ramble around and gaze at the wonderful nature.
+Chat_Happening_WALK[P] |= Just going to have a lovely walk under the gaze of our wondrous Goddesses.
+Chat_Happening_WALK[P] |= I just love to walk beneath Aurore's soft blanket.
+
+Chat_Happening_WALK[J] |= Just going for a jolly old stroll because I am jolly and old.
+Chat_Happening_WALK[J] |= Having a perambulation, which is a funny word and makes me giggle.
+Chat_Happening_WALK[J] |= I am going for a walk to fill my lungs with magnificent Quillian air! 
+Chat_Happening_WALK[J] |= I love a good walk! I bet you have been everywhere all over on your travels.
+
+Chat_Happening_WALK[B] |= I am the best walker in Quill, you know?
+Chat_Happening_WALK[B] |= I am taking a stroll through the land to nosey at other people's inferior houses.
+Chat_Happening_WALK[B] |= I am just having a stroll because that's how I develop my amazing ideas.
+Chat_Happening_WALK[B] |= These boots were made for walking. Made from finest Bowing Nancy, to be frank.
+
+Chat_Happening_WALK[Q] |= I am going for a walk. I can moonwalk you know? I just go out at night.
+Chat_Happening_WALK[Q] |= I like to take a stride out in my strides. It's better than wearing my shuffles.
+Chat_Happening_WALK[Q] |= Have you ever been rambling? I could talk for hours about it.
+Chat_Happening_WALK[Q] |= I am going to stretch my legs, said the masochist in the torture rack.
+
+Chat_Happening_WALK[C] |= Oh my feet are aching just thinking about this walk I am going on.
+Chat_Happening_WALK[C] |= I am going for a walk to try to forget just how boring walks are.
+Chat_Happening_WALK[C] |= Heading out for some fresh air. If by fresh, you mean stinking of beer and cowpats.
+Chat_Happening_WALK[C] |= Must I really go for a walk? I'm tired. My routine needs changing in the editor.
+
+Chat_Happening_SHOPPING |= I am just heading to the shops for supplies.
+Chat_Happening_SHOPPING |= Supplies! Supplies! The unexpected prices hit you between the eyes. 
+Chat_Happening_SHOPPING |= Just about to stock up on unnecessaries.
+Chat_Happening_SHOPPING |= Going to treat myself. Butter, flour, eggs, River Trout. I am making a fish cake.
+
+Chat_Happening_SHOPPING[P] |= I am going to the store to find gifts for our beloved Goddesses.
+Chat_Happening_SHOPPING[P] |= I need to stock up on the basics.
+Chat_Happening_SHOPPING[P] |= I am a bit short on offerings so going to buy more.
+Chat_Happening_SHOPPING[P] |= A Goddess whispered to me that I need retail therapy. I didn't have a tail to begin with so I will just go shopping instead.
+
+Chat_Happening_SHOPPING[J] |= I am going to buy some lovely treats. I mean essentials!
+Chat_Happening_SHOPPING[J] |= Can't beat a bit of window shopping, especially if you need new windows!
+Chat_Happening_SHOPPING[J] |= I am going to get a few things from this shopping list. And a few things that aren't on it I am sure!
+Chat_Happening_SHOPPING[J] |= I love shopping and seeing what's in store.
+
+Chat_Happening_SHOPPING[B] |= I am going to spend more of my huge amounts of money on the luxury items that I am accustomed to.
+Chat_Happening_SHOPPING[B] |= I need to buy a gift for a very special person. Me!
+Chat_Happening_SHOPPING[B] |= I am going shopping as I need to justify all my money and success via material gain and flaunting.
+Chat_Happening_SHOPPING[B] |= I am going to the shops. I might even buy the shops.
+
+Chat_Happening_SHOPPING[Q] |= I am just popping to the shops. And I don't mean I am giving gassy apples to pigs.
+Chat_Happening_SHOPPING[Q] |= I need to get a gift for a birthday I forgot about next year. Not sure how that works.
+Chat_Happening_SHOPPING[Q] |= I have a list of shopping items as long as my arm. There are two items on the list as I have really big handwriting and short arms.
+Chat_Happening_SHOPPING[Q] |= Is there a sale on? I love a good bargain. I also love bad bargains. I just like bargains!
+
+Chat_Happening_SHOPPING[C] |= Am off shopping, but I bet they don't have what I want in stock.
+Chat_Happening_SHOPPING[C] |= I need to buy some bits and bobs, but I hate queuing. The lines are longer than my stress wrinkles.
+Chat_Happening_SHOPPING[C] |= Have you seen the prices of stuff these days? I can't use the inflation joke as that is used elsewhere!
+Chat_Happening_SHOPPING[C] |= I really don't like shopping, but I have to do some. I am not buying any gifts, though, I am not made of Brass. I am made of meat, before you ask.
+
+Chat_Happening_WORSHIP |= Just about to make some offerings.
+Chat_Happening_WORSHIP |= I am all ready to worship.
+Chat_Happening_WORSHIP |= Going to get me some boons!
+Chat_Happening_WORSHIP |= Revering our fair Goddesses, mainly because if I don't, I might end up as a newt.
+
+Chat_Happening_WORSHIP[P] |= My favourite time of day. Worship time!
+Chat_Happening_WORSHIP[P] |= I worship this part of the day. Literally. It's worship time.
+Chat_Happening_WORSHIP[P] |= Everyone should do as I do and pay reverence to those who guide us. No, not Thatterways! Goddesses!
+Chat_Happening_WORSHIP[P] |= I am just heading to the local Goddess Statue to pay homage with some fromage. That's ancient tongue that means an item 'from an age'. I think.
+
+Chat_Happening_WORSHIP[J] |= Worship time! I just love showering the celestial Ladies with gifts!
+Chat_Happening_WORSHIP[J] |= Oh, I am about to worship. It's nice to say a little thanks and get some handy boons.
+Chat_Happening_WORSHIP[J] |= It's worship time. I personally like to do a little dance to impress those who watch us.
+Chat_Happening_WORSHIP[J] |= Dance with me! It's time to celebrate our beloved Goddesses!
+
+Chat_Happening_WORSHIP[B] |= I am just going to give my high-quality gifts to the Goddesses.
+Chat_Happening_WORSHIP[B] |= I always seem to get great favour with the Goddesses. They must love me.
+Chat_Happening_WORSHIP[B] |= What are you offering the Goddesses? 5 star items like me?
+Chat_Happening_WORSHIP[B] |= Sometimes I think people should worship me!
+
+Chat_Happening_WORSHIP[Q] |= It's time to worship. I like to offer in alphabetical order, starting with number 1.
+Chat_Happening_WORSHIP[Q] |= What are you going to offer? I am going to offer something but can't decide between what's in my left pocket or what is now squashed in my right pocket.
+Chat_Happening_WORSHIP[Q] |= I am in full worship mode. I have no choice. I was designed that way.
+Chat_Happening_WORSHIP[Q] |= Do you hear the Goddesses whisper when making offerings? Am sure I heard someone say, "Put the ******* potion in the ******* offering bowl!"  Then complete silence, except for some lambs bleating.
+
+Chat_Happening_WORSHIP[C] |= Do I have to kneel to worship? My joints creak like old trees.
+Chat_Happening_WORSHIP[C] |= Just about to make my offerings. I am sure I will be cursed to be a miserable old Puck again.
+Chat_Happening_WORSHIP[C] |= Off to worship. I seem to get nothing much back! No idea why I do it.
+Chat_Happening_WORSHIP[C] |= Oh, the joyous time of day we pay homage to those who couldn't care less about my dodgy knees.
+
+Chat_Happening_OFFERING |= I am making offerings so that our home can remain safe and blessed.
+
+Chat_Happening_OFFERING[Spouse] |= I am making offerings so that our home can remain safe and blessed.
+Chat_Happening_OFFERING[Spouse] |= Worship time. I want to meditate and embrace the spirit of our beloved Goddesses.
+Chat_Happening_OFFERING[Spouse] |= I am worshipping now. Please do not disturb my transcendental harmonising.
+Chat_Happening_OFFERING[Spouse] |= I am just filling up this bowl with goodies so the house Brounie stops putting ants in my slippers.
+
+Chat_Happening_OFFERING[OwnKid] |= I am going to put things in Mr Pott's big bowl.
+Chat_Happening_OFFERING[OwnKid] |= You said I should make an offering to Mr Pott.
+Chat_Happening_OFFERING[OwnKid] |= I am putting things in that bowl for lovely Mr Pott.
+Chat_Happening_OFFERING[OwnKid] |= Offering time! Hurray!
+
+Chat_Happening_OFFERING[OwnKidAdult] |= I am going to pay my respects to our Guardians.
+Chat_Happening_OFFERING[OwnKidAdult] |= I am going to make the offerings that keep us alive and in human form.
+Chat_Happening_OFFERING[OwnKidAdult] |= Just going to put some food in the big bowl.
+Chat_Happening_OFFERING[OwnKidAdult] |= I am going to go meditate by the bowl and pay our dues to the Fae folk.
+
+Chat_Happening_COOK |= I am just cooking up a nice little meal.
+Chat_Happening_COOK |= I was making a lovely pie. Three point one four two to be precise.
+Chat_Happening_COOK |= I am going to whip up a lovely snack using only the finest whatevers.
+Chat_Happening_COOK |= Am cooking something just like mother used to make. Iron-hard cake and cremated sausages.
+
+Chat_Happening_COOK[P] |= I am cooking up something special for our beautiful and doubtless hungry Goddesses.
+Chat_Happening_COOK[P] |= They say piety begins in the heart, but the energy to be pious begins in the stomach.
+Chat_Happening_COOK[P] |= I am baking some simple products for my next offerings.
+Chat_Happening_COOK[P] |= I am going to cook up some wholesome food.
+
+Chat_Happening_COOK[J] |= Just making something yummy for my tummy!
+Chat_Happening_COOK[J] |= I just love cooking! My favourite bit is scraping out the cake mix with my finger.
+Chat_Happening_COOK[J] |= Cooking up a delicious meal!
+Chat_Happening_COOK[J] |= I am making some delicious grub to satisfy the hunger fairies.
+
+Chat_Happening_COOK[B] |= This meal I am making will be special, even by my standards.
+Chat_Happening_COOK[B] |= I am baking the best food anyone has ever tasted.
+Chat_Happening_COOK[B] |= I want to boast about my toast. 
+Chat_Happening_COOK[B] |= I am preparing a fine meal for my fine stomach. Something so fine I don't even need to chew it.
+
+Chat_Happening_COOK[Q] |= Well, I am trying to rustle up something to eat. When I can unwrap this paper, I will eat what's inside.
+Chat_Happening_COOK[Q] |= I am attempting something I have never done before. Edible cooking.
+Chat_Happening_COOK[Q] |= Step back; I need to light the stove. Last time I set my eyebrows on fire. 
+Chat_Happening_COOK[Q] |= I have to label my mashed-up potatoes. I need a hashtag! Just kidding, potatoes don't exist.
+
+Chat_Happening_COOK[C] |= I'm absolutely stewing. And this time, I do mean in the cookery sense.
+Chat_Happening_COOK[C] |= Am attempting to provide nourishment, but there are vitamins in my cooking that aren't on any apothecary chart.
+Chat_Happening_COOK[C] |= My cooking is so bad that even the cockroaches send it back. It could break the teeth of a Barghest.
+Chat_Happening_COOK[C] |= Why is cooking so tedious? And all that effort so that I can spend an hour on the plopper.
+
+Chat_Happening_COOK[Spouse] |= I do enjoy a bit of cooking. I love the smells. Makes this home feel even more homely.
+Chat_Happening_COOK[Spouse] |= I am just preparing dishes for rumbly tummies.
+Chat_Happening_COOK[Spouse] |= I am making some tasty treats.
+Chat_Happening_COOK[Spouse] |= I am trying not to burn the food or my fingers.
+
+Chat_Happening_COOK[OwnKid] |= Should I be doing this? Seems dangerous!
+Chat_Happening_COOK[OwnKid] |= I like playing with knives and chopping stuff up.
+Chat_Happening_COOK[OwnKid] |= I want to do cooking!
+Chat_Happening_COOK[OwnKid] |= I am cooking! I promise not to burn anything again.
+
+Chat_Happening_COOK[OwnKidAdult] |= I am just making some delicacies. It's one life skill I am glad I have.
+Chat_Happening_COOK[OwnKidAdult] |= Can't you smell what I am doing? I bet they can smell this in Pinehaven!
+Chat_Happening_COOK[OwnKidAdult] |= I am making something to eat, as instructed. Fancy taking over?
+Chat_Happening_COOK[OwnKidAdult] |= You can't beat some lovely cooking to take your mind off everyday problems.
+
+Chat_Happening_OUTHOUSE |= Just going to have a quick tinkle.
+Chat_Happening_OUTHOUSE |= I have an urgent call of nature, which is very apt for pagans.
+Chat_Happening_OUTHOUSE |= I am just going to relive myself. I mean relieve! That's reincarnation for you!
+Chat_Happening_OUTHOUSE |= Too much information, but I need a poo.
+
+Chat_Happening_OUTHOUSE[P] |= You must excuse me as I rid myself of badness.
+Chat_Happening_OUTHOUSE[P] |= The Goddesses dictate that I make an offering of the bottom variety.
+Chat_Happening_OUTHOUSE[P] |= I am going to reflect on nature, the sky and our Goddesses as I empty my bowels.
+Chat_Happening_OUTHOUSE[P] |= Worship on hold as I need to use the outhouse.
+
+Chat_Happening_OUTHOUSE[J] |= I am just going to help Mr Log be reunited with his family.
+Chat_Happening_OUTHOUSE[J] |= I love sitting on the loo. An outhouse is a great place to think of genius ideas and great games.
+Chat_Happening_OUTHOUSE[J] |= I am bursting for a number 5! That's two number 2's and a 1.
+Chat_Happening_OUTHOUSE[J] |= I often laugh so hard I need to piss. So it's off to the outhouse for me!
+
+Chat_Happening_OUTHOUSE[B] |= My toilet has a brown velvet seat, although I do regret that extravagance as it used to be purple.
+Chat_Happening_OUTHOUSE[B] |= I plan to build a toilet bigger than most people's houses.
+Chat_Happening_OUTHOUSE[B] |= You can't skimp on toilet luxury, you know? I use only the very best leaves.
+Chat_Happening_OUTHOUSE[B] |= I have probably eaten too much amazing food and now need to give my quality bowels some respite.
+
+Chat_Happening_OUTHOUSE[Q] |= I am busting for a whizz. In fact, I am whizzing for a whizz.
+Chat_Happening_OUTHOUSE[Q] |= Just going to the loo to practice my scales.
+Chat_Happening_OUTHOUSE[Q] |= If you hear a loud noise shortly, it was definitely an Ogyr snorting.
+Chat_Happening_OUTHOUSE[Q] |= I once saw a Brounie in the outhouse. Not that kind! The faery folk!
+
+Chat_Happening_OUTHOUSE[C] |= Stomach is upset again. I suppose I will be in the outhouse for hours.
+Chat_Happening_OUTHOUSE[C] |= I hope the toilet seat isn't cold.
+Chat_Happening_OUTHOUSE[C] |= I hate going to the outhouse, especially if it has nettle loo paper.
+Chat_Happening_OUTHOUSE[C] |= I am just going to go take a shit if that's alright with you?
+
+Chat_Event_PIG_RACING |= It's Pig Racing soon. It is good fun and healthy for the pigs.
+Chat_Event_PIG_RACING |= Going to Festival Green for the Pig Racing when it is on. 
+Chat_Event_PIG_RACING |= I am looking forward to when the Pig Racing is on. 
+
+Chat_Event_PIG_RACING[P] |= It's nearly time for the Pig Racing on Festival Green. I am not totally keen on such frivolous practices.
+Chat_Event_PIG_RACING[P] |= I wonder if the Goddesses watch Pig Racing?
+Chat_Event_PIG_RACING[P] |= Pig Racing is almost upon us. Druida blesses us with such fine sport!
+
+Chat_Event_PIG_RACING[J] |= Pig Racing soon! I just love watching their little bums waggle as they run!
+Chat_Event_PIG_RACING[J] |= Oooh! It's Pig Racing day soon. Got to try to win some snacks!
+Chat_Event_PIG_RACING[J] |= There is nothing funnier than watching pigs racing each other. Looking forward to that soon.
+
+Chat_Event_PIG_RACING[B] |= Did you know it is Pig Racing at Festival Green soon? I sometimes go along and watch those hogs run.
+Chat_Event_PIG_RACING[B] |= If I bred pigs, they would undoubtedly win any race I put them in. The competition doesn't cut much bacon.
+Chat_Event_PIG_RACING[B] |= I once won a gorgeous apple pie at the Pig Racing. You should try it when it is on.
+
+Chat_Event_PIG_RACING[Q] |= Ever been pig racing? I always lose. I just can't run as fast as them.
+Chat_Event_PIG_RACING[Q] |= Will be Pig Racing soon. I like to pretend I picked the winner.
+Chat_Event_PIG_RACING[Q] |= Are you going to the Pig Racing when it is on next? You should dress in pink and participate, as you look pretty fast.
+
+Chat_Event_PIG_RACING[C] |= Oh, I was just thinking about Pig Racing. I never win a prize, even if there is just one pig.
+Chat_Event_PIG_RACING[C] |= I hate the smell of Pig Racing in the morning.
+Chat_Event_PIG_RACING[C] |= Word of advice. Do not go to the upcoming Pig Racing event on Festival Green. Not only do you lose your voice shouting, but you can also often step in something. So, if you do go, don't wear sandals.
+
+Chat_Event_PIG_AUCTION |= It's nearly time for the Pig Auction. Head to the local market when it is on, and make sure to grab an empty crate to sit on!
+Chat_Event_PIG_AUCTION |= Am thinking of buying a pig at the auction this week. If I don't win, then at least I had fun pretending to know what I was doing.
+Chat_Event_PIG_AUCTION |= Are you going to the upcoming Pig Auction? Check your calendar for when it is on.
+
+Chat_Event_PIG_AUCTION[P] |= It will soon be time for the Pig Auction. The pig is one of nature's many beautiful creatures.
+Chat_Event_PIG_AUCTION[P] |= I am thinking about going to the Pig Auction when it is on in Festival Green. We should celebrate all events that we are blessed to have.
+Chat_Event_PIG_AUCTION[P] |= Are you going to buy a pig at the upcoming auction? We stopped using animals as offerings many years ago as they just aren't as acceptable as the right kind of offering.
+
+Chat_Event_PIG_AUCTION[J] |= Oh, it is the Pig Auction soon! I can't wait! I never buy any, but I love the thrill of the bid!
+Chat_Event_PIG_AUCTION[J] |= Going to the Pig Auction soon? It takes place at Festival Green. What a great smell!
+Chat_Event_PIG_AUCTION[J] |= Am thinking of buying a piggy-wiggy in the upcoming Pig Auction. I would need to learn how to ride, though.
+
+Chat_Event_PIG_AUCTION[B] |= I once bought all the pigs in the Pig Auction. I sometimes go to the weekly one to watch how cheap everyone else is.
+Chat_Event_PIG_AUCTION[B] |= I am considering going to the Pig Auction. I like to imagine buying them all just to prove how wealthy I am, but where to store them is the trouble.
+Chat_Event_PIG_AUCTION[B] |= It's nearly time for the Pig Auctions. I should just go and bid 1000 Brass just to see their shocked faces. 
+
+Chat_Event_PIG_AUCTION[Q] |= It's the Pig Auction soon. I once dressed as a pig, and someone bought me for 3 Brass. They got a surprise when they tried sitting on me!
+Chat_Event_PIG_AUCTION[Q] |= Am thinking of going to the Pig Auctions on Festival Green when they are on. I was going to take a tall stool so I could be the highest bidder.
+Chat_Event_PIG_AUCTION[Q] |= Be careful if you go to the Pig Auction. I once bid 20 Brass on what turned out to be a balloon with a face drawn on it.
+
+Chat_Event_PIG_AUCTION[C] |= Ugh. It's the Pig Auction soon. Seeing your face reminded me. No disrespect to the pigs.
+Chat_Event_PIG_AUCTION[C] |= It's nearly that wonderful time of the week when the Pig Auction happens. I just wish that auctioneer wouldn't bang his gavel so hard.
+Chat_Event_PIG_AUCTION[C] |= I never win on bids at the Pig Auction. If you go, please show mercy on me if I am there.
+
+Chat_Event_GOODS_MARKET |= It is the Goods Market soon. It has limited variety but good prices if you need to stock up.
+Chat_Event_GOODS_MARKET |= It is the Goods market soon. You can sell anything anytime if you hire that Lemonade Stand.
+Chat_Event_GOODS_MARKET |= Are you low on seeds and such? Keep your eyes peeled for the Goods Market. 
+
+Chat_Event_GOODS_MARKET[P] |= Market Day soon. A chance to buy offerings and gaze in wonder at our Woodfellow.
+Chat_Event_GOODS_MARKET[P] |= Don't forget to buy some cheap offerings at the upcoming Goods Market. 
+Chat_Event_GOODS_MARKET[P] |= It is Market Day soon. It is a chance to stock up on the simple things in life.
+
+Chat_Event_GOODS_MARKET[J] |= Oh, I am all excited about the upcoming Market Day! I love to snatch a bargain. I love it when things are cheap, like the budgie. It's all I can A. Ford. Yes, that is probably a reference.
+Chat_Event_GOODS_MARKET[J] |= Going to the Goods Market soon? I love the hustle and bustle and rustle and fustle and er, grustle?
+Chat_Event_GOODS_MARKET[J] |= I have one eye on my calendar for the upcoming Goods Market. The other eye I use to watch where I am going! Wahey!
+
+Chat_Event_GOODS_MARKET[B] |= Goods Market? I never buy cheap. Buy cheap, buy twice, they say.
+Chat_Event_GOODS_MARKET[B] |= As a rich person, I like to go to the Goods Market to see how the other half live.
+Chat_Event_GOODS_MARKET[B] |= It is the Goods market soon. It's fine if you want seeds, but I only buy the finest seeds.
+
+Chat_Event_GOODS_MARKET[Q] |= Oh yes! It's the Goods Market coming up! Seeing you reminded me I need to buy oddly-shaped carrots.
+Chat_Event_GOODS_MARKET[Q] |= What's happening? I'll tell you what's happening! The Goods Market is happening. Not right now. I mean, it's a happening place to be, especially if you like seeds and apples.
+Chat_Event_GOODS_MARKET[Q] |= Give me a G! Give me an O. Give me another O. Give me a D!  Now an S! Oh, forget that. Our word budget doesn't stretch to this sort of thing. Goods Market soon. That's all you need to know.
+
+Chat_Event_GOODS_MARKET[C] |= Oh no. It's the Goods Market soon. I will likely arrive late and be left with the worst stuff.
+Chat_Event_GOODS_MARKET[C] |= It's the Goods market soon. I wish they would actually sell decent stuff. I have cupboards stuffed with cheap seeds.
+Chat_Event_GOODS_MARKET[C] |= I was thinking of not going to the Goods market when it is on. Too much noise.
+
+Chat_Event_TRAVELLING_TRADER |= Have you seen the Travelling Trader? His boar is absolutely huge. They are a special breed from deepest Pinehaven. It is said Morwenna bred them for riding.
+Chat_Event_TRAVELLING_TRADER |= Trader day tomorrow. Bring your Brass and plenty of it!
+Chat_Event_TRAVELLING_TRADER |= It's the Travelling Trader tomorrow. He always goes to the same two places in the haven, so be there or be a triangle.
+
+Chat_Event_TRAVELLING_TRADER[P] |= The Travelling Trader is around tomorrow. It's a good chance to get some unique offerings at inflated prices.
+Chat_Event_TRAVELLING_TRADER[P] |= I am anticipating the Travelling Trader arriving tomorrow. It must be a good life, wandering under the stars.
+Chat_Event_TRAVELLING_TRADER[P] |= Are you getting anything from the Travelling Trader when he arrives tomorrow? I once bought a collection of Effigies. They really capture our beloved Goddesses' essence.
+
+Chat_Event_TRAVELLING_TRADER[J] |= Well, I am excited to see what the Travelling Trader brings tomorrow!
+Chat_Event_TRAVELLING_TRADER[J] |= Don't forget the Travelling Trader comes tomorrow. I hope he has some great goods! I love a treat.
+Chat_Event_TRAVELLING_TRADER[J] |= I wonder what the Travelling Trader's boar eats? It must go through food like a...erm...massive pig.
+
+Chat_Event_TRAVELLING_TRADER[B] |= That Travelling Trader has a huge boar, they say. Call that huge? My slippers are bigger than that.
+Chat_Event_TRAVELLING_TRADER[B] |= The Travelling Trader wanders the land, but I still reckon I have been to more places.
+Chat_Event_TRAVELLING_TRADER[B] |= People get excited for the Travelling Trader. His goods aren't that great. I find better stuff behind my larder.
+
+Chat_Event_TRAVELLING_TRADER[Q] |= The Travelling Trader is due tomorrow. That boar is so well toilet trained. Although I bet it could fertilise your crops for a year in one go!
+Chat_Event_TRAVELLING_TRADER[Q] |= I was just singing the Travelling Trader song in my head. 'One potato, two potato, three potato, four. You can't buy potatoes from the giant boar!"
+Chat_Event_TRAVELLING_TRADER[Q] |= I wonder what the Travelling Trader will bring tomorrow. Apart from his gigantic boar. I once got 50% off a bucket. It was just the handle.
+
+Chat_Event_TRAVELLING_TRADER[C] |= I was just thinking about the Travelling Trader. It's annoying how he sells a limited set of items, yet his boar carries much better stuff!
+Chat_Event_TRAVELLING_TRADER[C] |= I think the Travelling Trader over-prices his items on purpose to get more profit.
+Chat_Event_TRAVELLING_TRADER[C] |= I really hate it when the Travelling Trader comes. He leaves his boar parked in awkward places. Do you really need to ride something that big? I have a 4x4, which is perfectly sized plank of wood.
+
+Chat_Event_DRUIDA_DAY |= It's Goddess Day tomorrow so don't forget to bring offerings and get some boons!
+Chat_Event_DRUIDA_DAY |= Remember it is Goddess Day in the morrow. Stock up on offerings and plan your boons.
+Chat_Event_DRUIDA_DAY |= I am looking forward to our weekly celebration of Goddess love tomorrow.
+
+Chat_Event_DRUIDA_DAY[P] |= It's the best day of the week tomorrow! Goddess Day! I always dress in my very best, which due to pixel budgets, is exactly the same as my weekly wear.
+Chat_Event_DRUIDA_DAY[P] |= Goddess Day is nigh! The dancing, the offerings, the prayers, the tingle of fear and sense of dread that you might have upset them!
+Chat_Event_DRUIDA_DAY[P] |= I am preparing my offerings for Goddess Day tomorrow. I want a good boon but can never decide which!
+
+Chat_Event_DRUIDA_DAY[J] |= Hurray! Goddess Day is nearly upon us. I love to do a bit of dancing or to the casual observer, shaking about a bit.
+Chat_Event_DRUIDA_DAY[J] |= Are you going to Goddess Day? I love the atmosphere, and it's an excuse to eat and drink more.
+Chat_Event_DRUIDA_DAY[J] |= Nearly Goddess Day! It's great to know our Goddesses are watching us and judging our dancing ability. I have the Eggs-Factor!
+
+Chat_Event_DRUIDA_DAY[B] |= Tomorrow is Goddess Day. As usual, I will be offering only the best.
+Chat_Event_DRUIDA_DAY[B] |= Goddess Day tomorrow. A chance for worship. I am sure many people secretly worship me too.
+Chat_Event_DRUIDA_DAY[B] |= If you do any dancing at Goddess Day tomorrow, just try not to be outshone by my brilliance.
+
+Chat_Event_DRUIDA_DAY[Q] |= I am thinking about what I can offer tomorrow for Goddess Day. Last week the apple I offered had a worm in it, so I saw that as a bonus.
+Chat_Event_DRUIDA_DAY[Q] |= Goddess Day tomorrow. What's the weirdest thing you ever offered? I once offered a toad-in-the-hole I had baked myself. Sadly, the toad ate the pudding in the offering bowl, and I spent the next week only able to ribbit. 
+Chat_Event_DRUIDA_DAY[Q] |= Goddess Day is nigh! Why aren't there 7 Goddesses? There are 7 days of the week. I suppose if there were 7 we would need an 8th day so they can be celebrated. Then you go down a big rabbit hole!
+
+Chat_Event_DRUIDA_DAY[C] |= Oh dear. Goddess Day tomorrow. I don't mind the offerings, but some people get too drunk, and their dancing is dreadful. 
+Chat_Event_DRUIDA_DAY[C] |= Having to make offerings every week is really expensive!
+Chat_Event_DRUIDA_DAY[C] |= Oh no. It's Goddess Day tomorrow. Some people just get too loud.
+
+Chat_Event_SHEEP_RACING |= I am going to the Sheep Racing tomorrow. Are you going? A good chance to meet folks and have fun..
+Chat_Event_SHEEP_RACING |= It's nearly time for the Sheep Racing. They never seem to be as fast as when you ride them.
+Chat_Event_SHEEP_RACING |= Are you going to go and watch the Sheep Racing tomorrow?
+
+Chat_Event_SHEEP_RACING[P] |= It is the Sheep Racing at FineFayre tomorrow. Goddesses bless those lovely woolly creatures.
+Chat_Event_SHEEP_RACING[P] |= I might attend the Sheep Racing at FineFayre, which is a bit frivolous, but the Goddesses seem to enjoy it.
+Chat_Event_SHEEP_RACING[P] |= It is the Sheep Racing event tomorrow. A chance to earn money for offerings.
+
+Chat_Event_SHEEP_RACING[J] |= It's Sheep Racing day tomorrow! I just love watching those fluffy fellas frolicking to the flag!
+Chat_Event_SHEEP_RACING[J] |= Have you tried to win a prize on the Sheep Racing? I always pick the fastest. Not sure how that works, though.
+Chat_Event_SHEEP_RACING[J] |= Don't forget the Sheep Racing tomorrow. There's prizes for those that know their bacon!
+
+Chat_Event_SHEEP_RACING[B] |= Sheep Racing soon. I used to breed the champion. Well, she would have been had I actually raced her.
+Chat_Event_SHEEP_RACING[B] |= I find Sheep Racing doesn't pay out enough to be worth my time.
+Chat_Event_SHEEP_RACING[B] |= Sheep Racing tomorrow. Mellowbrook's finest contribution to culture.
+
+Chat_Event_SHEEP_RACING[Q] |= Are you going to the Sheep Racing tomorrow? I count sheep to get to sleep and even then they lose.
+Chat_Event_SHEEP_RACING[Q] |= I am thinking about wasting my time on Sheep Racing tomorrow. Am sure there must be SOME logic behind which one to pick!
+Chat_Event_SHEEP_RACING[Q] |= Are EWE going to the Sheep Racing in FineFayre tomorrow? I made what they call a pun. Did EWE get it? No? BAH!
+
+Chat_Event_SHEEP_RACING[C] |= Apparently, it is the Sheep Racing tomorrow. It's about as fun as watching paint dry, which is actually not as fun as it sounds.
+Chat_Event_SHEEP_RACING[C] |= I was considering wasting Brass on some prize-winning tomorrow at the Sheep Races. I may as well just toss the money into the river.
+Chat_Event_SHEEP_RACING[C] |= Have you been to the Sheep Racing in FineFayre? Mellowfield's worst kept secret because you can smell it from Pinehaven.
+
+Chat_Event_SHEEP_AUCTION |= It's the Sheep Auction at FineFayre tomorrow if bidding on sheep is your thing.
+Chat_Event_SHEEP_AUCTION |= Ram, ewe and lamb. All are available at the upcoming Sheep Auction!
+Chat_Event_SHEEP_AUCTION |= It's nearly Sheep Auction time. Keep an eye on the date if you want to get involved.
+
+Chat_Event_SHEEP_AUCTION[P] |= It is the Sheep Auction soon. I don't have much time for such things. My mind is on our great Goddesses. 
+Chat_Event_SHEEP_AUCTION[P] |= Sheep Auction is on tomorrow. Not my cup of hot water poured on herbs.
+Chat_Event_SHEEP_AUCTION[P] |= As a fellow Quillian, it is my duty to remind you of the Sheep Auction tomorrow. I mean, the auction is tomorrow...I am not reminding you tomorrow.
+
+Chat_Event_SHEEP_AUCTION[J] |= Are you going to bid on some of our ovine friends tomorrow? They make great grass cutters and excellent nap pillows!
+Chat_Event_SHEEP_AUCTION[J] |= I love the Sheep Auction! You can get a proper BAAGAIN! Wahey!
+Chat_Event_SHEEP_AUCTION[J] |= Have you ever bought a sheep from the auction? It's on tomorrow if you want to try and understand what in Quill is going on!
+
+Chat_Event_SHEEP_AUCTION[B] |= I feel like going to the Sheep Auction tomorrow and just buying all the sheep because I like to win. I won't though as I am too busy to look after them.
+Chat_Event_SHEEP_AUCTION[B] |= I probably won't go to the upcoming Sheep Auction as it's unfair to the rest of you.
+Chat_Event_SHEEP_AUCTION[B] |= If I were to go to the Sheep Auction I would likely buy only the very best because that's how I ride.
+
+Chat_Event_SHEEP_AUCTION[Q] |= It's the Sheep Auction tomorrow in FineFayre. I once got over-excited and bid 30 Brass. Luckily, they were very supportive about my mistake.
+Chat_Event_SHEEP_AUCTION[Q] |= I once got so excited at the Sheep Auction I stood up to shout my bid, and my pants fell down. I nearly dropped the ball on that one!
+Chat_Event_SHEEP_AUCTION[Q] |= I once bought a sheep at the Sheep Auction. It was actually tiny when I sheared the wool off. It was lamb dressed as mutton!
+
+Chat_Event_SHEEP_AUCTION[C] |= I would not bother going to the Sheep Auction tomorrow if I were you. You will get fleeced.
+Chat_Event_SHEEP_AUCTION[C] |= Oh, it's that time of the week again. Sheep Auctions. I don't like them. Auctions, that is. Sheep are funny.
+Chat_Event_SHEEP_AUCTION[C] |= I am never bidding at the Sheep Auction again. I can't count past 10, so I made a number up, and bought a sheep called Ewegene for Floppity Ploppity Eight.
+
+Chat_Event_CHICKEN_RACING |= It's nearly time for the Chicken Racing. They never seem to be as fast as when you ride them.
+Chat_Event_CHICKEN_RACING |= Are you going to spend some hard-earned money on the Chicken Racing tomorrow?
+Chat_Event_CHICKEN_RACING |= Are you going to the Chicken Racing tomorrow? I love to suck on a Candy Hare and scream the name of my chosen clucker.
+
+Chat_Event_CHICKEN_RACING[P] |= It is the Chicken Racing at Festfield tomorrow. Goddesses bless those little cluckers.
+Chat_Event_CHICKEN_RACING[P] |= I might attend the Chicken Racing at FestField, which is surely our Goddesses' favourite sport.
+Chat_Event_CHICKEN_RACING[P] |= It is the Chicken Racing event tomorrow. A chance to win prizes for gifts to offer.
+
+Chat_Event_CHICKEN_RACING[J] |= It's Chicken Racing day tomorrow! Got to admire their determination!
+Chat_Event_CHICKEN_RACING[J] |= Have you tried Chicken Racing? I always choose on the one with the longest legs.
+Chat_Event_CHICKEN_RACING[J] |= Don't forget the Chicken Racing tomorrow. There's a chance to get some pies and such!
+
+Chat_Event_CHICKEN_RACING[B] |= Chicken Racing soon. I nearly got into the breeding game, but the feathers made me sneeze.
+Chat_Event_CHICKEN_RACING[B] |= I find Chicken Racing doesn't have nice enough food prizes to be worth my time. I would say the same for pig and sheep racing.
+Chat_Event_CHICKEN_RACING[B] |= Chicken Racing tomorrow. Summerdown's finest contribution to entertainment since the unfortunate incident with the grease barrel.
+
+Chat_Event_CHICKEN_RACING[Q] |= I always watch on the Chicken Racing when it is on. You should try it, especially as someone put effort into making it.
+Chat_Event_CHICKEN_RACING[Q] |= I am going to watch the Chicken Racing tomorrow. It's great to egg them on. I take eggs to throw at those who don't win.
+Chat_Event_CHICKEN_RACING[Q] |= I am going to the Chicken Racing tomorrow. Are you going? A good chance to meet money and lose folks.
+
+Chat_Event_CHICKEN_RACING[C] |= Apparently, it is the Chicken Racing tomorrow. It's about as fun as counting snowflakes in a blizzard.
+Chat_Event_CHICKEN_RACING[C] |= I was considering wasting Brass tomorrow at the Chicken Racing. I may as well just melt down my Brass and make a disc I can throw off a cliff.
+Chat_Event_CHICKEN_RACING[C] |= Have you been to the Chicken Racing in FestField? It's just an annoying cacophony of aggressive fowl and shouting villagers.
+
+Chat_Event_CHICKEN_AUCTION |= It's the Chicken Auction at FestField tomorrow. A good source of eggs.
+Chat_Event_CHICKEN_AUCTION |= Don't forget the Chicken Auction is tomorrow. It's egg-citing!
+Chat_Event_CHICKEN_AUCTION |= It's the Chicken Auction soon. FestField is a lovely place to visit.
+
+Chat_Event_CHICKEN_AUCTION[P] |= It is the Chicken Auction soon. I would much rather be worshipping like the pious NPC I am.
+Chat_Event_CHICKEN_AUCTION[P] |= Chicken Auction is on tomorrow. It's not my leather item holder.
+Chat_Event_CHICKEN_AUCTION[P] |= Just reminding you of the Chicken Auction tomorrow. 
+
+Chat_Event_CHICKEN_AUCTION[J] |= Are you going to bid on some of our clucking friends tomorrow? I buy them by the featherweight.
+Chat_Event_CHICKEN_AUCTION[J] |= I love the Chicken Auction! You can get a proper BAAGAIN! Oh, hang on, that's sheep.
+Chat_Event_CHICKEN_AUCTION[J] |= Have you ever bought a Chicken from the auction? It's on tomorrow if you want to try shouting numbers at a man who talks gibberish.
+
+Chat_Event_CHICKEN_AUCTION[B] |= I feel like going to the Chicken Auction tomorrow and just buying all the chickens so I can monopolise eggs and corner the market. 
+Chat_Event_CHICKEN_AUCTION[B] |= I probably won't go to the upcoming Chicken Auction as it's beneath me. Not geographically, of course!
+Chat_Event_CHICKEN_AUCTION[B] |= If I were to go to the Chicken Auction, I would easily outbid anyone due to my ability to count past 20.
+
+Chat_Event_CHICKEN_AUCTION[Q] |= It's the Chicken Auction tomorrow in FestField. I once won and paid in coins I had cleaned with soap. They refused to accept laundered money.
+Chat_Event_CHICKEN_AUCTION[Q] |= I once got so excited at the Chicken Auction I threw my money pouch into the chicken pen, and they ate it all. The change did them good.
+Chat_Event_CHICKEN_AUCTION[Q] |= I once bought a sheep at the Chicken Auction. It was the same day I gave up drinking.
+
+Chat_Event_CHICKEN_AUCTION[C] |= I would not bother going to the Chicken Auction tomorrow. Mainly because I want to win for once.
+Chat_Event_CHICKEN_AUCTION[C] |= Chicken and chicks and cider bread. Tell me why I don't like auction days. 
+Chat_Event_CHICKEN_AUCTION[C] |= I am never bidding at the Chicken Auction again. Last time I got a cockerel with a faulty alarm and got woken at 3am.
+
+
+
+Chat_HowAreYou |= I am good thanks.
+Chat_HowAreYou |= I am ok today, thank you for asking.
+Chat_HowAreYou |= I am very well thank you, considering.
+Chat_HowAreYou |= I am having a fine day so far.
+Chat_HowAreYou |= Things are ticking along.
+Chat_HowAreYou |= I am coping day to day, thank you.
+Chat_HowAreYou |= I am ok thanks.
+Chat_HowAreYou |= I am well, thank you.
+
+Chat_HowAreYou[C] |= Can't complain. Life is like a box of candied squirrels.
+Chat_HowAreYou[C] |= Things could be better. Like everything.
+Chat_HowAreYou[C] |= I am ok considering how tough I got it.
+Chat_HowAreYou[C] |= Uggh. Where do I start?
+Chat_HowAreYou[C] |= Problems, problems. The usual.
+Chat_HowAreYou[C] |= I could be better. I would complain but who would listen?
+
+Chat_HowAreYou[P] |= I am full of love for our fair Goddesses.
+Chat_HowAreYou[P] |= I am as bright as Aurore's blue eyes.
+Chat_HowAreYou[P] |= I am as zesty as Druida's fruits.
+Chat_HowAreYou[P] |= I am feeling as perky as Naida in her glory.
+Chat_HowAreYou[P] |= I am feeling as energetic as Morwenna.
+Chat_HowAreYou[P] |= I am glad to be favoured by Hyalis and be alive another day.
+Chat_HowAreYou[P] |= I am feeling fine, bless you for asking.
+
+Chat_HowAreYou[J] |= I am feeling wonderful, thank you!
+Chat_HowAreYou[J] |= All's well that ends well, I say.
+Chat_HowAreYou[J] |= I am great. Cheers!
+Chat_HowAreYou[J] |= Couldn't be better! Well, I could, but I am the best I can be right now.
+Chat_HowAreYou[J] |= I am as happy as Larry. And he is a really happy bloke!
+Chat_HowAreYou[J] |= I feel as cheery as the sun and more satisfied than a pig in a pie shop.
+Chat_HowAreYou[J] |= I am as chirpy as a bird today.
+Chat_HowAreYou[J] |= I feel good thanks! Don't let my exterior fool you though!
+Chat_HowAreYou[J] |= I am a typical jolly person with the standard jolly reply.
+
+Chat_HowAreYou[Q] |= I am very well. 
+Chat_HowAreYou[Q] |= I am particularly average today thank you.
+Chat_HowAreYou[Q] |= Not sure why you would want to know how ok I am. It's boring!
+Chat_HowAreYou[Q] |= I am feeling particularly quirky today, as is my nature.
+Chat_HowAreYou[Q] |= Thanks for asking but I shan't tell you all my secrets!
+Chat_HowAreYou[Q] |= I am doing ok really. Life gives you apples and acid indigestion.
+
+Chat_HowAreYou[B] |= I am feeling the best, of course!
+Chat_HowAreYou[B] |= As champion of the world I can pronounce I am doing well.
+Chat_HowAreYou[B] |= I am good thanks, as always.
+Chat_HowAreYou[B] |= I am doing better than you for sure. I tell myself that to hide my insecurities.
+Chat_HowAreYou[B] |= I am well, cheers for asking.
+Chat_HowAreYou[B] |= Paying respect... I like it. I am good thanks.
+Chat_HowAreYou[B] |= Doing well!

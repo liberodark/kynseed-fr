@@ -1,0 +1,68 @@
+Title:Demo Intro Text
+Welcome to the Early Access version of Kynseed. This build gives you the Prologue and 1 year to play. We will be updating the game monthly with masses more content, fixes and Quality of Life improvements.
+Thank you for joining us on this adventure!
+Title:Demo End Test
+We hope you enjoyed your visit to The Vale. Do pay another visit when you can, as we'll be fixing and adding things into the game weekly.
+Also, we'd absolutely love to hear what you thought! We're a very accessible bunch, and you can message us personally any time on Twitter, Discord, our forums, or anywhere else you find us.
+Thank you all so much for your support. It genuinely means a lot to us. Give the links below a poke to follow Kynseed's development. See you in the community!
+
+
+
+
+Title:Credits
+
+Created By: Charlie Edwards, Neal Whitehead
+Managing Director: Matthew Woodley
+Chairman: Sir Ian Livingstone
+
+Lead Programming: Neal Whitehead
+Programming: Nick Gregory, Jesse Gill
+
+Lead Design & Writing: Charlie Edwards 
+Game Design: Clare Wright, Matthew Weekes, Nick Gregory
+Additional Design: Gary J Lucken, Neal Whitehead
+
+Character, Concept & Key Art: Gary J Lucken
+Environment & UI Art: Matthew Weekes
+Icon Art: Caz Hoyle
+
+Music: Harvey Carman, Keith Lewis
+Title theme music: Russell Shaw
+Sound Effects: Nick Gregory
+Voice-over: Keith Wickham
+
+QA Manager: Clare Wright
+Community Manager: Fawn Rowe
+
+Extra special thanks: 
+
+Sarah Morris (Pre-production concept art), Mike McCarthy (Pre-production concept art), Jenny Brewer (Pre-production UI concepts), Ian Faichnie, David Oxford, Deborah Saez, Georgio Ser, Lozz Logan, Alex Chapman at Sheridans & Everyone at Honest PR. 
+
+Team thanks:
+
+Molly & Mario the cat for inspiration
+Harriet & Cecily for bug hunting
+Pott the Brounie for keeping the house tidy
+
+A big thanks to all the amazing people who worked at Lionhead Studios (RIP) and beyond who gave us advice, help, feedback, and encouragement!
+And finally a massive and most important thanks to our wonderful community and all those players who supported us these many years. Your sacrifice pleased the Goddesses.
+
+The following SFX and ambient audio are from freesound.org (CC 3.0 attribution license for the below):
+
+backpack https://www.freesound.org/people/EverHeat/sounds/205522/ - EverHeat
+uthud https://www.freesound.org/people/rettalo/sounds/52319 - rettalo
+
+Other sound effects are from Soundsnap, Nick Gregory, Keith Lewis or public domain.
+
+
+
+Title:Credits pt2 (Disused)
+
+Title:Splash Screen
+Bacon ipsum.
+
+TODO:
+https://github.com/TheBoneJarmer/TiledCS
+License and copyright notice
+
+

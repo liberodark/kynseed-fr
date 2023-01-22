@@ -1,0 +1,148 @@
+UI_Chat_WhatsHappening_Spouse_GARDEN |= I am just getting some of those weeds pulled up in our garden.
+UI_Chat_WhatsHappening_Spouse_GARDEN |= I am doing a nice bit of gardening to help keep it looking nice for us.
+UI_Chat_WhatsHappening_Spouse_GARDEN |= Got to sort the garden out. Apparently, our house Brounie thinks the garden is beneath him. Which it is.
+UI_Chat_WhatsHappening_Spouse_GARDEN |= Nice day for some gardening. A marital home is nothing without a neat garden.
+
+UI_Chat_WhatsHappening_Spouse_FARMING |= You set the order for me to tend to the crops, so I feel compelled to do so.
+UI_Chat_WhatsHappening_Spouse_FARMING |= I am doing a bit of farming. The soil needs tending to as a lover would tend to their love.
+UI_Chat_WhatsHappening_Spouse_FARMING |= Am going to toil in the soil. Need to keep our crop squares tiptop.
+UI_Chat_WhatsHappening_Spouse_FARMING |= There's farm work needs doing. Crops and soil, work and toil. Those plots are our dinner plates.
+
+UI_Chat_WhatsHappening_Spouse_COOK |= I do enjoy a bit of cooking. I love the smells. Makes this home feel even more homely.
+UI_Chat_WhatsHappening_Spouse_COOK |= I am just preparing dishes for rumbly tummies.
+UI_Chat_WhatsHappening_Spouse_COOK |= I am making some tasty treats.
+UI_Chat_WhatsHappening_Spouse_COOK |= I am trying not to burn the food or my fingers.
+
+UI_Chat_WhatsHappening_Spouse_PETS |= I am just sorting out the animals. Someone has to!
+UI_Chat_WhatsHappening_Spouse_PETS |= I am just tending to the pets. Got to love them!
+UI_Chat_WhatsHappening_Spouse_PETS |= I need to tend to the animals. They can't feed themselves! Well, they sort of can and do.
+UI_Chat_WhatsHappening_Spouse_PETS |= Just going to groom and pamper the pets. Lucky things.
+
+UI_Chat_WhatsHappening_Spouse_OFFERING |= I am making offerings so that our home can remain safe and blessed.
+UI_Chat_WhatsHappening_Spouse_OFFERING |= Worship time. I want to meditate and embrace the spirit of our beloved Goddesses.
+UI_Chat_WhatsHappening_Spouse_OFFERING |= I am worshipping now. Please do not disturb my transcendental harmonising.
+UI_Chat_WhatsHappening_Spouse_OFFERING |= I am just filling up this bowl with goodies so the house Brounie stops putting ants in my slippers.
+
+UI_Chat_WhatsHappening_Spouse_EAT |= I am eating if you do not mind? It's rude to talk with your face stuffed.
+UI_Chat_WhatsHappening_Spouse_EAT |= I am just grabbing some grub as I am famished.
+UI_Chat_WhatsHappening_Spouse_EAT |= I am just eating this delicious meal provided for us by your good self and the Goddesses.
+UI_Chat_WhatsHappening_Spouse_EAT |= Just getting some well-earned nourishment, O love of my life.
+
+UI_Chat_WhatsHappening_Spouse_RELAX |= Ahhh some mind and body cleansing relaxation.
+UI_Chat_WhatsHappening_Spouse_RELAX |= I am having a break, dear, from the hustle and bustle of daily life on our farm.
+UI_Chat_WhatsHappening_Spouse_RELAX |= I am giving my aching muscles some respite. Go easy on that scheduling, dearest
+UI_Chat_WhatsHappening_Spouse_RELAX |= A well-deserved break from the everyday, if you don't mind, my sweet honeypot.
+
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= I am getting us some milk from our lovely cow.
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= Just going to exercise some udders.
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= I have a bucket with my name on it. Well, if I was called Milk.
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= Someone needs to milk the family cow, so I am going to do it.
+
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= I am collecting honey, honey.
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= I am going to talk to the bees and see what I can trade with them.
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= I am going to go likely get stung. Honey prices these days!
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= There is some nectar needs harvesting from the hive, so I am going to do it.
+
+UI_Chat_WhatsHappening_Spouse_SLEEP |= Time for beddy bye-byes! 
+UI_Chat_WhatsHappening_Spouse_SLEEP |= I need a good sleep. Goodnight dear.
+UI_Chat_WhatsHappening_Spouse_SLEEP |= I am heading to bed for a well-deserved slumber.
+UI_Chat_WhatsHappening_Spouse_SLEEP |= It's bedtime. Don't stay up too late, your eyes are redder than our tomatoes.
+
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= I am helping you out by doing the gardening. Your appreciation is noted.
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= Do I have to do this, at my age? Gardening is for really old people.
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= Getting my fingers green in the garden.
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= Doing my chores. Do I still get pocket money at my age?
+
+UI_Chat_WhatsHappening_AdultChild_COOK |= I am just making some delicacies. It's one life skill I am glad I have.
+UI_Chat_WhatsHappening_AdultChild_COOK |= Can't you smell what I am doing? I bet they can smell this in Pinehaven!
+UI_Chat_WhatsHappening_AdultChild_COOK |= I am making something to eat, as instructed. Fancy taking over?
+UI_Chat_WhatsHappening_AdultChild_COOK |= You can't beat some lovely cooking to take your mind off everyday problems.
+
+UI_Chat_WhatsHappening_AdultChild_PETS |= I am going to sort the pets out. 
+UI_Chat_WhatsHappening_AdultChild_PETS |= Time to feed the pets as commanded. Would rather be doing something less smelly.
+UI_Chat_WhatsHappening_AdultChild_PETS |= It's feeding time at the zoo. I learned that a zoo was a kind of crazy animal house, a bit like our home.
+UI_Chat_WhatsHappening_AdultChild_PETS |= I am just going to see if the pets are ok, as you asked. 
+
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= I am going to pay my respects to our Guardians.
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= I am going to make the offerings that keep us alive and in human form.
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= Just going to put some food in the big bowl.
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= I am going to go meditate by the bowl and pay our dues to the Fae folk.
+
+UI_Chat_WhatsHappening_AdultChild_EAT |= Do you have to talk to me while I am eating?
+UI_Chat_WhatsHappening_AdultChild_EAT |= I am hungry so just filling my belly up.
+UI_Chat_WhatsHappening_AdultChild_EAT |= It's my favourite time of day...gorging time.
+UI_Chat_WhatsHappening_AdultChild_EAT |= Just having some nourishment. Being your child is draining.
+
+UI_Chat_WhatsHappening_AdultChild_RELAX |= It's nice to know you care what I am doing. Or are you just checking up on me?
+UI_Chat_WhatsHappening_AdultChild_RELAX |= I am having a little break from the endless grind.
+UI_Chat_WhatsHappening_AdultChild_RELAX |= Just unwinding and thinking of how lucky we are to be here.
+UI_Chat_WhatsHappening_AdultChild_RELAX |= I need a rest. Being your child is exhausting, even though I am grown up.
+
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= Have I got to milk that cow? Its udders make me shudder.
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= Going to milk the cow. Need milk if I am to stay healthy and strong.
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= The cow is calling my name. Well, I am not called moo, but it is suggesting I milk it.
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= Going to do some milking, just because.
+
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= It's my favourite time. Dodge bees and grab their honey time.
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= I am collecting honey to meet my needs. Our needs.
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= Going to get me some sweeeeet honey!
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= I am going to fill up on the amber nectar. No, not beer, yet.
+
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= I am going to do what any son or daughter would do for their parents...sleep.
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= It's my bedtime. I need at least 25 hours per day.
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= Going to bed. Goodnight parent of mine.
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= It's my bedtime. I have an appointment with Mr Snooze.
+
+UI_Chat_WhatsHappening_Child_GARDEN |= Do I have to do the gardening? It's hard work!
+UI_Chat_WhatsHappening_Child_GARDEN |= I keep finding worms. They have smiley faces.
+UI_Chat_WhatsHappening_Child_GARDEN |= You told me to help in the garden. It's not fair.
+UI_Chat_WhatsHappening_Child_GARDEN |= I am playing in the garden. I mean working hard.
+
+UI_Chat_WhatsHappening_Child_COOK |= Should I be doing this? Seems dangerous!
+UI_Chat_WhatsHappening_Child_COOK |= I like playing with knives and chopping stuff up.
+UI_Chat_WhatsHappening_Child_COOK |= I want to do cooking!
+UI_Chat_WhatsHappening_Child_COOK |= I am cooking! I promise not to burn anything again.
+
+UI_Chat_WhatsHappening_Child_PETS |= I want to stroke the pets! Unless I have the animal hater trait, in which case I don't.
+UI_Chat_WhatsHappening_Child_PETS |= I am going to feed the animals.
+UI_Chat_WhatsHappening_Child_PETS |= Going to feed our pets as you said.
+UI_Chat_WhatsHappening_Child_PETS |= Pet time!
+
+UI_Chat_WhatsHappening_Child_OFFERING |= I am going to put things in Mr Potts big bowl.
+UI_Chat_WhatsHappening_Child_OFFERING |= You said I should make an offering to Mr Pott.
+UI_Chat_WhatsHappening_Child_OFFERING |= I am putting things in that bowl for lovely Mr Pott.
+UI_Chat_WhatsHappening_Child_OFFERING |= Offering time! Hurray!
+
+UI_Chat_WhatsHappening_Child_EAT |= I am eating my food.
+UI_Chat_WhatsHappening_Child_EAT |= I am hungry. Food time!
+UI_Chat_WhatsHappening_Child_EAT |= Mmfffmmm I am grmmpphh eatin'.
+UI_Chat_WhatsHappening_Child_EAT |= Yay! Foody time!
+
+UI_Chat_WhatsHappening_Child_RELAX |= Playtime!
+UI_Chat_WhatsHappening_Child_RELAX |= I am playing.
+UI_Chat_WhatsHappening_Child_RELAX |= It's time to play!
+UI_Chat_WhatsHappening_Child_RELAX |= It's my playtime. Zoooom!
+
+UI_Chat_WhatsHappening_Child_SOCIALISE |= I want to see my invisible friends.
+UI_Chat_WhatsHappening_Child_SOCIALISE |= I am going to talk to my pals.
+UI_Chat_WhatsHappening_Child_SOCIALISE |= I am searching for deep meaningful human interactions that will fulfil my soul and expand my intellect.
+
+UI_Chat_WhatsHappening_Child_STUDY |= Ssshh I am studying.
+UI_Chat_WhatsHappening_Child_STUDY |= I am doing my homework as you asked.
+UI_Chat_WhatsHappening_Child_STUDY |= I am expanding my mind through the usage of literary works, both fact, fictional and nonsense.
+UI_Chat_WhatsHappening_Child_STUDY |= I am trying to raise my INT stat through study.
+
+UI_Chat_WhatsHappening_Child_EXPLORE |= I am just off out for a wander and to find fun things.
+UI_Chat_WhatsHappening_Child_EXPLORE |= Am going exploring!
+UI_Chat_WhatsHappening_Child_EXPLORE |= Exploring time!
+UI_Chat_WhatsHappening_Child_EXPLORE |= Is it ok if I go exploring? I like finding things hidden away, like those little doors.
+
+UI_Chat_WhatsHappening_Child_GET_HONEY |= Honey time! Yum!
+UI_Chat_WhatsHappening_Child_GET_HONEY |= I have to go get some honey for us all. Yay!
+UI_Chat_WhatsHappening_Child_GET_HONEY |= Those bees stung me! It's not fair!
+UI_Chat_WhatsHappening_Child_GET_HONEY |= Mrs Queen Bee said I could take some honey if I trade her some cakes. Honest.
+
+UI_Chat_WhatsHappening_Child_SLEEP |= Awww do I have to go to bed?
+UI_Chat_WhatsHappening_Child_SLEEP |= Oh is it really bedtime?
+UI_Chat_WhatsHappening_Child_SLEEP |= I am going to sleep. Goodnight dad, mum, whatever your preference.
+UI_Chat_WhatsHappening_Child_SLEEP |= Night night! Don't let the bed witch bite!
