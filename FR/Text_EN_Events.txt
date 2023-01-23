@@ -2,16 +2,16 @@ SiblingHouse |= Meet your sibling
 SiblingHouseDescription |= Head to Stonecrown, north of Outlane in Mellowfields and find your sibling's house.
 
 AnnualCompetition_ThemePopup |= This year's <VAR1> theme is <VAR2>.
-AnnualCompetition_Theme_MADE_BREAD |= Bread
-AnnualCompetition_Theme_MADE_JAM |= Jam
-AnnualCompetition_Theme_MADE_PIES |= Pies
+AnnualCompetition_Theme_MADE_BREAD |= Pain
+AnnualCompetition_Theme_MADE_JAM |= Confiture
+AnnualCompetition_Theme_MADE_PIES |= Tartes
 AnnualCompetition_Theme_MADE_PUDDING |= Pudding
 AnnualCompetition_Theme_MADE_SANDWICH |= Sandwiches
-AnnualCompetition_Theme_MADE_SOUP |= Soup
-AnnualCompetition_Theme_MADE_STEW |= Stew
-AnnualCompetition_Theme_MADE_FISH |= Fish
-AnnualCompetition_Theme_MADE_VEG |= Vegetables
-AnnualCompetition_Theme_MADE_MATERIALS |= Flowers
+AnnualCompetition_Theme_MADE_SOUP |= Soupe
+AnnualCompetition_Theme_MADE_STEW |= Ragoût
+AnnualCompetition_Theme_MADE_FISH |= Poisson
+AnnualCompetition_Theme_MADE_VEG |= Légumes
+AnnualCompetition_Theme_MADE_MATERIALS |= Fleurs
 
 CookingFayreT1 |= I see that we have everyone gathered for this year's Festfield Food Festival.
 CookingFayreT2 |= We've had some great entries this year, but we can only have one winner. First though, today's runner ups
