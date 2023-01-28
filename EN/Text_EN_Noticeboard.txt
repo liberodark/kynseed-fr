@@ -40,11 +40,11 @@ Noticeboard_OreRush_Favour |= I am running short on ore. I would pay handsomely 
 
 Noticeboard_ApothRequest_Level1_Name |= Medical Shortage
 Noticeboard_ApothRequest_Level1_Desc |= Apothecary running low on stock. Help appreciated.\n{INTERNAL}
-Noticeboard_ApothRequest_Level1_Favour |= Could you help me get a few bits and bobs? I am needing {ITEMNAME}s for the apothecary. It gets harder to find time these days.
+Noticeboard_ApothRequest_Level1_Favour |= Could you help me get a few bits and bobs for the apothecary? It gets harder to find time these days.
 
 Noticeboard_ApothRequest_Level2_Name |= Stock Shortage
 Noticeboard_ApothRequest_Level2_Desc |= Help! The Apothecary is running low on materials. Can anyone help?\n{INTERNAL}
-Noticeboard_ApothRequest_Level2_Favour |= The apothecary is running a bit short on some decent-quality stuff. Could you help me stock up on {ITEMNAME}s?
+Noticeboard_ApothRequest_Level2_Favour |= The apothecary is running a bit short on some decent-quality stuff. Could you help me stock up?
 
 Noticeboard_ApothRequest_Level3_Name |= Apothalypse Now!
 Noticeboard_ApothRequest_Level3_Desc |= It's the end of the world! Well, it's the end of our stock. Need more!\n{INTERNAL}

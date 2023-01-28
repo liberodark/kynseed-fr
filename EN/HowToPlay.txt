@@ -54,3 +54,6 @@ ID|proverbs
 Name|Skills
 Text|You can unlock Skills by visiting the Masters scattered around Quill, and fulfilling their requirements. Gift them what they ask for and you can get new abilities that can improve your gardening, melee and ranged combat, cooking, exploring and fishing.
 ID|skills
+Name|Pets
+Text|You can own up to 3 of each animals type on your farm. Pets have a mood that lowers through bad treatment and hunger. Keep an eye on their fullness and mood bars; when red they will stop using their abilities. Feed and pet them to raise fullness and mood. You can check all this, inc their age, on the pet whistle. Press <whistle> to view the pet whistle. From here you can summon and send home pets, as well as view their age.
+ID|pets
