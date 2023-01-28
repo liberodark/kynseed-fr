@@ -802,6 +802,7 @@ Then you need the power of your lips! Just put your lips together, blow outwards
 You can bring up a list of all your pets and owned animals by pressing <whistle>.
 From there, you can summon your faithful four or two-legged friends to your side, ask them to stay put or send them home.
 Quillian animals are fiercely loyal and have truly great senses, so they always know their way home.
+The whistle will also show Mood and Fullness. An animal won't behave if their mood is red, so feed them and pet them when you can!
 The whistle will also help if you lose them, as animals are known for getting distracted by the call of nature, the smell of pies and generally anything glittery!
 
 Title:The Thatterway: A Guide. Literally - by Amos E Wall
@@ -832,7 +833,6 @@ On Satyrsday you must then take the Charmweed, Egg and Flour to any oven and bak
 Then finally, take the Pie to the High Priest and give it to him. He will offer it to the Goddesses. If they smile on the offering then you will be given a Binding Band!
 Take this Band to your lover and gift it to them.
 Now you are ready to be married and enjoy all the benefits that marriage brings!
-
 
 Title:Planning Your Wedding for Village Idiots - by Isla Walker
 ID:54
@@ -1910,6 +1910,19 @@ I need a friend at a time like this and you I hope, are that friend.
 Regards,
 
 Jacob
+
+Title:Happy Pets Are Productive Pets - by Pat Doghead
+ID:140
+
+Animals are delicate little things. They need feeding, attention and their poo cleaning up.
+When you use the Pet Whistle, or interact to feed them, you may notice a Fullness Bar and a Mood Bar.
+When a pet is hungry, and its bar is red, then the mood will lower.
+A pet with a red mood will not behave and be of no use!
+Feeding the animal and petting will raise mood as long as their fullness is green. Feeding a liked item, shown in green, doubles the mood gain!
+Sheep and Pigs cannot be petted, however, and Sheep and Chickens do not need feeding as they are self sufficient and live off the land.
+You can also check your pets age on the Pet Whistle, which is very handy!
+I hope this information helps you and your pets live their fullest life. Remember, a pet is for life, not just a sacrifice.
+
 
 
 
