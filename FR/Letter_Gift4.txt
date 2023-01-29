@@ -1,5 +1,5 @@
-Dear <PlayerName>
-Thank you for always lighting up our lands with your light and energy. May the Goddesses bless you, and may your home ever be warmed with their gentle, guiding light.
-Your friend,
+Cher <PlayerName>
+Merci de toujours éclairer nos terres avec votre lumière et votre énergie. Que les Déesses vous bénissent, et que votre maison soit toujours réchauffée par leur douce lumière qui nous guide.
+Ton ami,
 <SenderName>
 

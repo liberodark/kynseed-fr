@@ -1,6 +1,5 @@
-Dear <PlayerName>
-I am writing to tell you that I value your friendship and that this land is sunnier for having your smile in it.
-I enclose a little gift for you as a token of my appreciation, and long may your radiance make our lives glow.
-Your friend, 
+Cher <PlayerName>
+Je t'écris pour te dire que j'apprécie ton amitié et que cette terre est plus ensoleillée du fait de ton sourire.
+Je joins un petit cadeau pour toi en signe de ma reconnaissance, et que ton rayonnement puisse faire longtemps briller nos vies.
+Ton ami, 
 <SenderName>
-

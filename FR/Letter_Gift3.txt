@@ -1,4 +1,4 @@
-Dear <PlayerName>
-Your friendship means a lot to me so I am sending you this gift as a thank you.
-Warm regards,
+Cher <PlayerName>
+Ton amitié compte beaucoup pour moi alors je t'envoie ce cadeau en guise de remerciement.
+Meilleurs voeux,
 <SenderName>
