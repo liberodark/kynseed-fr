@@ -340,7 +340,7 @@ Date_Place_MerryMaypole_2 |= What do you think? Should we forego safety and head
 
 Date_Place_Abandoned_Hut_0 |= This is a spooky place! You better stand closer! I wonder who lived here and what happened to them. I saw the grave outside.
 Date_Place_Abandoned_Hut_0 |= What are these strange markings on the walls?
-Date_Place_Abandoned_Hut_0 |= Were they driven made with desire like I am, do you think?
+Date_Place_Abandoned_Hut_0 |= Were they driven mad with desire like I am, do you think?
 Date_Place_Abandoned_Hut_1 |= I always wanted to come here but was too scared to go alone.
 Date_Place_Abandoned_Hut_1 |= <anim_wave>EEEK!
 Date_Place_Abandoned_Hut_1 |= Sorry, I thought I saw a big scary face behind you. It was actually you.

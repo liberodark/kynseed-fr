@@ -2210,7 +2210,7 @@ ShopWorkerPickupOrderUnhappy |= Take your order and leave me be.
 ShopWorkerPickupOrder |= Here's your order, do stop by again!
 ShopWorkerPickupOrderNotMadeUnhappy |= What order?
 ShopWorkerPickupOrderNotMade |= Sorry we couldn't make your order in time.
-JogonDefeatedJW |= ﻿﻿You slew the beastie! I always knew ye had it in yer! I bow to yer skills! As a token of me reverence, take this sword. It is some legendary thing I pulled from a big beasties belly way back. Cost me this scar but was worth it to find that in its guts. I hope ye can make good use of it, legend.
+JogonDefeatedJW |= You slew the beastie! I always knew ye had it in yer! I bow to yer skills! As a token of me reverence, take this sword. It is some legendary thing I pulled from a big beasties belly way back. Cost me this scar but was worth it to find that in its guts. I hope ye can make good use of it, legend.
 
 MealBreakNoFood |= Humph. Looks like I'm on the fresh-air diet today
 
@@ -2222,6 +2222,11 @@ OnAdoption |= What a happy day!
 OnAdoption |= Is this my new home?
 OnAdoption |= My new home!
 OnAdoption |= Beautiful!
+
+TrendHappeningFirstDay_Epidemic |= I think there's something going around. I've seen a lot of people with <VAR1> lately. I'm sure it will only last a few days.
+TrendHappeningFirstDay_Craving |= <VAR1> has had a surge of popularity recently. If you're in the good store business you might want to try selling as many as you can over the next couple of days. 
+TrendHappeningFirstDay_Fad |= I hear that <VAR1> is the in thing this season. You're likely to get a good few orders in the next couple of days. I'm glad I got mine first.
+
 
 UI_Tinker_Intro |= Greetings! Fascinating to see you! I'm known around these parts as The Tinker. I can help your business go to the next level with my supreme specialisations! Once your business is worthy, simply come see me and we can set you up. Specialisations mean you could focus on certain items, get more REP and unlock new Perks. It's all very exciting and your shop will look fantabulocious too!
 
