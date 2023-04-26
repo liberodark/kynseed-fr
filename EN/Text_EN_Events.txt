@@ -1,4 +1,5 @@
 SiblingHouse |= Meet your sibling
+SiblingHouseNamed |= Meet your sibling, <VAR1>
 SiblingHouseDescription |= Head to Stonecrown, north of Outlane in Mellowfields and find your sibling's house.
 
 AnnualCompetition_ThemePopup |= This year's <VAR1> theme is <VAR2>.
