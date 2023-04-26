@@ -1,6 +1,6 @@
 Nutt's Cattery: Home to Lost Fluffy Souls
 ViewingStatus|Use <status> to view Status of objects
-HoneyTip|You can collect honey if you have the right container
+HoneyTip|Vous pouvez récolter du miel si vous avez le bon récipient
 BucketTip|Use a Tin Bucket to get water.  Don't use the poo bucket!
 BucketFuture|Use a Wooden Bucket to scoop up the poo.
 CropStatus|Look at the status of crops to see if they need watering or are ripe

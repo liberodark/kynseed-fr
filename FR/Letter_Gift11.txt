@@ -1,10 +1,6 @@
-To <PlayerName>
-I woke up this morning to find the rays of Solnir licking my face with lemony light.
-The feeling warmed my soul, and I instantly thought of you and our even warmer friendship.
-I just had to send you something to thank you for being there, wherever you are.
-Your dear friend,  
+A <PlayerName>
+Je me suis réveillé ce matin pour trouver les rayons de Solnir léchant mon visage avec une lumière citronnée.
+Le sentiment a réchauffé mon ame et j'ai instantanément pensé a vous et à notre amitié encore plus chaleureuse.
+Je devais juste vous envoyer quelque chose pour vous remercier d'etre là, où que vous soyez.
+Votre cher ami,
 <SenderName>
-
-
-
-
