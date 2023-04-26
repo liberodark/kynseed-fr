@@ -7,7 +7,7 @@
 ### Install :
 
 - Version Compatible : 1.0.3.9985 (22/03/2023)
-- [![Download](https://github.com/liberodark/kynseed-fr/releases/download/0.0.1/FR.zip)](https://github.com/liberodark/kynseed-fr/releases/download/0.0.1/FR.zip)
+- [![Download](https://github.com/liberodark/kynseed-fr/releases/download/0.0.2/FR.zip)](https://github.com/liberodark/kynseed-fr/releases/download/0.0.2/FR.zip)
 - Extract FR.zip
 
 ##### For Windows

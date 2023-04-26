@@ -1,4 +1,4 @@
-Hello
-Please accept this gift, because I feel it resembles you and looking at it makes me laugh.
-I hope it does the same for you. 
+Bonjour
+Veuillez accepter ce cadeau, car je sens qu'il vous ressemble et le regarder me fait rire.
+J'espère qu'il en sera de meme pour vous.
 <SenderName>

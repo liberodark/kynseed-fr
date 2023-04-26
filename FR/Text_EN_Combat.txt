@@ -1,6 +1,6 @@
-WishingWellReward_SlightHeal |= This prize is appealing; it's extra healing!
+WishingWellReward_SlightHeal |= Ce prix est attrayant; c'est une guérison supérieur!
 WishingWellReward_FlamePhial |= Heat things up with this handy flame phial.
-WishingWellReward_HealingCream |= This prize is appealing; it's extra healing!
+WishingWellReward_HealingCream |= Ce prix est attrayant; c'est une guérison supérieur!
 WishingWellReward_ToughnessPowder |= This prize is not for softies. It's toughness powder!
 WishingWellReward_StinkBomb |= Create a stink with this crazy gas bottle.
 WishingWellReward_TriggerRain |= It never rains but it pours, they say!

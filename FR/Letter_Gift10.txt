@@ -1,8 +1,5 @@
-Dear <PlayerName>
-I found an interesting use for this item. I washed it afterwards and thought you should try it.
-I think friends should be able to share things, don't you?
-Your pal,
+Cher <PlayerName>
+J'ai trouvé une utilisation intéressante pour cet item. Je l'ai lavé après et j'ai pensé que tu devrais l'essayer.
+Je pense que les amis devraient pouvoir partager des choses, pas toi?
+Ton pote,
 <SenderName>
-
-
-
