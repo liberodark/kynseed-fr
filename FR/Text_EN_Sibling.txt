@@ -1,4 +1,4 @@
-SiblingTaskIntro |= Well, that's one way to get out of doing any work. Why didn't I think of that?
+SiblingPreNaming |= Hello lazybones! I have been looking all over for you. Dreaming by the stream eh? You were calling out my name, which is how I found you. Am just glad you think of me!
 SiblingTaskIntro |= Weird dreams, huh?  You should hear about the one I had last night. But not now. We're supposed to be doing our chores, remember?
 SiblingTaskIntro |= And don't pretend you lost your Journal, lazybones, because I have it right here!
 SiblingOnApproach_PAD |= Come talk to me. <holdInteractGamepad> <interact> and select Talk.
@@ -35,3 +35,5 @@ SiblingGoodbye |= I used to think this is why you ran away, because of what happ
 SiblingGoodbye |= At first I hated Uncle Bill for letting Aunt Rose die like this, but they both really believed in this stuff. Everybody does. So I don't know. Maybe they're right.
 SiblingGoodbye |= What I'm trying to say is... I hated you for a while too. For leaving me. But maybe that's the way it was supposed to be. So... I'm glad you're back and that you're alright. But I've got my own life now. Finally exploring the rest of Quill like I always wanted. Who knows? Maybe we'll run into each other again one day. Goodbye.
 SiblingLeaveMe |= I am going to stay here a while and just clear my head. Please leave me be
+SiblingRenameRetro |= I do wish you would stop calling me sibling. I do have a name you know!
+SiblingRenameRetroComplete |= Ah, that's better. Thank you, sibling. *winks*

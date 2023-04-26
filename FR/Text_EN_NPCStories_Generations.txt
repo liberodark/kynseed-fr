@@ -273,10 +273,10 @@ GEN_NPC_STORY_VALE_LIKE_2_GENERIC |= There are so many interesting events, festi
 GEN_NPC_STORY_VALE_LIKE_2_QUIRKY |= Say, have you heard anything about the Spirit Walk? I've read some texts about it and some locals swear it happens, but it just doesn't seem real. I bet it is a sight to not behold.
 GEN_NPC_STORY_VALE_LIKE_2_JOVIAL |= I hear there is a big get-together in Autumn when the whole village comes out to dance together. That sounds great fun. We can dance if we want to, we can leave our friends behind. Cause your friends don't dance, and if they don't dance, well, they're no friends of mine. Although we must obey the safety instructions and not wear hats.
 
-GEN_NPC_STORY_VALE_START_COMPLAINER_1 |= Do you think like I do, that the Knockers are selfish? Why do they have to have all the ore? What do they do with it?! I tell you what, you should teach them a lesson and go get some ore from that Deep Mine they populate. That would be a kick in the eye for them!
-GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_1 |= Harvest 5 pieces of Ore from a mine with Knockers
-GEN_NPC_STORY_VALE_TASK_DESC_COMPLAINER_1 |= Collect 5 pieces of any ore type from any mine that contains Knockers, which are the creatures of the mines.
-GEN_NPC_STORY_VALE_END_COMPLAINER_1 |= You did it? You went into the deep mines, evaded those selfish fiends and took the ore! Did you see them? Did they chase you? Such excitement!
+GEN_NPC_STORY_VALE_START_COMPLAINER_1 |= Do you think like I do, that the Knockers are selfish? Why do they have to have all the ore? What do they do with it?! Stops me going to get myself some. All I need is a brave and *cough* gullibe *cough* soul to help me get my hands on some ore.
+GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_1 |= Gift 5 pieces of any ore
+GEN_NPC_STORY_VALE_TASK_DESC_COMPLAINER_1 |= Collect 5 pieces of any ore type and gift it to the task giver.
+GEN_NPC_STORY_VALE_END_COMPLAINER_1 |= Oh! You got them? These will do I suppose. It's funny how such an ugly thing can be made into something beautiful.
 
 GEN_NPC_STORY_VALE_START_COMPLAINER_2 |= You know what. I'm just not going in the mines with those Knockers. I'm not taking any chances. I'll have to find some other way to craft the tools I need. I Don't suppose you could give me a hand to get some stock started?
 GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_2 |= Gift {FULLNAME} 3 Shovels
@@ -445,7 +445,7 @@ GEN_NPC_STORY_MELLOWFIELDS_END_COMPLAINER_2 |= I just had the shopping experienc
 
 GEN_NPC_STORY_MELLOWFIELDS_START_JOVIAL_1 |= You look like someone who can bust a few hips. I mean, moves. Why don't you join in the Blossom Dance in FineFayre on the 2nd day of Spring? Be like Blossom!
 GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_JOVIAL_1 |= Take part in the Blossom Dance
-GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_JOVIAL_1 |= Go to FineFayre on Day 2 of Spring and take part in the Maypole Dance by entering the marked area.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_JOVIAL_1 |= Go to FineFayre on Day 2 of Spring and take part in the Blossom Dance by entering the marked area.
 GEN_NPC_STORY_MELLOWFIELDS_END_JOVIAL_1 |= Well, you certainly blossomed as a dancer! You were on the floor for most of it. Thanks for turning up though.
 
 GEN_NPC_STORY_MELLOWFIELDS_START_JOVIAL_2 |= Let's do something fun together! How about we go watch the sheep racing when it is on? I love a bit of a bet on the baa-baa's.
