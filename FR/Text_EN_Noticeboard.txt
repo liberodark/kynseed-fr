@@ -162,17 +162,17 @@ Noticeboard_KillEliteRequest_ForestHag_Desc |= Kill an elite forest hag in Simpl
 
 Noticeboard_GiveTraitRequest1_Name |= Apply {TRAITNAME} to {FULLNAME}
 Noticeboard_GiveTraitRequest1_Pinned |= Gift any item that has the {TRAITNAME} Trait to {FULLNAME}
-Noticeboard_GiveTraitRequest1_ShortDesc |= Gift an item with {TRAITNAME}
+Noticeboard_GiveTraitRequest1_ShortDesc |= Gift a consumable item with {TRAITNAME}
 Noticeboard_GiveTraitRequest1_Desc |= Gift any item that has the {TRAITNAME} Trait to {FULLNAME}.
 Noticeboard_GiveTraitRequest1_Favour |= I am a bit annoyed with someone. I would love it if they had a dose of {TRAITNAME}. I am too big a chicken though to do it, so could you?
 
 Noticeboard_GiveTraitRequest3_Name |= Apply {TRAITNAME}
 Noticeboard_GiveTraitRequest3_Pinned |= Apply {TRAITNAME} to 3 people
 Noticeboard_GiveTraitRequest3_ShortDesc |= Apply {TRAITNAME} to 3 people.
-Noticeboard_GiveTraitRequest3_Desc |= Gift any item that has the {TRAITNAME} Trait to:\n
-Noticeboard_GiveTraitRequest3_Desc |= - {FULLNAME_1}\n
-Noticeboard_GiveTraitRequest3_Desc |= - {FULLNAME_2}\n
-Noticeboard_GiveTraitRequest3_Desc |= - {FULLNAME_3}
+Noticeboard_GiveTraitRequest3_Desc |= Gift any consumable item that has the {TRAITNAME} Trait to:\n
+Noticeboard_GiveTraitRequest3_Desc |= {FULLNAME_1}\n
+Noticeboard_GiveTraitRequest3_Desc |= {FULLNAME_2}\n
+Noticeboard_GiveTraitRequest3_Desc |= {FULLNAME_3}
 Noticeboard_GiveTraitRequest3_Favour |= I am feeling particularly mischievous today. Could you give three people {TRAITNAME}? I would do it myself but I get the feeling you'd enjoy it more.
 
 Noticeboard_CommonFruitOrVegRequest_Name |= I need my 5 a day!
