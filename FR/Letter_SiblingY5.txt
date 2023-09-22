@@ -1,13 +1,13 @@
-Dear <PlayerName>
-It has been a while, and I am sorry for not getting in touch sooner. I was gazing out of my window and saw a cloud that looked like you. It made me smile, and I knew that was the time to pick up my quill.
-I took bitterness and sorrow with me the day you returned, and they stayed buried deep as a dagger.
-The northern air has since cleared my mind, and I look back on those times with great regret.
-There was anger and upset, but know that I still love you and care about you.
-I have been building my life up here. I have a cosy home, a beautiful white cat called Cloud, and I grow wonderful vegetables that I sell to wanderers who pass my door.
-Please visit me. There is something I need to discuss with you. I discovered something that I feel you need to know about it. So come to my house in Stonecrown, north of Mellowfields.
-I am sure I will be proud of you even if you have accomplished nothing, but I hope you are making a name for yourself. I prefer being alone, away from the noise of the world. I write my books, I cook, I stroke my cat, make my offerings and I look at the stars at night and see the past in their glimmering light.
-Stay safe, lazybones and come see me soon.
-Love always
+Cher <PlayerName>
+Ça fait un moment, et je suis désolé de ne pas être en contact plus tôt. Je regardais par la fenêtre et j'ai vu un nuage qui vous ressemblait. Ça m'a fait sourire, et je savais que c'était le moment de prendre ma quill.
+J'ai pris de l'amertume et du chagrin avec moi le jour où tu es revenu, et ils sont restés enterrés profondément comme un poignard.
+Depuis, l'air du nord m'a effacé, et je regarde ces temps-là avec un grand regret.
+Il y avait de la colère et de la colère, mais sachez que je t'aime encore et que je tiens à toi.
+J'ai bâti ma vie ici. J'ai une maison confortable, un beau chat blanc appelé Cloud, et je cultive des légumes merveilleux que je vends aux errants qui passent ma porte.
+Rendez-moi visite. Il y a quelque chose que je dois discuter avec vous. J'ai découvert quelque chose que tu dois savoir. Venez donc chez moi à Stonecrown, au nord de Mellowfields.
+Je suis sûr que je serai fier de toi même si tu n'as rien fait, mais j'espère que tu te fais un nom. Je préfère être seul, loin du bruit du monde. J'écris mes livres, je cuisine, je frappe mon chat, fais mes offrandes et je regarde les étoiles la nuit et je vois le passé dans leur lumière glissante.
+Reste en sécurité, paresseux et viens me voir bientôt.
+L'amour
 
 <SenderName>
 

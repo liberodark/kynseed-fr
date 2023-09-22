@@ -1,6 +1,6 @@
-Dear <PlayerName>
-Some advice for you this fair day.
-A watched pot eventually boils. A bird in the hand makes a terrible mess. A rolling stone is probably still alive. Lay with dogs, wake with dog breath. A problem shared is a problem halved, unless it is the runs. Bad news travels fast, and even faster on pig-back. Home isn't where the heart is. It is inside your chest.
-Think on these pearls of wisdom as you enjoy this gift.
+Cher <PlayerName>
+Quelques conseils pour vous ce jour-là.
+Un pot surveillé finit par bouillir. Un oiseau dans la main fait un terrible désordre. Une pierre roulante est toujours en vie. Allongez-vous avec des chiens, réveillez-vous avec un souffle de chien. Un problème partagé est un problème de moitié, à moins que ce soit les courses. Les mauvaises nouvelles voyagent vite, et encore plus vite sur le dos de porc. La maison n'est pas là où est le cœur. C'est dans ta poitrine.
+Pensez à ces perles de sagesse comme vous aimez ce don.
 <SenderName>
 

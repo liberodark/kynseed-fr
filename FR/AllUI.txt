@@ -1,17 +1,17 @@
 Title:Demo Intro Text
-Welcome to the Early Access version of Kynseed. This build gives you the Prologue and 1 year to play. We will be updating the game monthly with masses more content, fixes and Quality of Life improvements.
-Thank you for joining us on this adventure!
+Bienvenue dans la version Early Access de Kynseed. Cette construction vous donne le Prologue et 1 an à jouer. Nous mettrons à jour le jeu chaque mois avec des masses plus de contenu, de corrections et d'améliorations de qualité de vie.
+Merci de nous rejoindre dans cette aventure !
 Title:Demo End Test
-We hope you enjoyed your visit to The Vale. Do pay another visit when you can, as we'll be fixing and adding things into the game weekly.
-Also, we'd absolutely love to hear what you thought! We're a very accessible bunch, and you can message us personally any time on Twitter, Discord, our forums, or anywhere else you find us.
-Thank you all so much for your support. It genuinely means a lot to us. Give the links below a poke to follow Kynseed's development. See you in the community!
+Nous espérons que vous avez apprécié votre visite au Vale. Faites une autre visite quand vous pouvez, car nous allons réparer et ajouter des choses dans le jeu hebdomadaire.
+Nous aimerions aussi entendre ce que vous pensiez ! Nous sommes un groupe très accessible, et vous pouvez nous messager personnellement à tout moment sur Twitter, Discord, nos forums, ou partout où vous nous trouvez.
+Merci beaucoup pour votre soutien. Cela signifie vraiment beaucoup pour nous. Donnez les liens ci-dessous pour suivre le développement de Kynseed. On se voit dans la communauté !
 
 
 
 
 Title:Credits
 
-Created By: Charlie Edwards, Neal Whitehead
+Créé par: Charlie Edwards, Neal Whitehead
 Managing Director: Matthew Woodley
 Chairman: Sir Ian Livingstone
 
@@ -26,7 +26,7 @@ Character, Concept & Key Art: Gary J Lucken
 Environment & UI Art: Matthew Weekes
 Icon Art: Caz Hoyle
 
-Music: Harvey Carman, Keith Lewis
+Musique: Harvey Carman, Keith Lewis
 Title theme music: Russell Shaw
 Sound Effects: Nick Gregory
 Voice-over: Keith Wickham
@@ -34,25 +34,25 @@ Voice-over: Keith Wickham
 QA Manager: Clare Wright
 Community Manager: Fawn Rowe
 
-Extra special thanks: 
+Remerciements Spéciaux:
 
-Sarah Morris (Pre-production concept art), Mike McCarthy (Pre-production concept art), Jenny Brewer (Pre-production UI concepts), Ian Faichnie, David Oxford, Deborah Saez, Georgio Ser, Lozz Logan, Alex Chapman at Sheridans & Everyone at Honest PR. 
+Sarah Morris (Pre-production concept art), Mike McCarthy (Pre-production concept art), Jenny Brewer (Pre-production UI concepts), Ian Faichnie, David Oxford, Deborah Saez, Georgio Ser, Lozz Logan, Alex Chapman à Sheridans & Chacun à Honest PR.
 
-Team thanks:
+Merci à l'équipe:
 
-Molly & Mario the cat for inspiration
-Harriet & Cecily for bug hunting
-Pott the Brounie for keeping the house tidy
+Molly & Mario le chat de l'inspiration
+Harriet & Cecily pour la chasse aux insectes
+Potte la Brounie pour garder la maison
 
-A big thanks to all the amazing people who worked at Lionhead Studios (RIP) and beyond who gave us advice, help, feedback, and encouragement!
-And finally a massive and most important thanks to our wonderful community and all those players who supported us these many years. Your sacrifice pleased the Goddesses.
+Un grand merci à tous les gens incroyables qui ont travaillé chez Lionhead Studios (RIP) et au-delà qui nous ont donné des conseils, de l'aide, des commentaires et des encouragements!
+Et enfin, grâce à notre communauté merveilleuse et à tous ces joueurs qui nous ont soutenus ces nombreuses années. Votre sacrifice a plu aux déesses.
 
-The following SFX and ambient audio are from freesound.org (CC 3.0 attribution license for the below):
+Le SFX suivant et l'audio ambiant sont de freesound.org (permis d'attribution CC 3.0 pour le ci-dessous):
 
 backpack https://www.freesound.org/people/EverHeat/sounds/205522/ - EverHeat
 uthud https://www.freesound.org/people/rettalo/sounds/52319 - rettalo
 
-Other sound effects are from Soundsnap, Nick Gregory, Keith Lewis or public domain.
+D'autres effets sonores proviennent de Soundsnap, Nick Gregory, Keith Lewis ou du domaine public.
 
 
 
@@ -63,6 +63,6 @@ Bacon ipsum.
 
 TODO:
 https://github.com/TheBoneJarmer/TiledCS
-License and copyright notice
+Licence et droit d'auteur
 
 

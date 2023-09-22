@@ -1,14 +1,14 @@
-Dear <PlayerName>,
+Cher <PlayerName>,
 
-You have been cordially invited to participate in Quill's annual <CompetitionName>.
+Vous avez été cordialement invité à participer à la <CompetitionName> annuelle de Quill.
 
-Please feel free to bring along your best Recipes to compete against the very best of the best.
+S'il vous plaît n'hésitez pas à apporter vos meilleures recettes pour rivaliser avec le meilleur des meilleurs.
 
-And possibly the worst.
+Et peut-être le pire.
 
-Please make your way to <CompetitionLocation> on <CompetitionDate> for more exciting details!
-Be sure to arrive early, as you will want time to prepare your array of goods after the announcement of this year's theme.
+S'il vous plaît faire votre chemin pour <CompetitionLocation> sur <CompetitionDate> pour plus de détails passionnants!
+Assurez-vous d'arriver tôt, car vous aurez le temps de préparer votre gamme de marchandises après l'annonce du thème de cette année.
 
-Good luck, and I hope to see you there.
+Bonne chance, et j'espère te voir là-bas.
 
 Master of Events

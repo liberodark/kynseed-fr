@@ -1,6 +1,6 @@
-Dear <PlayerName>,
+Cher <PlayerName>,
 
-I must admit I am a bit shy about this subject, as it is very sensitive. I am basically just wanting to get it off my chest. It is so difficult to express, but I think I am in love with Lucy Arrows. I know she doesn't have an interest in me, though. I am but a lowly woodsman at heart. So I am at a quandary of what to do about it. I hope you do not mind me writing. Please keep it to yourself.
+Je dois admettre que je suis un peu timide à propos de ce sujet, car il est très sensible. Je veux juste l'enlever de ma poitrine. Il est si difficile d'exprimer, mais je pense que je suis amoureux de Lucy Arrows. Je sais qu'elle n'a pas d'intérêt pour moi. Je ne suis qu'un petit homme de bois. Donc je suis à un moment difficile de quoi faire. J'espère que ça ne te dérange pas d'écrire. S'il vous plaît, gardez-le vous-même.
 
-Your friend,
+Votre ami,
 <SenderName>
